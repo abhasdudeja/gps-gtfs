@@ -1,0 +1,23 @@
+trans_id,lang,translation
+Aluva,ml,ആലുവ
+Pulinchudu,ml,പുളിഞ്ചോട്
+CompanyPady,ml,കമ്പനിപ്പടി
+Ambattukavu,ml,അമ്പാട്ടുകാവ്
+Muttom,ml,മുട്ടം
+Kalamassery,ml,കളമശ്ശേരി
+Cusat,ml,കൊച്ചിൻ യൂണിവേഴ്സിറ്റി
+Pathadipalam,ml,പത്തടിപ്പോലം
+Edapally Jn.,ml,ഇടപ്പള്ളി
+Changampuzha Park,ml,ചങ്ങമ്പുഴ പാർക്ക്
+Palarivattom,ml,പാലാരിവട്ടം
+JLN Stadium,ml,ജെ എൽ എൻ സ്റ്റേഡിയം
+Kaloor,ml,കലൂർ
+Town Hall,ml,ടൌൺ ഹാൾ
+MG Road,ml,എം.ജി റോഡ്
+Maharaja College,ml,മഹാരാജാസ് കോളേജ്
+Ernakulam South,ml,എറണാകുളം  സൗത്ത് 
+Kadavanthara,ml,കടവന്ത്ര
+Elamkulam,ml,ഇളംകുളം 
+Vyttila,ml,വൈറ്റില
+Thaikoodam,ml,തൈക്കൂടം
+Kochi Metro,ml,കൊച്ചി മെട്രോ

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_timezone,agency_url,agency_lang,agency_phone,agency_fare_url
+KMRL,Kochi Metro,Asia/Kolkata,http://www.kochimetro.org/,en,1800 425 0355,https://kochimetro.org/fare-chart/
