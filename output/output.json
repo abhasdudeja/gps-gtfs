@@ -5,11 +5,11 @@
             "blockId": "B1",
             "dh_st_time": 363,
             "startTime": 363,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 874,
+            "dh_end_time": 874,
             "lon_start": 153.14995,
             "lat_start": -27.42608,
-            "distance": 364.2001359864913,
+            "distance": 1829.6111802591956,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -494,16 +494,16 @@
             "blockId": "B2",
             "dh_st_time": 375,
             "startTime": 375,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 879,
+            "dh_end_time": 879,
             "lon_start": 153.15007,
             "lat_start": -27.426,
-            "distance": 425.88046371018817,
+            "distance": 3073.0714013602746,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 10,
+                    "id": 0,
                     "trip_id": "T_11",
                     "type": 3,
                     "start_time": 375,
@@ -542,7 +542,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 11,
+                    "id": 1,
                     "trip_id": "T_12",
                     "type": 3,
                     "start_time": 448,
@@ -581,7 +581,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 12,
+                    "id": 2,
                     "trip_id": "T_13",
                     "type": 3,
                     "start_time": 487,
@@ -620,7 +620,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 13,
+                    "id": 3,
                     "trip_id": "T_14",
                     "type": 3,
                     "start_time": 500,
@@ -659,7 +659,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 14,
+                    "id": 4,
                     "trip_id": "T_15",
                     "type": 3,
                     "start_time": 555,
@@ -698,7 +698,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 15,
+                    "id": 5,
                     "trip_id": "T_16",
                     "type": 3,
                     "start_time": 596,
@@ -737,7 +737,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 16,
+                    "id": 6,
                     "trip_id": "T_17",
                     "type": 3,
                     "start_time": 655,
@@ -776,7 +776,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 17,
+                    "id": 7,
                     "trip_id": "T_18",
                     "type": 3,
                     "start_time": 724,
@@ -815,7 +815,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 18,
+                    "id": 8,
                     "trip_id": "T_19",
                     "type": 3,
                     "start_time": 747,
@@ -854,7 +854,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 19,
+                    "id": 9,
                     "trip_id": "T_20",
                     "type": 3,
                     "start_time": 825,
@@ -893,7 +893,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 20,
+                    "id": 10,
                     "trip_id": "T_21",
                     "type": 3,
                     "start_time": 866,
@@ -932,7 +932,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 21,
+                    "id": 11,
                     "trip_id": "T_22",
                     "type": 3,
                     "start_time": 842,
@@ -1077,16 +1077,16 @@
             "blockId": "B3",
             "dh_st_time": 419,
             "startTime": 419,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 1052,
+            "dh_end_time": 1052,
             "lon_start": 153.15005,
             "lat_start": -27.42605,
-            "distance": 363.11090167091345,
+            "distance": 5530.779089693967,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 22,
+                    "id": 0,
                     "trip_id": "T_23",
                     "type": 3,
                     "start_time": 419,
@@ -1125,7 +1125,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 23,
+                    "id": 1,
                     "trip_id": "T_24",
                     "type": 3,
                     "start_time": 530,
@@ -1164,7 +1164,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 24,
+                    "id": 2,
                     "trip_id": "T_25",
                     "type": 3,
                     "start_time": 569,
@@ -1203,7 +1203,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 25,
+                    "id": 3,
                     "trip_id": "T_26",
                     "type": 3,
                     "start_time": 605,
@@ -1242,7 +1242,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 26,
+                    "id": 4,
                     "trip_id": "T_27",
                     "type": 3,
                     "start_time": 671,
@@ -1281,7 +1281,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 27,
+                    "id": 5,
                     "trip_id": "T_28",
                     "type": 3,
                     "start_time": 738,
@@ -1320,7 +1320,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 28,
+                    "id": 6,
                     "trip_id": "T_29",
                     "type": 3,
                     "start_time": 786,
@@ -1359,7 +1359,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 29,
+                    "id": 7,
                     "trip_id": "T_30",
                     "type": 3,
                     "start_time": 808,
@@ -1398,7 +1398,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 30,
+                    "id": 8,
                     "trip_id": "T_31",
                     "type": 3,
                     "start_time": 392,
@@ -1437,7 +1437,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 31,
+                    "id": 9,
                     "trip_id": "T_32",
                     "type": 3,
                     "start_time": 445,
@@ -1476,7 +1476,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 32,
+                    "id": 10,
                     "trip_id": "T_33",
                     "type": 3,
                     "start_time": 573,
@@ -1515,7 +1515,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 33,
+                    "id": 11,
                     "trip_id": "T_34",
                     "type": 3,
                     "start_time": 608,
@@ -1554,7 +1554,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 34,
+                    "id": 12,
                     "trip_id": "T_35",
                     "type": 3,
                     "start_time": 639,
@@ -1593,7 +1593,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 35,
+                    "id": 13,
                     "trip_id": "T_36",
                     "type": 3,
                     "start_time": 663,
@@ -1632,7 +1632,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 36,
+                    "id": 14,
                     "trip_id": "T_37",
                     "type": 3,
                     "start_time": 705,
@@ -1671,7 +1671,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 37,
+                    "id": 15,
                     "trip_id": "T_38",
                     "type": 3,
                     "start_time": 801,
@@ -1710,7 +1710,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 38,
+                    "id": 16,
                     "trip_id": "T_39",
                     "type": 3,
                     "start_time": 848,
@@ -1749,7 +1749,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 39,
+                    "id": 17,
                     "trip_id": "T_40",
                     "type": 3,
                     "start_time": 905,
@@ -1788,7 +1788,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 40,
+                    "id": 18,
                     "trip_id": "T_41",
                     "type": 3,
                     "start_time": 922,
@@ -1827,7 +1827,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 41,
+                    "id": 19,
                     "trip_id": "T_42",
                     "type": 3,
                     "start_time": 981,
@@ -2036,16 +2036,16 @@
             "blockId": "B4",
             "dh_st_time": 1184,
             "startTime": 1184,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 944,
+            "dh_end_time": 944,
             "lon_start": 153.15002,
             "lat_start": -27.42607,
-            "distance": 76.62814095064168,
+            "distance": 3487.6281224347645,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 42,
+                    "id": 0,
                     "trip_id": "T_43",
                     "type": 3,
                     "start_time": 1184,
@@ -2084,7 +2084,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 43,
+                    "id": 1,
                     "trip_id": "T_44",
                     "type": 3,
                     "start_time": 1188,
@@ -2123,7 +2123,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 44,
+                    "id": 2,
                     "trip_id": "T_45",
                     "type": 3,
                     "start_time": 352,
@@ -2162,7 +2162,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 45,
+                    "id": 3,
                     "trip_id": "T_46",
                     "type": 3,
                     "start_time": 448,
@@ -2201,7 +2201,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 46,
+                    "id": 4,
                     "trip_id": "T_47",
                     "type": 3,
                     "start_time": 431,
@@ -2240,7 +2240,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 47,
+                    "id": 5,
                     "trip_id": "T_48",
                     "type": 3,
                     "start_time": 506,
@@ -2279,7 +2279,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 48,
+                    "id": 6,
                     "trip_id": "T_49",
                     "type": 3,
                     "start_time": 532,
@@ -2318,7 +2318,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 49,
+                    "id": 7,
                     "trip_id": "T_50",
                     "type": 3,
                     "start_time": 577,
@@ -2357,7 +2357,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 50,
+                    "id": 8,
                     "trip_id": "T_51",
                     "type": 3,
                     "start_time": 624,
@@ -2396,7 +2396,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 51,
+                    "id": 9,
                     "trip_id": "T_52",
                     "type": 3,
                     "start_time": 653,
@@ -2435,7 +2435,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 52,
+                    "id": 10,
                     "trip_id": "T_53",
                     "type": 3,
                     "start_time": 722,
@@ -2474,7 +2474,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 53,
+                    "id": 11,
                     "trip_id": "T_54",
                     "type": 3,
                     "start_time": 756,
@@ -2513,7 +2513,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 54,
+                    "id": 12,
                     "trip_id": "T_55",
                     "type": 3,
                     "start_time": 779,
@@ -2552,7 +2552,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 55,
+                    "id": 13,
                     "trip_id": "T_56",
                     "type": 3,
                     "start_time": 818,
@@ -2591,7 +2591,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 56,
+                    "id": 14,
                     "trip_id": "T_57",
                     "type": 3,
                     "start_time": 887,
@@ -2630,7 +2630,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 57,
+                    "id": 15,
                     "trip_id": "T_58",
                     "type": 3,
                     "start_time": 950,
@@ -2807,16 +2807,16 @@
             "blockId": "B5",
             "dh_st_time": 411,
             "startTime": 411,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 859,
+            "dh_end_time": 859,
             "lon_start": 153.14998,
             "lat_start": -27.42657,
-            "distance": 353.4719425817834,
+            "distance": 2880.6166191853704,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 58,
+                    "id": 0,
                     "trip_id": "T_59",
                     "type": 3,
                     "start_time": 411,
@@ -2855,7 +2855,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 59,
+                    "id": 1,
                     "trip_id": "T_60",
                     "type": 3,
                     "start_time": 514,
@@ -2894,7 +2894,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 60,
+                    "id": 2,
                     "trip_id": "T_61",
                     "type": 3,
                     "start_time": 545,
@@ -2933,7 +2933,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 61,
+                    "id": 3,
                     "trip_id": "T_62",
                     "type": 3,
                     "start_time": 561,
@@ -2972,7 +2972,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 62,
+                    "id": 4,
                     "trip_id": "T_63",
                     "type": 3,
                     "start_time": 626,
@@ -3011,7 +3011,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 63,
+                    "id": 5,
                     "trip_id": "T_64",
                     "type": 3,
                     "start_time": 623,
@@ -3050,7 +3050,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 64,
+                    "id": 6,
                     "trip_id": "T_65",
                     "type": 3,
                     "start_time": 707,
@@ -3089,7 +3089,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 65,
+                    "id": 7,
                     "trip_id": "T_66",
                     "type": 3,
                     "start_time": 780,
@@ -3128,7 +3128,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 66,
+                    "id": 8,
                     "trip_id": "T_67",
                     "type": 3,
                     "start_time": 771,
@@ -3249,16 +3249,16 @@
             "blockId": "B6",
             "dh_st_time": 392,
             "startTime": 392,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 876,
+            "dh_end_time": 876,
             "lon_start": 153.15008,
             "lat_start": -27.42603,
-            "distance": 368.16927376992845,
+            "distance": 5211.6994593861555,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 67,
+                    "id": 0,
                     "trip_id": "T_68",
                     "type": 3,
                     "start_time": 392,
@@ -3297,7 +3297,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 68,
+                    "id": 1,
                     "trip_id": "T_69",
                     "type": 3,
                     "start_time": 481,
@@ -3336,7 +3336,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 69,
+                    "id": 2,
                     "trip_id": "T_70",
                     "type": 3,
                     "start_time": 533,
@@ -3375,7 +3375,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 70,
+                    "id": 3,
                     "trip_id": "T_71",
                     "type": 3,
                     "start_time": 581,
@@ -3414,7 +3414,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 71,
+                    "id": 4,
                     "trip_id": "T_72",
                     "type": 3,
                     "start_time": 666,
@@ -3453,7 +3453,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 72,
+                    "id": 5,
                     "trip_id": "T_73",
                     "type": 3,
                     "start_time": 690,
@@ -3492,7 +3492,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 73,
+                    "id": 6,
                     "trip_id": "T_74",
                     "type": 3,
                     "start_time": 682,
@@ -3531,7 +3531,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 74,
+                    "id": 7,
                     "trip_id": "T_75",
                     "type": 3,
                     "start_time": 774,
@@ -3570,7 +3570,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 75,
+                    "id": 8,
                     "trip_id": "T_76",
                     "type": 3,
                     "start_time": 757,
@@ -3609,7 +3609,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 76,
+                    "id": 9,
                     "trip_id": "T_77",
                     "type": 3,
                     "start_time": 923,
@@ -3648,7 +3648,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 77,
+                    "id": 10,
                     "trip_id": "T_78",
                     "type": 3,
                     "start_time": 928,
@@ -3687,7 +3687,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 78,
+                    "id": 11,
                     "trip_id": "T_79",
                     "type": 3,
                     "start_time": 948,
@@ -3726,7 +3726,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 79,
+                    "id": 12,
                     "trip_id": "T_80",
                     "type": 3,
                     "start_time": 234,
@@ -3765,7 +3765,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 80,
+                    "id": 13,
                     "trip_id": "T_81",
                     "type": 3,
                     "start_time": 400,
@@ -3804,7 +3804,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 81,
+                    "id": 14,
                     "trip_id": "T_82",
                     "type": 3,
                     "start_time": 497,
@@ -3843,7 +3843,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 82,
+                    "id": 15,
                     "trip_id": "T_83",
                     "type": 3,
                     "start_time": 496,
@@ -3882,7 +3882,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 83,
+                    "id": 16,
                     "trip_id": "T_84",
                     "type": 3,
                     "start_time": 610,
@@ -3921,7 +3921,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 84,
+                    "id": 17,
                     "trip_id": "T_85",
                     "type": 3,
                     "start_time": 680,
@@ -3960,7 +3960,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 85,
+                    "id": 18,
                     "trip_id": "T_86",
                     "type": 3,
                     "start_time": 650,
@@ -3999,7 +3999,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 86,
+                    "id": 19,
                     "trip_id": "T_87",
                     "type": 3,
                     "start_time": 695,
@@ -4038,7 +4038,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 87,
+                    "id": 20,
                     "trip_id": "T_88",
                     "type": 3,
                     "start_time": 705,
@@ -4077,7 +4077,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 88,
+                    "id": 21,
                     "trip_id": "T_89",
                     "type": 3,
                     "start_time": 747,
@@ -4116,7 +4116,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 89,
+                    "id": 22,
                     "trip_id": "T_90",
                     "type": 3,
                     "start_time": 788,
@@ -4155,7 +4155,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 90,
+                    "id": 23,
                     "trip_id": "T_91",
                     "type": 3,
                     "start_time": 846,
@@ -4194,7 +4194,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 91,
+                    "id": 24,
                     "trip_id": "T_92",
                     "type": 3,
                     "start_time": 885,
@@ -4443,16 +4443,16 @@
             "blockId": "B7",
             "dh_st_time": 424,
             "startTime": 424,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 821,
+            "dh_end_time": 821,
             "lon_start": 153.15008,
             "lat_start": -27.42603,
-            "distance": 361.31482413737365,
+            "distance": 1751.9869447378137,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 92,
+                    "id": 0,
                     "trip_id": "T_93",
                     "type": 3,
                     "start_time": 424,
@@ -4491,7 +4491,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 93,
+                    "id": 1,
                     "trip_id": "T_94",
                     "type": 3,
                     "start_time": 469,
@@ -4530,7 +4530,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 94,
+                    "id": 2,
                     "trip_id": "T_95",
                     "type": 3,
                     "start_time": 549,
@@ -4569,7 +4569,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 95,
+                    "id": 3,
                     "trip_id": "T_96",
                     "type": 3,
                     "start_time": 628,
@@ -4608,7 +4608,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 96,
+                    "id": 4,
                     "trip_id": "T_97",
                     "type": 3,
                     "start_time": 687,
@@ -4647,7 +4647,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 97,
+                    "id": 5,
                     "trip_id": "T_98",
                     "type": 3,
                     "start_time": 676,
@@ -4686,7 +4686,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 98,
+                    "id": 6,
                     "trip_id": "T_99",
                     "type": 3,
                     "start_time": 695,
@@ -4725,7 +4725,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 99,
+                    "id": 7,
                     "trip_id": "T_100",
                     "type": 3,
                     "start_time": 771,
@@ -4764,7 +4764,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 100,
+                    "id": 8,
                     "trip_id": "T_101",
                     "type": 3,
                     "start_time": 804,
@@ -4885,16 +4885,16 @@
             "blockId": "B8",
             "dh_st_time": 368,
             "startTime": 368,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 788,
+            "dh_end_time": 788,
             "lon_start": 153.15007,
             "lat_start": -27.42597,
-            "distance": 352.3404110721395,
+            "distance": 4455.94641677363,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 101,
+                    "id": 0,
                     "trip_id": "T_102",
                     "type": 3,
                     "start_time": 368,
@@ -4933,7 +4933,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 102,
+                    "id": 1,
                     "trip_id": "T_103",
                     "type": 3,
                     "start_time": 403,
@@ -4972,7 +4972,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 103,
+                    "id": 2,
                     "trip_id": "T_104",
                     "type": 3,
                     "start_time": 421,
@@ -5011,7 +5011,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 104,
+                    "id": 3,
                     "trip_id": "T_105",
                     "type": 3,
                     "start_time": 501,
@@ -5050,7 +5050,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 105,
+                    "id": 4,
                     "trip_id": "T_106",
                     "type": 3,
                     "start_time": 549,
@@ -5089,7 +5089,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 106,
+                    "id": 5,
                     "trip_id": "T_107",
                     "type": 3,
                     "start_time": 567,
@@ -5128,7 +5128,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 107,
+                    "id": 6,
                     "trip_id": "T_108",
                     "type": 3,
                     "start_time": 627,
@@ -5167,7 +5167,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 108,
+                    "id": 7,
                     "trip_id": "T_109",
                     "type": 3,
                     "start_time": 688,
@@ -5206,7 +5206,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 109,
+                    "id": 8,
                     "trip_id": "T_110",
                     "type": 3,
                     "start_time": 723,
@@ -5245,7 +5245,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 110,
+                    "id": 9,
                     "trip_id": "T_111",
                     "type": 3,
                     "start_time": 948,
@@ -5284,7 +5284,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 111,
+                    "id": 10,
                     "trip_id": "T_112",
                     "type": 3,
                     "start_time": 187,
@@ -5323,7 +5323,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 112,
+                    "id": 11,
                     "trip_id": "T_113",
                     "type": 3,
                     "start_time": 393,
@@ -5362,7 +5362,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 113,
+                    "id": 12,
                     "trip_id": "T_114",
                     "type": 3,
                     "start_time": 488,
@@ -5401,7 +5401,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 114,
+                    "id": 13,
                     "trip_id": "T_115",
                     "type": 3,
                     "start_time": 524,
@@ -5440,7 +5440,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 115,
+                    "id": 14,
                     "trip_id": "T_116",
                     "type": 3,
                     "start_time": 560,
@@ -5479,7 +5479,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 116,
+                    "id": 15,
                     "trip_id": "T_117",
                     "type": 3,
                     "start_time": 548,
@@ -5518,7 +5518,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 117,
+                    "id": 16,
                     "trip_id": "T_118",
                     "type": 3,
                     "start_time": 610,
@@ -5557,7 +5557,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 118,
+                    "id": 17,
                     "trip_id": "T_119",
                     "type": 3,
                     "start_time": 648,
@@ -5596,7 +5596,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 119,
+                    "id": 18,
                     "trip_id": "T_120",
                     "type": 3,
                     "start_time": 682,
@@ -5635,7 +5635,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 120,
+                    "id": 19,
                     "trip_id": "T_121",
                     "type": 3,
                     "start_time": 742,
@@ -5674,7 +5674,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 121,
+                    "id": 20,
                     "trip_id": "T_122",
                     "type": 3,
                     "start_time": 812,
@@ -5891,16 +5891,16 @@
             "blockId": "B9",
             "dh_st_time": 1289,
             "startTime": 1289,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 864,
+            "dh_end_time": 864,
             "lon_start": 153.14998,
             "lat_start": -27.42608,
-            "distance": 75.10376274636795,
+            "distance": 1922.0873431914206,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 122,
+                    "id": 0,
                     "trip_id": "T_123",
                     "type": 3,
                     "start_time": 1289,
@@ -5939,7 +5939,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 123,
+                    "id": 1,
                     "trip_id": "T_124",
                     "type": 3,
                     "start_time": 1259,
@@ -5978,7 +5978,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 124,
+                    "id": 2,
                     "trip_id": "T_125",
                     "type": 3,
                     "start_time": 378,
@@ -6017,7 +6017,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 125,
+                    "id": 3,
                     "trip_id": "T_126",
                     "type": 3,
                     "start_time": 464,
@@ -6056,7 +6056,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 126,
+                    "id": 4,
                     "trip_id": "T_127",
                     "type": 3,
                     "start_time": 495,
@@ -6095,7 +6095,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 127,
+                    "id": 5,
                     "trip_id": "T_128",
                     "type": 3,
                     "start_time": 574,
@@ -6134,7 +6134,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 128,
+                    "id": 6,
                     "trip_id": "T_129",
                     "type": 3,
                     "start_time": 618,
@@ -6173,7 +6173,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 129,
+                    "id": 7,
                     "trip_id": "T_130",
                     "type": 3,
                     "start_time": 672,
@@ -6212,7 +6212,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 130,
+                    "id": 8,
                     "trip_id": "T_131",
                     "type": 3,
                     "start_time": 686,
@@ -6251,7 +6251,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 131,
+                    "id": 9,
                     "trip_id": "T_132",
                     "type": 3,
                     "start_time": 758,
@@ -6290,7 +6290,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 132,
+                    "id": 10,
                     "trip_id": "T_133",
                     "type": 3,
                     "start_time": 812,
@@ -6427,16 +6427,16 @@
             "blockId": "B10",
             "dh_st_time": 300,
             "startTime": 300,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 669,
+            "dh_end_time": 669,
             "lon_start": 153.1501,
             "lat_start": -27.42603,
-            "distance": 351.73178445349185,
+            "distance": 1655.050574323442,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 133,
+                    "id": 0,
                     "trip_id": "T_134",
                     "type": 3,
                     "start_time": 300,
@@ -6475,7 +6475,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 134,
+                    "id": 1,
                     "trip_id": "T_135",
                     "type": 3,
                     "start_time": 398,
@@ -6514,7 +6514,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 135,
+                    "id": 2,
                     "trip_id": "T_136",
                     "type": 3,
                     "start_time": 380,
@@ -6553,7 +6553,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 136,
+                    "id": 3,
                     "trip_id": "T_137",
                     "type": 3,
                     "start_time": 524,
@@ -6592,7 +6592,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 137,
+                    "id": 4,
                     "trip_id": "T_138",
                     "type": 3,
                     "start_time": 602,
@@ -6631,7 +6631,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 138,
+                    "id": 5,
                     "trip_id": "T_139",
                     "type": 3,
                     "start_time": 636,
@@ -6670,7 +6670,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 139,
+                    "id": 6,
                     "trip_id": "T_140",
                     "type": 3,
                     "start_time": 608,
@@ -6709,7 +6709,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 140,
+                    "id": 7,
                     "trip_id": "T_141",
                     "type": 3,
                     "start_time": 656,
@@ -6822,16 +6822,16 @@
             "blockId": "B11",
             "dh_st_time": 1164,
             "startTime": 1164,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 1209,
+            "dh_end_time": 1209,
             "lon_start": 153.15,
             "lat_start": -27.42605,
-            "distance": 74.9659710146351,
+            "distance": 148.23590888942812,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 141,
+                    "id": 0,
                     "trip_id": "T_142",
                     "type": 3,
                     "start_time": 1164,
@@ -6870,7 +6870,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 142,
+                    "id": 1,
                     "trip_id": "T_143",
                     "type": 3,
                     "start_time": 1175,
@@ -6935,16 +6935,16 @@
             "blockId": "B12",
             "dh_st_time": 385,
             "startTime": 385,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 892,
+            "dh_end_time": 892,
             "lon_start": 153.15012,
             "lat_start": -27.42607,
-            "distance": 352.6538913355858,
+            "distance": 3929.03423380035,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 143,
+                    "id": 0,
                     "trip_id": "T_144",
                     "type": 3,
                     "start_time": 385,
@@ -6983,7 +6983,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 144,
+                    "id": 1,
                     "trip_id": "T_145",
                     "type": 3,
                     "start_time": 466,
@@ -7022,7 +7022,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 145,
+                    "id": 2,
                     "trip_id": "T_146",
                     "type": 3,
                     "start_time": 532,
@@ -7061,7 +7061,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 146,
+                    "id": 3,
                     "trip_id": "T_147",
                     "type": 3,
                     "start_time": 597,
@@ -7100,7 +7100,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 147,
+                    "id": 4,
                     "trip_id": "T_148",
                     "type": 3,
                     "start_time": 612,
@@ -7139,7 +7139,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 148,
+                    "id": 5,
                     "trip_id": "T_149",
                     "type": 3,
                     "start_time": 620,
@@ -7178,7 +7178,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 149,
+                    "id": 6,
                     "trip_id": "T_150",
                     "type": 3,
                     "start_time": 635,
@@ -7217,7 +7217,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 150,
+                    "id": 7,
                     "trip_id": "T_151",
                     "type": 3,
                     "start_time": 662,
@@ -7256,7 +7256,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 151,
+                    "id": 8,
                     "trip_id": "T_152",
                     "type": 3,
                     "start_time": 738,
@@ -7295,7 +7295,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 152,
+                    "id": 9,
                     "trip_id": "T_153",
                     "type": 3,
                     "start_time": 813,
@@ -7424,16 +7424,16 @@
             "blockId": "B13",
             "dh_st_time": 1159,
             "startTime": 1159,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 800,
+            "dh_end_time": 800,
             "lon_start": 153.14993,
             "lat_start": -27.42608,
-            "distance": 75.96479049261183,
+            "distance": 5990.982773345743,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 153,
+                    "id": 0,
                     "trip_id": "T_154",
                     "type": 3,
                     "start_time": 1159,
@@ -7472,7 +7472,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 154,
+                    "id": 1,
                     "trip_id": "T_155",
                     "type": 3,
                     "start_time": 1217,
@@ -7511,7 +7511,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 155,
+                    "id": 2,
                     "trip_id": "T_156",
                     "type": 3,
                     "start_time": 398,
@@ -7550,7 +7550,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 156,
+                    "id": 3,
                     "trip_id": "T_157",
                     "type": 3,
                     "start_time": 506,
@@ -7589,7 +7589,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 157,
+                    "id": 4,
                     "trip_id": "T_158",
                     "type": 3,
                     "start_time": 552,
@@ -7628,7 +7628,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 158,
+                    "id": 5,
                     "trip_id": "T_159",
                     "type": 3,
                     "start_time": 604,
@@ -7667,7 +7667,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 159,
+                    "id": 6,
                     "trip_id": "T_160",
                     "type": 3,
                     "start_time": 665,
@@ -7706,7 +7706,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 160,
+                    "id": 7,
                     "trip_id": "T_161",
                     "type": 3,
                     "start_time": 674,
@@ -7745,7 +7745,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 161,
+                    "id": 8,
                     "trip_id": "T_162",
                     "type": 3,
                     "start_time": 746,
@@ -7784,7 +7784,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 162,
+                    "id": 9,
                     "trip_id": "T_163",
                     "type": 3,
                     "start_time": 783,
@@ -7823,7 +7823,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 163,
+                    "id": 10,
                     "trip_id": "T_164",
                     "type": 3,
                     "start_time": 811,
@@ -7862,7 +7862,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 164,
+                    "id": 11,
                     "trip_id": "T_165",
                     "type": 3,
                     "start_time": 800,
@@ -7901,7 +7901,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 165,
+                    "id": 12,
                     "trip_id": "T_166",
                     "type": 3,
                     "start_time": 891,
@@ -7940,7 +7940,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 166,
+                    "id": 13,
                     "trip_id": "T_167",
                     "type": 3,
                     "start_time": 444,
@@ -7979,7 +7979,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 167,
+                    "id": 14,
                     "trip_id": "T_168",
                     "type": 3,
                     "start_time": 553,
@@ -8018,7 +8018,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 168,
+                    "id": 15,
                     "trip_id": "T_169",
                     "type": 3,
                     "start_time": 595,
@@ -8057,7 +8057,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 169,
+                    "id": 16,
                     "trip_id": "T_170",
                     "type": 3,
                     "start_time": 656,
@@ -8096,7 +8096,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 170,
+                    "id": 17,
                     "trip_id": "T_171",
                     "type": 3,
                     "start_time": 669,
@@ -8135,7 +8135,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 171,
+                    "id": 18,
                     "trip_id": "T_172",
                     "type": 3,
                     "start_time": 681,
@@ -8174,7 +8174,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 172,
+                    "id": 19,
                     "trip_id": "T_173",
                     "type": 3,
                     "start_time": 710,
@@ -8213,7 +8213,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 173,
+                    "id": 20,
                     "trip_id": "T_174",
                     "type": 3,
                     "start_time": 756,
@@ -8252,7 +8252,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 174,
+                    "id": 21,
                     "trip_id": "T_175",
                     "type": 3,
                     "start_time": 851,
@@ -8291,7 +8291,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 175,
+                    "id": 22,
                     "trip_id": "T_176",
                     "type": 3,
                     "start_time": 904,
@@ -8330,7 +8330,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 176,
+                    "id": 23,
                     "trip_id": "T_177",
                     "type": 3,
                     "start_time": 897,
@@ -8369,7 +8369,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 177,
+                    "id": 24,
                     "trip_id": "T_178",
                     "type": 3,
                     "start_time": 391,
@@ -8408,7 +8408,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 178,
+                    "id": 25,
                     "trip_id": "T_179",
                     "type": 3,
                     "start_time": 478,
@@ -8447,7 +8447,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 179,
+                    "id": 26,
                     "trip_id": "T_180",
                     "type": 3,
                     "start_time": 546,
@@ -8486,7 +8486,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 180,
+                    "id": 27,
                     "trip_id": "T_181",
                     "type": 3,
                     "start_time": 562,
@@ -8525,7 +8525,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 181,
+                    "id": 28,
                     "trip_id": "T_182",
                     "type": 3,
                     "start_time": 629,
@@ -8564,7 +8564,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 182,
+                    "id": 29,
                     "trip_id": "T_183",
                     "type": 3,
                     "start_time": 673,
@@ -8603,7 +8603,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 183,
+                    "id": 30,
                     "trip_id": "T_184",
                     "type": 3,
                     "start_time": 700,
@@ -8642,7 +8642,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 184,
+                    "id": 31,
                     "trip_id": "T_185",
                     "type": 3,
                     "start_time": 802,
@@ -8947,16 +8947,16 @@
             "blockId": "B14",
             "dh_st_time": 320,
             "startTime": 320,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 838,
+            "dh_end_time": 838,
             "lon_start": 153.15007,
             "lat_start": -27.42603,
-            "distance": 352.1977287737004,
+            "distance": 8185.094745757672,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 185,
+                    "id": 0,
                     "trip_id": "T_186",
                     "type": 3,
                     "start_time": 320,
@@ -8995,7 +8995,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 186,
+                    "id": 1,
                     "trip_id": "T_187",
                     "type": 3,
                     "start_time": 435,
@@ -9034,7 +9034,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 187,
+                    "id": 2,
                     "trip_id": "T_188",
                     "type": 3,
                     "start_time": 422,
@@ -9073,7 +9073,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 188,
+                    "id": 3,
                     "trip_id": "T_189",
                     "type": 3,
                     "start_time": 492,
@@ -9112,7 +9112,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 189,
+                    "id": 4,
                     "trip_id": "T_190",
                     "type": 3,
                     "start_time": 531,
@@ -9151,7 +9151,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 190,
+                    "id": 5,
                     "trip_id": "T_191",
                     "type": 3,
                     "start_time": 572,
@@ -9190,7 +9190,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 191,
+                    "id": 6,
                     "trip_id": "T_192",
                     "type": 3,
                     "start_time": 590,
@@ -9229,7 +9229,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 192,
+                    "id": 7,
                     "trip_id": "T_193",
                     "type": 3,
                     "start_time": 673,
@@ -9268,7 +9268,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 193,
+                    "id": 8,
                     "trip_id": "T_194",
                     "type": 3,
                     "start_time": 669,
@@ -9307,7 +9307,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 194,
+                    "id": 9,
                     "trip_id": "T_195",
                     "type": 3,
                     "start_time": 709,
@@ -9346,7 +9346,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 195,
+                    "id": 10,
                     "trip_id": "T_196",
                     "type": 3,
                     "start_time": 763,
@@ -9385,7 +9385,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 196,
+                    "id": 11,
                     "trip_id": "T_197",
                     "type": 3,
                     "start_time": 861,
@@ -9424,7 +9424,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 197,
+                    "id": 12,
                     "trip_id": "T_198",
                     "type": 3,
                     "start_time": 616,
@@ -9463,7 +9463,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 198,
+                    "id": 13,
                     "trip_id": "T_199",
                     "type": 3,
                     "start_time": 629,
@@ -9502,7 +9502,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 199,
+                    "id": 14,
                     "trip_id": "T_200",
                     "type": 3,
                     "start_time": 396,
@@ -9541,7 +9541,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 200,
+                    "id": 15,
                     "trip_id": "T_201",
                     "type": 3,
                     "start_time": 484,
@@ -9580,7 +9580,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 201,
+                    "id": 16,
                     "trip_id": "T_202",
                     "type": 3,
                     "start_time": 469,
@@ -9619,7 +9619,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 202,
+                    "id": 17,
                     "trip_id": "T_203",
                     "type": 3,
                     "start_time": 567,
@@ -9658,7 +9658,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 203,
+                    "id": 18,
                     "trip_id": "T_204",
                     "type": 3,
                     "start_time": 586,
@@ -9697,7 +9697,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 204,
+                    "id": 19,
                     "trip_id": "T_205",
                     "type": 3,
                     "start_time": 655,
@@ -9736,7 +9736,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 205,
+                    "id": 20,
                     "trip_id": "T_206",
                     "type": 3,
                     "start_time": 760,
@@ -9775,7 +9775,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 206,
+                    "id": 21,
                     "trip_id": "T_207",
                     "type": 3,
                     "start_time": 761,
@@ -9814,7 +9814,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 207,
+                    "id": 22,
                     "trip_id": "T_208",
                     "type": 3,
                     "start_time": 833,
@@ -9853,7 +9853,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 208,
+                    "id": 23,
                     "trip_id": "T_209",
                     "type": 3,
                     "start_time": 821,
@@ -9892,7 +9892,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 209,
+                    "id": 24,
                     "trip_id": "T_210",
                     "type": 3,
                     "start_time": 847,
@@ -9931,7 +9931,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 210,
+                    "id": 25,
                     "trip_id": "T_211",
                     "type": 3,
                     "start_time": 439,
@@ -9970,7 +9970,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 211,
+                    "id": 26,
                     "trip_id": "T_212",
                     "type": 3,
                     "start_time": 491,
@@ -10009,7 +10009,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 212,
+                    "id": 27,
                     "trip_id": "T_213",
                     "type": 3,
                     "start_time": 517,
@@ -10048,7 +10048,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 213,
+                    "id": 28,
                     "trip_id": "T_214",
                     "type": 3,
                     "start_time": 580,
@@ -10087,7 +10087,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 214,
+                    "id": 29,
                     "trip_id": "T_215",
                     "type": 3,
                     "start_time": 600,
@@ -10126,7 +10126,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 215,
+                    "id": 30,
                     "trip_id": "T_216",
                     "type": 3,
                     "start_time": 676,
@@ -10165,7 +10165,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 216,
+                    "id": 31,
                     "trip_id": "T_217",
                     "type": 3,
                     "start_time": 694,
@@ -10204,7 +10204,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 217,
+                    "id": 32,
                     "trip_id": "T_218",
                     "type": 3,
                     "start_time": 741,
@@ -10243,7 +10243,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 218,
+                    "id": 33,
                     "trip_id": "T_219",
                     "type": 3,
                     "start_time": 750,
@@ -10282,7 +10282,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 219,
+                    "id": 34,
                     "trip_id": "T_220",
                     "type": 3,
                     "start_time": 770,
@@ -10611,16 +10611,16 @@
             "blockId": "B15",
             "dh_st_time": 1236,
             "startTime": 1236,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 785,
+            "dh_end_time": 785,
             "lon_start": 153.15,
             "lat_start": -27.42605,
-            "distance": 74.04721194734536,
+            "distance": 6068.523490908119,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 220,
+                    "id": 0,
                     "trip_id": "T_221",
                     "type": 3,
                     "start_time": 1236,
@@ -10659,7 +10659,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 221,
+                    "id": 1,
                     "trip_id": "T_222",
                     "type": 3,
                     "start_time": 1252,
@@ -10698,7 +10698,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 222,
+                    "id": 2,
                     "trip_id": "T_223",
                     "type": 3,
                     "start_time": 398,
@@ -10737,7 +10737,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 223,
+                    "id": 3,
                     "trip_id": "T_224",
                     "type": 3,
                     "start_time": 469,
@@ -10776,7 +10776,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 224,
+                    "id": 4,
                     "trip_id": "T_225",
                     "type": 3,
                     "start_time": 526,
@@ -10815,7 +10815,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 225,
+                    "id": 5,
                     "trip_id": "T_226",
                     "type": 3,
                     "start_time": 531,
@@ -10854,7 +10854,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 226,
+                    "id": 6,
                     "trip_id": "T_227",
                     "type": 3,
                     "start_time": 590,
@@ -10893,7 +10893,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 227,
+                    "id": 7,
                     "trip_id": "T_228",
                     "type": 3,
                     "start_time": 592,
@@ -10932,7 +10932,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 228,
+                    "id": 8,
                     "trip_id": "T_229",
                     "type": 3,
                     "start_time": 667,
@@ -10971,7 +10971,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 229,
+                    "id": 9,
                     "trip_id": "T_230",
                     "type": 3,
                     "start_time": 723,
@@ -11010,7 +11010,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 230,
+                    "id": 10,
                     "trip_id": "T_231",
                     "type": 3,
                     "start_time": 804,
@@ -11049,7 +11049,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 231,
+                    "id": 11,
                     "trip_id": "T_232",
                     "type": 3,
                     "start_time": 1175,
@@ -11088,7 +11088,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 232,
+                    "id": 12,
                     "trip_id": "T_233",
                     "type": 3,
                     "start_time": 1213,
@@ -11127,7 +11127,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 233,
+                    "id": 13,
                     "trip_id": "T_234",
                     "type": 3,
                     "start_time": 462,
@@ -11166,7 +11166,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 234,
+                    "id": 14,
                     "trip_id": "T_235",
                     "type": 3,
                     "start_time": 515,
@@ -11205,7 +11205,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 235,
+                    "id": 15,
                     "trip_id": "T_236",
                     "type": 3,
                     "start_time": 615,
@@ -11244,7 +11244,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 236,
+                    "id": 16,
                     "trip_id": "T_237",
                     "type": 3,
                     "start_time": 618,
@@ -11283,7 +11283,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 237,
+                    "id": 17,
                     "trip_id": "T_238",
                     "type": 3,
                     "start_time": 656,
@@ -11322,7 +11322,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 238,
+                    "id": 18,
                     "trip_id": "T_239",
                     "type": 3,
                     "start_time": 703,
@@ -11361,7 +11361,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 239,
+                    "id": 19,
                     "trip_id": "T_240",
                     "type": 3,
                     "start_time": 743,
@@ -11400,7 +11400,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 240,
+                    "id": 20,
                     "trip_id": "T_241",
                     "type": 3,
                     "start_time": 741,
@@ -11439,7 +11439,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 241,
+                    "id": 21,
                     "trip_id": "T_242",
                     "type": 3,
                     "start_time": 758,
@@ -11478,7 +11478,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 242,
+                    "id": 22,
                     "trip_id": "T_243",
                     "type": 3,
                     "start_time": 780,
@@ -11517,7 +11517,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 243,
+                    "id": 23,
                     "trip_id": "T_244",
                     "type": 3,
                     "start_time": 391,
@@ -11556,7 +11556,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 244,
+                    "id": 24,
                     "trip_id": "T_245",
                     "type": 3,
                     "start_time": 467,
@@ -11595,7 +11595,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 245,
+                    "id": 25,
                     "trip_id": "T_246",
                     "type": 3,
                     "start_time": 528,
@@ -11634,7 +11634,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 246,
+                    "id": 26,
                     "trip_id": "T_247",
                     "type": 3,
                     "start_time": 580,
@@ -11673,7 +11673,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 247,
+                    "id": 27,
                     "trip_id": "T_248",
                     "type": 3,
                     "start_time": 629,
@@ -11712,7 +11712,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 248,
+                    "id": 28,
                     "trip_id": "T_249",
                     "type": 3,
                     "start_time": 663,
@@ -11751,7 +11751,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 249,
+                    "id": 29,
                     "trip_id": "T_250",
                     "type": 3,
                     "start_time": 684,
@@ -11790,7 +11790,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 250,
+                    "id": 30,
                     "trip_id": "T_251",
                     "type": 3,
                     "start_time": 691,
@@ -11829,7 +11829,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 251,
+                    "id": 31,
                     "trip_id": "T_252",
                     "type": 3,
                     "start_time": 738,
@@ -11868,7 +11868,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 252,
+                    "id": 32,
                     "trip_id": "T_253",
                     "type": 3,
                     "start_time": 775,
@@ -12181,16 +12181,16 @@
             "blockId": "B16",
             "dh_st_time": 385,
             "startTime": 385,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 1074,
+            "dh_end_time": 1074,
             "lon_start": 153.15012,
             "lat_start": -27.42605,
-            "distance": 398.81057462001206,
+            "distance": 5080.229356875934,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 253,
+                    "id": 0,
                     "trip_id": "T_254",
                     "type": 3,
                     "start_time": 385,
@@ -12229,7 +12229,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 254,
+                    "id": 1,
                     "trip_id": "T_255",
                     "type": 3,
                     "start_time": 450,
@@ -12268,7 +12268,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 255,
+                    "id": 2,
                     "trip_id": "T_256",
                     "type": 3,
                     "start_time": 530,
@@ -12307,7 +12307,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 256,
+                    "id": 3,
                     "trip_id": "T_257",
                     "type": 3,
                     "start_time": 582,
@@ -12346,7 +12346,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 257,
+                    "id": 4,
                     "trip_id": "T_258",
                     "type": 3,
                     "start_time": 654,
@@ -12385,7 +12385,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 258,
+                    "id": 5,
                     "trip_id": "T_259",
                     "type": 3,
                     "start_time": 684,
@@ -12424,7 +12424,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 259,
+                    "id": 6,
                     "trip_id": "T_260",
                     "type": 3,
                     "start_time": 682,
@@ -12463,7 +12463,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 260,
+                    "id": 7,
                     "trip_id": "T_261",
                     "type": 3,
                     "start_time": 770,
@@ -12502,7 +12502,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 261,
+                    "id": 8,
                     "trip_id": "T_262",
                     "type": 3,
                     "start_time": 740,
@@ -12541,7 +12541,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 262,
+                    "id": 9,
                     "trip_id": "T_263",
                     "type": 3,
                     "start_time": 790,
@@ -12580,7 +12580,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 263,
+                    "id": 10,
                     "trip_id": "T_264",
                     "type": 3,
                     "start_time": 862,
@@ -12619,7 +12619,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 264,
+                    "id": 11,
                     "trip_id": "T_265",
                     "type": 3,
                     "start_time": 823,
@@ -12658,7 +12658,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 265,
+                    "id": 12,
                     "trip_id": "T_266",
                     "type": 3,
                     "start_time": 958,
@@ -12811,16 +12811,16 @@
             "blockId": "B17",
             "dh_st_time": 372,
             "startTime": 372,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 882,
+            "dh_end_time": 882,
             "lon_start": 153.15007,
             "lat_start": -27.426,
-            "distance": 362.6857965842375,
+            "distance": 1881.4246031945427,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 266,
+                    "id": 0,
                     "trip_id": "T_267",
                     "type": 3,
                     "start_time": 372,
@@ -12859,7 +12859,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 267,
+                    "id": 1,
                     "trip_id": "T_268",
                     "type": 3,
                     "start_time": 474,
@@ -12898,7 +12898,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 268,
+                    "id": 2,
                     "trip_id": "T_269",
                     "type": 3,
                     "start_time": 529,
@@ -12937,7 +12937,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 269,
+                    "id": 3,
                     "trip_id": "T_270",
                     "type": 3,
                     "start_time": 544,
@@ -12976,7 +12976,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 270,
+                    "id": 4,
                     "trip_id": "T_271",
                     "type": 3,
                     "start_time": 614,
@@ -13015,7 +13015,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 271,
+                    "id": 5,
                     "trip_id": "T_272",
                     "type": 3,
                     "start_time": 655,
@@ -13054,7 +13054,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 272,
+                    "id": 6,
                     "trip_id": "T_273",
                     "type": 3,
                     "start_time": 716,
@@ -13093,7 +13093,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 273,
+                    "id": 7,
                     "trip_id": "T_274",
                     "type": 3,
                     "start_time": 738,
@@ -13132,7 +13132,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 274,
+                    "id": 8,
                     "trip_id": "T_275",
                     "type": 3,
                     "start_time": 803,
@@ -13171,7 +13171,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 275,
+                    "id": 9,
                     "trip_id": "T_276",
                     "type": 3,
                     "start_time": 845,
@@ -13300,16 +13300,16 @@
             "blockId": "B18",
             "dh_st_time": 419,
             "startTime": 419,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 806,
+            "dh_end_time": 806,
             "lon_start": 153.15007,
             "lat_start": -27.42598,
-            "distance": 371.3841392077712,
+            "distance": 5633.811419416936,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 276,
+                    "id": 0,
                     "trip_id": "T_277",
                     "type": 3,
                     "start_time": 419,
@@ -13348,7 +13348,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 277,
+                    "id": 1,
                     "trip_id": "T_278",
                     "type": 3,
                     "start_time": 483,
@@ -13387,7 +13387,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 278,
+                    "id": 2,
                     "trip_id": "T_279",
                     "type": 3,
                     "start_time": 521,
@@ -13426,7 +13426,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 279,
+                    "id": 3,
                     "trip_id": "T_280",
                     "type": 3,
                     "start_time": 521,
@@ -13465,7 +13465,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 280,
+                    "id": 4,
                     "trip_id": "T_281",
                     "type": 3,
                     "start_time": 542,
@@ -13504,7 +13504,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 281,
+                    "id": 5,
                     "trip_id": "T_282",
                     "type": 3,
                     "start_time": 595,
@@ -13543,7 +13543,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 282,
+                    "id": 6,
                     "trip_id": "T_283",
                     "type": 3,
                     "start_time": 581,
@@ -13582,7 +13582,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 283,
+                    "id": 7,
                     "trip_id": "T_284",
                     "type": 3,
                     "start_time": 611,
@@ -13621,7 +13621,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 284,
+                    "id": 8,
                     "trip_id": "T_285",
                     "type": 3,
                     "start_time": 628,
@@ -13660,7 +13660,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 285,
+                    "id": 9,
                     "trip_id": "T_286",
                     "type": 3,
                     "start_time": 692,
@@ -13699,7 +13699,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 286,
+                    "id": 10,
                     "trip_id": "T_287",
                     "type": 3,
                     "start_time": 755,
@@ -13738,7 +13738,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 287,
+                    "id": 11,
                     "trip_id": "T_288",
                     "type": 3,
                     "start_time": 778,
@@ -13777,7 +13777,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 288,
+                    "id": 12,
                     "trip_id": "T_289",
                     "type": 3,
                     "start_time": 821,
@@ -13816,7 +13816,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 289,
+                    "id": 13,
                     "trip_id": "T_290",
                     "type": 3,
                     "start_time": 827,
@@ -13855,7 +13855,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 290,
+                    "id": 14,
                     "trip_id": "T_291",
                     "type": 3,
                     "start_time": 898,
@@ -13894,7 +13894,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 291,
+                    "id": 15,
                     "trip_id": "T_292",
                     "type": 3,
                     "start_time": 878,
@@ -13933,7 +13933,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 292,
+                    "id": 16,
                     "trip_id": "T_293",
                     "type": 3,
                     "start_time": 239,
@@ -13972,7 +13972,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 293,
+                    "id": 17,
                     "trip_id": "T_294",
                     "type": 3,
                     "start_time": 466,
@@ -14011,7 +14011,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 294,
+                    "id": 18,
                     "trip_id": "T_295",
                     "type": 3,
                     "start_time": 533,
@@ -14050,7 +14050,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 295,
+                    "id": 19,
                     "trip_id": "T_296",
                     "type": 3,
                     "start_time": 565,
@@ -14089,7 +14089,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 296,
+                    "id": 20,
                     "trip_id": "T_297",
                     "type": 3,
                     "start_time": 558,
@@ -14128,7 +14128,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 297,
+                    "id": 21,
                     "trip_id": "T_298",
                     "type": 3,
                     "start_time": 619,
@@ -14167,7 +14167,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 298,
+                    "id": 22,
                     "trip_id": "T_299",
                     "type": 3,
                     "start_time": 614,
@@ -14206,7 +14206,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 299,
+                    "id": 23,
                     "trip_id": "T_300",
                     "type": 3,
                     "start_time": 630,
@@ -14245,7 +14245,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 300,
+                    "id": 24,
                     "trip_id": "T_301",
                     "type": 3,
                     "start_time": 681,
@@ -14284,7 +14284,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 301,
+                    "id": 25,
                     "trip_id": "T_302",
                     "type": 3,
                     "start_time": 690,
@@ -14323,7 +14323,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 302,
+                    "id": 26,
                     "trip_id": "T_303",
                     "type": 3,
                     "start_time": 740,
@@ -14362,7 +14362,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 303,
+                    "id": 27,
                     "trip_id": "T_304",
                     "type": 3,
                     "start_time": 778,
@@ -14635,16 +14635,16 @@
             "blockId": "B19",
             "dh_st_time": 1123,
             "startTime": 1123,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 860,
+            "dh_end_time": 860,
             "lon_start": 153.15,
             "lat_start": -27.42608,
-            "distance": 94.42582557056853,
+            "distance": 6903.798873920303,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 304,
+                    "id": 0,
                     "trip_id": "T_305",
                     "type": 3,
                     "start_time": 1123,
@@ -14683,7 +14683,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 305,
+                    "id": 1,
                     "trip_id": "T_306",
                     "type": 3,
                     "start_time": 1158,
@@ -14722,7 +14722,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 306,
+                    "id": 2,
                     "trip_id": "T_307",
                     "type": 3,
                     "start_time": 1195,
@@ -14761,7 +14761,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 307,
+                    "id": 3,
                     "trip_id": "T_308",
                     "type": 3,
                     "start_time": 1200,
@@ -14800,7 +14800,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 308,
+                    "id": 4,
                     "trip_id": "T_309",
                     "type": 3,
                     "start_time": 454,
@@ -14839,7 +14839,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 309,
+                    "id": 5,
                     "trip_id": "T_310",
                     "type": 3,
                     "start_time": 520,
@@ -14878,7 +14878,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 310,
+                    "id": 6,
                     "trip_id": "T_311",
                     "type": 3,
                     "start_time": 567,
@@ -14917,7 +14917,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 311,
+                    "id": 7,
                     "trip_id": "T_312",
                     "type": 3,
                     "start_time": 625,
@@ -14956,7 +14956,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 312,
+                    "id": 8,
                     "trip_id": "T_313",
                     "type": 3,
                     "start_time": 690,
@@ -14995,7 +14995,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 313,
+                    "id": 9,
                     "trip_id": "T_314",
                     "type": 3,
                     "start_time": 695,
@@ -15034,7 +15034,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 314,
+                    "id": 10,
                     "trip_id": "T_315",
                     "type": 3,
                     "start_time": 723,
@@ -15073,7 +15073,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 315,
+                    "id": 11,
                     "trip_id": "T_316",
                     "type": 3,
                     "start_time": 782,
@@ -15112,7 +15112,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 316,
+                    "id": 12,
                     "trip_id": "T_317",
                     "type": 3,
                     "start_time": 795,
@@ -15151,7 +15151,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 317,
+                    "id": 13,
                     "trip_id": "T_318",
                     "type": 3,
                     "start_time": 435,
@@ -15190,7 +15190,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 318,
+                    "id": 14,
                     "trip_id": "T_319",
                     "type": 3,
                     "start_time": 511,
@@ -15229,7 +15229,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 319,
+                    "id": 15,
                     "trip_id": "T_320",
                     "type": 3,
                     "start_time": 515,
@@ -15268,7 +15268,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 320,
+                    "id": 16,
                     "trip_id": "T_321",
                     "type": 3,
                     "start_time": 600,
@@ -15307,7 +15307,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 321,
+                    "id": 17,
                     "trip_id": "T_322",
                     "type": 3,
                     "start_time": 679,
@@ -15346,7 +15346,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 322,
+                    "id": 18,
                     "trip_id": "T_323",
                     "type": 3,
                     "start_time": 653,
@@ -15385,7 +15385,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 323,
+                    "id": 19,
                     "trip_id": "T_324",
                     "type": 3,
                     "start_time": 690,
@@ -15424,7 +15424,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 324,
+                    "id": 20,
                     "trip_id": "T_325",
                     "type": 3,
                     "start_time": 765,
@@ -15463,7 +15463,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 325,
+                    "id": 21,
                     "trip_id": "T_326",
                     "type": 3,
                     "start_time": 781,
@@ -15502,7 +15502,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 326,
+                    "id": 22,
                     "trip_id": "T_327",
                     "type": 3,
                     "start_time": 827,
@@ -15541,7 +15541,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 327,
+                    "id": 23,
                     "trip_id": "T_328",
                     "type": 3,
                     "start_time": 272,
@@ -15580,7 +15580,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 328,
+                    "id": 24,
                     "trip_id": "T_329",
                     "type": 3,
                     "start_time": 400,
@@ -15619,7 +15619,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 329,
+                    "id": 25,
                     "trip_id": "T_330",
                     "type": 3,
                     "start_time": 452,
@@ -15658,7 +15658,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 330,
+                    "id": 26,
                     "trip_id": "T_331",
                     "type": 3,
                     "start_time": 497,
@@ -15697,7 +15697,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 331,
+                    "id": 27,
                     "trip_id": "T_332",
                     "type": 3,
                     "start_time": 583,
@@ -15736,7 +15736,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 332,
+                    "id": 28,
                     "trip_id": "T_333",
                     "type": 3,
                     "start_time": 667,
@@ -15775,7 +15775,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 333,
+                    "id": 29,
                     "trip_id": "T_334",
                     "type": 3,
                     "start_time": 661,
@@ -15814,7 +15814,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 334,
+                    "id": 30,
                     "trip_id": "T_335",
                     "type": 3,
                     "start_time": 754,
@@ -15853,7 +15853,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 335,
+                    "id": 31,
                     "trip_id": "T_336",
                     "type": 3,
                     "start_time": 801,
@@ -15892,7 +15892,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 336,
+                    "id": 32,
                     "trip_id": "T_337",
                     "type": 3,
                     "start_time": 805,
@@ -16205,16 +16205,16 @@
             "blockId": "B20",
             "dh_st_time": 429,
             "startTime": 429,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 607,
+            "dh_end_time": 607,
             "lon_start": 153.1501,
             "lat_start": -27.42602,
-            "distance": 352.10588061228447,
+            "distance": 765.0264500686155,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 337,
+                    "id": 0,
                     "trip_id": "T_338",
                     "type": 3,
                     "start_time": 429,
@@ -16253,7 +16253,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 338,
+                    "id": 1,
                     "trip_id": "T_339",
                     "type": 3,
                     "start_time": 496,
@@ -16292,7 +16292,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 339,
+                    "id": 2,
                     "trip_id": "T_340",
                     "type": 3,
                     "start_time": 533,
@@ -16331,7 +16331,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 340,
+                    "id": 3,
                     "trip_id": "T_341",
                     "type": 3,
                     "start_time": 592,
@@ -16412,16 +16412,16 @@
             "blockId": "B21",
             "dh_st_time": 656,
             "startTime": 656,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 820,
+            "dh_end_time": 820,
             "lon_start": 153.15015,
             "lat_start": -27.42605,
-            "distance": 416.759400116272,
+            "distance": 949.1482835629615,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 341,
+                    "id": 0,
                     "trip_id": "T_342",
                     "type": 3,
                     "start_time": 656,
@@ -16460,7 +16460,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 342,
+                    "id": 1,
                     "trip_id": "T_343",
                     "type": 3,
                     "start_time": 739,
@@ -16499,7 +16499,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 343,
+                    "id": 2,
                     "trip_id": "T_344",
                     "type": 3,
                     "start_time": 720,
@@ -16538,7 +16538,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 344,
+                    "id": 3,
                     "trip_id": "T_345",
                     "type": 3,
                     "start_time": 739,
@@ -16577,7 +16577,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 345,
+                    "id": 4,
                     "trip_id": "T_346",
                     "type": 3,
                     "start_time": 791,
@@ -16666,16 +16666,16 @@
             "blockId": "B22",
             "dh_st_time": 378,
             "startTime": 378,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 839,
+            "dh_end_time": 839,
             "lon_start": 153.15007,
             "lat_start": -27.42602,
-            "distance": 353.32259177882145,
+            "distance": 3642.289544608894,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 346,
+                    "id": 0,
                     "trip_id": "T_347",
                     "type": 3,
                     "start_time": 378,
@@ -16714,7 +16714,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 347,
+                    "id": 1,
                     "trip_id": "T_348",
                     "type": 3,
                     "start_time": 472,
@@ -16753,7 +16753,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 348,
+                    "id": 2,
                     "trip_id": "T_349",
                     "type": 3,
                     "start_time": 506,
@@ -16792,7 +16792,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 349,
+                    "id": 3,
                     "trip_id": "T_350",
                     "type": 3,
                     "start_time": 557,
@@ -16831,7 +16831,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 350,
+                    "id": 4,
                     "trip_id": "T_351",
                     "type": 3,
                     "start_time": 617,
@@ -16870,7 +16870,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 351,
+                    "id": 5,
                     "trip_id": "T_352",
                     "type": 3,
                     "start_time": 634,
@@ -16909,7 +16909,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 352,
+                    "id": 6,
                     "trip_id": "T_353",
                     "type": 3,
                     "start_time": 713,
@@ -16948,7 +16948,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 353,
+                    "id": 7,
                     "trip_id": "T_354",
                     "type": 3,
                     "start_time": 741,
@@ -16987,7 +16987,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 354,
+                    "id": 8,
                     "trip_id": "T_355",
                     "type": 3,
                     "start_time": 755,
@@ -17026,7 +17026,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 355,
+                    "id": 9,
                     "trip_id": "T_356",
                     "type": 3,
                     "start_time": 862,
@@ -17065,7 +17065,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 356,
+                    "id": 10,
                     "trip_id": "T_357",
                     "type": 3,
                     "start_time": 420,
@@ -17104,7 +17104,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 357,
+                    "id": 11,
                     "trip_id": "T_358",
                     "type": 3,
                     "start_time": 462,
@@ -17143,7 +17143,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 358,
+                    "id": 12,
                     "trip_id": "T_359",
                     "type": 3,
                     "start_time": 531,
@@ -17182,7 +17182,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 359,
+                    "id": 13,
                     "trip_id": "T_360",
                     "type": 3,
                     "start_time": 519,
@@ -17221,7 +17221,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 360,
+                    "id": 14,
                     "trip_id": "T_361",
                     "type": 3,
                     "start_time": 603,
@@ -17260,7 +17260,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 361,
+                    "id": 15,
                     "trip_id": "T_362",
                     "type": 3,
                     "start_time": 591,
@@ -17299,7 +17299,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 362,
+                    "id": 16,
                     "trip_id": "T_363",
                     "type": 3,
                     "start_time": 615,
@@ -17338,7 +17338,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 363,
+                    "id": 17,
                     "trip_id": "T_364",
                     "type": 3,
                     "start_time": 680,
@@ -17377,7 +17377,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 364,
+                    "id": 18,
                     "trip_id": "T_365",
                     "type": 3,
                     "start_time": 692,
@@ -17416,7 +17416,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 365,
+                    "id": 19,
                     "trip_id": "T_366",
                     "type": 3,
                     "start_time": 746,
@@ -17455,7 +17455,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 366,
+                    "id": 20,
                     "trip_id": "T_367",
                     "type": 3,
                     "start_time": 828,
@@ -17672,16 +17672,16 @@
             "blockId": "B23",
             "dh_st_time": 431,
             "startTime": 431,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 874,
+            "dh_end_time": 874,
             "lon_start": 153.1501,
             "lat_start": -27.42602,
-            "distance": 372.3462372634708,
+            "distance": 1639.693551175745,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 367,
+                    "id": 0,
                     "trip_id": "T_368",
                     "type": 3,
                     "start_time": 431,
@@ -17720,7 +17720,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 368,
+                    "id": 1,
                     "trip_id": "T_369",
                     "type": 3,
                     "start_time": 502,
@@ -17759,7 +17759,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 369,
+                    "id": 2,
                     "trip_id": "T_370",
                     "type": 3,
                     "start_time": 554,
@@ -17798,7 +17798,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 370,
+                    "id": 3,
                     "trip_id": "T_371",
                     "type": 3,
                     "start_time": 605,
@@ -17837,7 +17837,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 371,
+                    "id": 4,
                     "trip_id": "T_372",
                     "type": 3,
                     "start_time": 583,
@@ -17876,7 +17876,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 372,
+                    "id": 5,
                     "trip_id": "T_373",
                     "type": 3,
                     "start_time": 694,
@@ -17915,7 +17915,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 373,
+                    "id": 6,
                     "trip_id": "T_374",
                     "type": 3,
                     "start_time": 734,
@@ -17954,7 +17954,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 374,
+                    "id": 7,
                     "trip_id": "T_375",
                     "type": 3,
                     "start_time": 790,
@@ -17993,7 +17993,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 375,
+                    "id": 8,
                     "trip_id": "T_376",
                     "type": 3,
                     "start_time": 848,
@@ -18114,16 +18114,16 @@
             "blockId": "B24",
             "dh_st_time": 476,
             "startTime": 476,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 870,
+            "dh_end_time": 870,
             "lon_start": 153.15358,
             "lat_start": -27.42607,
-            "distance": 341.17601893606724,
+            "distance": 1657.4360649694313,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 376,
+                    "id": 0,
                     "trip_id": "T_377",
                     "type": 3,
                     "start_time": 476,
@@ -18162,7 +18162,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 377,
+                    "id": 1,
                     "trip_id": "T_378",
                     "type": 3,
                     "start_time": 491,
@@ -18201,7 +18201,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 378,
+                    "id": 2,
                     "trip_id": "T_379",
                     "type": 3,
                     "start_time": 594,
@@ -18240,7 +18240,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 379,
+                    "id": 3,
                     "trip_id": "T_380",
                     "type": 3,
                     "start_time": 598,
@@ -18279,7 +18279,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 380,
+                    "id": 4,
                     "trip_id": "T_381",
                     "type": 3,
                     "start_time": 687,
@@ -18318,7 +18318,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 381,
+                    "id": 5,
                     "trip_id": "T_382",
                     "type": 3,
                     "start_time": 706,
@@ -18357,7 +18357,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 382,
+                    "id": 6,
                     "trip_id": "T_383",
                     "type": 3,
                     "start_time": 739,
@@ -18396,7 +18396,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 383,
+                    "id": 7,
                     "trip_id": "T_384",
                     "type": 3,
                     "start_time": 826,
@@ -18435,7 +18435,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 384,
+                    "id": 8,
                     "trip_id": "T_385",
                     "type": 3,
                     "start_time": 874,
@@ -18556,16 +18556,16 @@
             "blockId": "B25",
             "dh_st_time": 436,
             "startTime": 436,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 809,
+            "dh_end_time": 809,
             "lon_start": 153.15012,
             "lat_start": -27.42603,
-            "distance": 349.1692525412674,
+            "distance": 2388.925919856182,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 385,
+                    "id": 0,
                     "trip_id": "T_386",
                     "type": 3,
                     "start_time": 436,
@@ -18604,7 +18604,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 386,
+                    "id": 1,
                     "trip_id": "T_387",
                     "type": 3,
                     "start_time": 485,
@@ -18643,7 +18643,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 387,
+                    "id": 2,
                     "trip_id": "T_388",
                     "type": 3,
                     "start_time": 520,
@@ -18682,7 +18682,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 388,
+                    "id": 3,
                     "trip_id": "T_389",
                     "type": 3,
                     "start_time": 546,
@@ -18721,7 +18721,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 389,
+                    "id": 4,
                     "trip_id": "T_390",
                     "type": 3,
                     "start_time": 587,
@@ -18760,7 +18760,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 390,
+                    "id": 5,
                     "trip_id": "T_391",
                     "type": 3,
                     "start_time": 608,
@@ -18799,7 +18799,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 391,
+                    "id": 6,
                     "trip_id": "T_392",
                     "type": 3,
                     "start_time": 701,
@@ -18838,7 +18838,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 392,
+                    "id": 7,
                     "trip_id": "T_393",
                     "type": 3,
                     "start_time": 750,
@@ -18877,7 +18877,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 393,
+                    "id": 8,
                     "trip_id": "T_394",
                     "type": 3,
                     "start_time": 783,
@@ -18998,16 +18998,16 @@
             "blockId": "B26",
             "dh_st_time": 405,
             "startTime": 405,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 785,
+            "dh_end_time": 785,
             "lon_start": 153.1501,
             "lat_start": -27.42603,
-            "distance": 352.1975876086394,
+            "distance": 1677.9149447311734,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 394,
+                    "id": 0,
                     "trip_id": "T_395",
                     "type": 3,
                     "start_time": 405,
@@ -19046,7 +19046,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 395,
+                    "id": 1,
                     "trip_id": "T_396",
                     "type": 3,
                     "start_time": 490,
@@ -19085,7 +19085,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 396,
+                    "id": 2,
                     "trip_id": "T_397",
                     "type": 3,
                     "start_time": 511,
@@ -19124,7 +19124,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 397,
+                    "id": 3,
                     "trip_id": "T_398",
                     "type": 3,
                     "start_time": 516,
@@ -19163,7 +19163,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 398,
+                    "id": 4,
                     "trip_id": "T_399",
                     "type": 3,
                     "start_time": 599,
@@ -19202,7 +19202,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 399,
+                    "id": 5,
                     "trip_id": "T_400",
                     "type": 3,
                     "start_time": 649,
@@ -19241,7 +19241,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 400,
+                    "id": 6,
                     "trip_id": "T_401",
                     "type": 3,
                     "start_time": 719,
@@ -19280,7 +19280,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 401,
+                    "id": 7,
                     "trip_id": "T_402",
                     "type": 3,
                     "start_time": 734,
@@ -19319,7 +19319,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 402,
+                    "id": 8,
                     "trip_id": "T_403",
                     "type": 3,
                     "start_time": 789,
@@ -19440,16 +19440,16 @@
             "blockId": "B27",
             "dh_st_time": 436,
             "startTime": 436,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 671,
+            "dh_end_time": 671,
             "lon_start": 153.1534,
             "lat_start": -27.42603,
-            "distance": 359.4325187956188,
+            "distance": 2025.2548830323028,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 403,
+                    "id": 0,
                     "trip_id": "T_404",
                     "type": 3,
                     "start_time": 436,
@@ -19488,7 +19488,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 404,
+                    "id": 1,
                     "trip_id": "T_405",
                     "type": 3,
                     "start_time": 494,
@@ -19527,7 +19527,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 405,
+                    "id": 2,
                     "trip_id": "T_406",
                     "type": 3,
                     "start_time": 495,
@@ -19566,7 +19566,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 406,
+                    "id": 3,
                     "trip_id": "T_407",
                     "type": 3,
                     "start_time": 562,
@@ -19605,7 +19605,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 407,
+                    "id": 4,
                     "trip_id": "T_408",
                     "type": 3,
                     "start_time": 573,
@@ -19644,7 +19644,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 408,
+                    "id": 5,
                     "trip_id": "T_409",
                     "type": 3,
                     "start_time": 641,
@@ -19683,7 +19683,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 409,
+                    "id": 6,
                     "trip_id": "T_410",
                     "type": 3,
                     "start_time": 690,
@@ -19722,7 +19722,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 410,
+                    "id": 7,
                     "trip_id": "T_411",
                     "type": 3,
                     "start_time": 694,
@@ -19761,7 +19761,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 411,
+                    "id": 8,
                     "trip_id": "T_412",
                     "type": 3,
                     "start_time": 577,
@@ -19800,7 +19800,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 412,
+                    "id": 9,
                     "trip_id": "T_413",
                     "type": 3,
                     "start_time": 652,
@@ -19929,16 +19929,16 @@
             "blockId": "B28",
             "dh_st_time": 419,
             "startTime": 419,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 848,
+            "dh_end_time": 848,
             "lon_start": 153.1501,
             "lat_start": -27.42605,
-            "distance": 362.7004877238344,
+            "distance": 3990.4604667607623,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 413,
+                    "id": 0,
                     "trip_id": "T_414",
                     "type": 3,
                     "start_time": 419,
@@ -19977,7 +19977,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 414,
+                    "id": 1,
                     "trip_id": "T_415",
                     "type": 3,
                     "start_time": 531,
@@ -20016,7 +20016,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 415,
+                    "id": 2,
                     "trip_id": "T_416",
                     "type": 3,
                     "start_time": 551,
@@ -20055,7 +20055,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 416,
+                    "id": 3,
                     "trip_id": "T_417",
                     "type": 3,
                     "start_time": 564,
@@ -20094,7 +20094,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 417,
+                    "id": 4,
                     "trip_id": "T_418",
                     "type": 3,
                     "start_time": 647,
@@ -20133,7 +20133,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 418,
+                    "id": 5,
                     "trip_id": "T_419",
                     "type": 3,
                     "start_time": 680,
@@ -20172,7 +20172,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 419,
+                    "id": 6,
                     "trip_id": "T_420",
                     "type": 3,
                     "start_time": 733,
@@ -20211,7 +20211,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 420,
+                    "id": 7,
                     "trip_id": "T_421",
                     "type": 3,
                     "start_time": 756,
@@ -20250,7 +20250,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 421,
+                    "id": 8,
                     "trip_id": "T_422",
                     "type": 3,
                     "start_time": 802,
@@ -20289,7 +20289,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 422,
+                    "id": 9,
                     "trip_id": "T_423",
                     "type": 3,
                     "start_time": 869,
@@ -20328,7 +20328,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 423,
+                    "id": 10,
                     "trip_id": "T_424",
                     "type": 3,
                     "start_time": 418,
@@ -20367,7 +20367,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 424,
+                    "id": 11,
                     "trip_id": "T_425",
                     "type": 3,
                     "start_time": 444,
@@ -20406,7 +20406,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 425,
+                    "id": 12,
                     "trip_id": "T_426",
                     "type": 3,
                     "start_time": 528,
@@ -20445,7 +20445,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 426,
+                    "id": 13,
                     "trip_id": "T_427",
                     "type": 3,
                     "start_time": 596,
@@ -20484,7 +20484,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 427,
+                    "id": 14,
                     "trip_id": "T_428",
                     "type": 3,
                     "start_time": 652,
@@ -20523,7 +20523,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 428,
+                    "id": 15,
                     "trip_id": "T_429",
                     "type": 3,
                     "start_time": 692,
@@ -20562,7 +20562,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 429,
+                    "id": 16,
                     "trip_id": "T_430",
                     "type": 3,
                     "start_time": 714,
@@ -20601,7 +20601,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 430,
+                    "id": 17,
                     "trip_id": "T_431",
                     "type": 3,
                     "start_time": 746,
@@ -20640,7 +20640,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 431,
+                    "id": 18,
                     "trip_id": "T_432",
                     "type": 3,
                     "start_time": 769,
@@ -20841,16 +20841,16 @@
             "blockId": "B29",
             "dh_st_time": 623,
             "startTime": 623,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 873,
+            "dh_end_time": 873,
             "lon_start": 153.14988,
             "lat_start": -27.4261,
-            "distance": 389.75352630190946,
+            "distance": 1923.5089308125305,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 432,
+                    "id": 0,
                     "trip_id": "T_433",
                     "type": 3,
                     "start_time": 623,
@@ -20889,7 +20889,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 433,
+                    "id": 1,
                     "trip_id": "T_434",
                     "type": 3,
                     "start_time": 697,
@@ -20928,7 +20928,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 434,
+                    "id": 2,
                     "trip_id": "T_435",
                     "type": 3,
                     "start_time": 755,
@@ -20967,7 +20967,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 435,
+                    "id": 3,
                     "trip_id": "T_436",
                     "type": 3,
                     "start_time": 815,
@@ -21006,7 +21006,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 436,
+                    "id": 4,
                     "trip_id": "T_437",
                     "type": 3,
                     "start_time": 819,
@@ -21095,16 +21095,16 @@
             "blockId": "B30",
             "dh_st_time": 393,
             "startTime": 393,
-            "endTime": 0,
-            "dh_end_time": 0,
+            "endTime": 624,
+            "dh_end_time": 624,
             "lon_start": 153.15358,
             "lat_start": -27.42608,
-            "distance": 341.0275283670586,
+            "distance": 771.9320171245574,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 437,
+                    "id": 0,
                     "trip_id": "T_438",
                     "type": 3,
                     "start_time": 393,
@@ -21143,7 +21143,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 438,
+                    "id": 1,
                     "trip_id": "T_439",
                     "type": 3,
                     "start_time": 467,
@@ -21182,7 +21182,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 439,
+                    "id": 2,
                     "trip_id": "T_440",
                     "type": 3,
                     "start_time": 535,
@@ -21221,7 +21221,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 440,
+                    "id": 3,
                     "trip_id": "T_441",
                     "type": 3,
                     "start_time": 549,
@@ -21306,12 +21306,12 @@
             "dh_end_time": 0,
             "lon_start": 153.14992,
             "lat_start": -27.42597,
-            "distance": 334.53820038280276,
+            "distance": 0,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
                 {
-                    "id": 441,
+                    "id": 0,
                     "trip_id": "T_442",
                     "type": 3,
                     "start_time": 634,
@@ -21350,7 +21350,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 442,
+                    "id": 1,
                     "trip_id": "T_443",
                     "type": 3,
                     "start_time": 648,
@@ -21389,7 +21389,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 443,
+                    "id": 2,
                     "trip_id": "T_444",
                     "type": 3,
                     "start_time": 686,
@@ -21428,7 +21428,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 444,
+                    "id": 3,
                     "trip_id": "T_445",
                     "type": 3,
                     "start_time": 749,
@@ -21467,7 +21467,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 445,
+                    "id": 4,
                     "trip_id": "T_446",
                     "type": 3,
                     "start_time": 783,
@@ -21506,7 +21506,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 446,
+                    "id": 5,
                     "trip_id": "T_447",
                     "type": 3,
                     "start_time": 457,
@@ -21545,7 +21545,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 447,
+                    "id": 6,
                     "trip_id": "T_448",
                     "type": 3,
                     "start_time": 479,
@@ -21584,7 +21584,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 448,
+                    "id": 7,
                     "trip_id": "T_449",
                     "type": 3,
                     "start_time": 493,
@@ -21623,7 +21623,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 449,
+                    "id": 8,
                     "trip_id": "T_450",
                     "type": 3,
                     "start_time": 528,
@@ -21662,7 +21662,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 450,
+                    "id": 9,
                     "trip_id": "T_451",
                     "type": 3,
                     "start_time": 637,
@@ -21701,7 +21701,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 451,
+                    "id": 10,
                     "trip_id": "T_452",
                     "type": 3,
                     "start_time": 667,
@@ -21740,7 +21740,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 452,
+                    "id": 11,
                     "trip_id": "T_453",
                     "type": 3,
                     "start_time": 709,
@@ -21779,7 +21779,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 453,
+                    "id": 12,
                     "trip_id": "T_454",
                     "type": 3,
                     "start_time": 743,
@@ -21818,7 +21818,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 454,
+                    "id": 13,
                     "trip_id": "T_455",
                     "type": 3,
                     "start_time": 450,
@@ -21857,7 +21857,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 455,
+                    "id": 14,
                     "trip_id": "T_456",
                     "type": 3,
                     "start_time": 567,
@@ -21896,7 +21896,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 456,
+                    "id": 15,
                     "trip_id": "T_457",
                     "type": 3,
                     "start_time": 586,
@@ -21935,7 +21935,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 457,
+                    "id": 16,
                     "trip_id": "T_458",
                     "type": 3,
                     "start_time": 608,
@@ -21974,7 +21974,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 458,
+                    "id": 17,
                     "trip_id": "T_459",
                     "type": 3,
                     "start_time": 682,
@@ -22013,7 +22013,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 459,
+                    "id": 18,
                     "trip_id": "T_460",
                     "type": 3,
                     "start_time": 733,
@@ -22052,7 +22052,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 460,
+                    "id": 19,
                     "trip_id": "T_461",
                     "type": 3,
                     "start_time": 734,
@@ -22091,7 +22091,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 461,
+                    "id": 20,
                     "trip_id": "T_462",
                     "type": 3,
                     "start_time": 797,
@@ -22130,7 +22130,7 @@
                     "payload": 0.5
                 },
                 {
-                    "id": 462,
+                    "id": 21,
                     "trip_id": "T_463",
                     "type": 3,
                     "start_time": 817,
