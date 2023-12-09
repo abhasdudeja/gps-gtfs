@@ -9,7 +9,7 @@
             "dh_end_time": 874,
             "lon_start": 153.14995,
             "lat_start": -27.42608,
-            "distance": 1829.6111802591956,
+            "distance": 97.59550849940365,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -23,7 +23,7 @@
                     "end_time": 445,
                     "end_lat": -27.4695,
                     "end_lon": 153.02447,
-                    "distance": 364.2001359864913,
+                    "distance": 19.499820976691918,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -62,7 +62,7 @@
                     "end_time": 533,
                     "end_lat": -27.48493,
                     "end_lon": 153.0399,
-                    "distance": 94.59904070312837,
+                    "distance": 5.057437653108847,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -101,7 +101,7 @@
                     "end_time": 528,
                     "end_lat": -27.50033,
                     "end_lon": 153.03588,
-                    "distance": 45.13318023278774,
+                    "distance": 2.509272442870344,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -140,7 +140,7 @@
                     "end_time": 563,
                     "end_lat": -27.4406,
                     "end_lon": 153.12762,
-                    "distance": 296.4089094084803,
+                    "distance": 15.718569998775054,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -179,7 +179,7 @@
                     "end_time": 582,
                     "end_lat": -27.43532,
                     "end_lon": 153.17405,
-                    "distance": 97.37627108724882,
+                    "distance": 5.040066223447651,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -218,7 +218,7 @@
                     "end_time": 673,
                     "end_lat": -27.42558,
                     "end_lon": 153.1503,
-                    "distance": 67.37410402856335,
+                    "distance": 3.6064050779753773,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -257,7 +257,7 @@
                     "end_time": 739,
                     "end_lat": -27.48253,
                     "end_lon": 153.03635,
-                    "distance": 354.9031163764399,
+                    "distance": 18.87631356131447,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -296,7 +296,7 @@
                     "end_time": 732,
                     "end_lat": -27.45598,
                     "end_lon": 153.0335,
-                    "distance": 58.11579831060426,
+                    "distance": 3.279586357490027,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -335,7 +335,7 @@
                     "end_time": 776,
                     "end_lat": -27.4716,
                     "end_lon": 153.02597,
-                    "distance": 52.00602615160407,
+                    "distance": 2.824585904530057,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -374,7 +374,7 @@
                     "end_time": 874,
                     "end_lat": -27.42558,
                     "end_lon": 153.15027,
-                    "distance": 399.49459797384725,
+                    "distance": 21.1834503031999,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -498,7 +498,7 @@
             "dh_end_time": 879,
             "lon_start": 153.15007,
             "lat_start": -27.426,
-            "distance": 3073.0714013602746,
+            "distance": 166.36866200566865,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -512,7 +512,7 @@
                     "end_time": 389,
                     "end_lat": -27.46933,
                     "end_lon": 153.02477,
-                    "distance": 425.88046371018817,
+                    "distance": 22.971320108158167,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -551,7 +551,7 @@
                     "end_time": 439,
                     "end_lat": -27.47902,
                     "end_lon": 153.02313,
-                    "distance": 53.01168928394975,
+                    "distance": 2.8915702517563484,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -590,7 +590,7 @@
                     "end_time": 510,
                     "end_lat": -27.45612,
                     "end_lon": 153.0334,
-                    "distance": 87.13087982084039,
+                    "distance": 4.804559806298953,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -629,7 +629,7 @@
                     "end_time": 531,
                     "end_lat": -27.46035,
                     "end_lon": 153.11407,
-                    "distance": 256.66858890844907,
+                    "distance": 13.610103649474926,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -668,7 +668,7 @@
                     "end_time": 576,
                     "end_lat": -27.42558,
                     "end_lon": 153.15028,
-                    "distance": 212.50337339160546,
+                    "distance": 11.48321318184555,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -707,7 +707,7 @@
                     "end_time": 638,
                     "end_lat": -27.59068,
                     "end_lon": 153.03342,
-                    "distance": 595.3712365105955,
+                    "distance": 32.65624430881644,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -746,7 +746,7 @@
                     "end_time": 731,
                     "end_lat": -27.5911,
                     "end_lon": 153.0334,
-                    "distance": 29.75514073520528,
+                    "distance": 1.594070856414172,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -785,7 +785,7 @@
                     "end_time": 748,
                     "end_lat": -27.42555,
                     "end_lon": 153.15028,
-                    "distance": 590.7798016852491,
+                    "distance": 32.38014796893601,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -824,7 +824,7 @@
                     "end_time": 797,
                     "end_lat": -27.48258,
                     "end_lon": 153.03635,
-                    "distance": 354.7586549675499,
+                    "distance": 18.867971161281922,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -863,7 +863,7 @@
                     "end_time": 854,
                     "end_lat": -27.50068,
                     "end_lon": 153.03593,
-                    "distance": 38.56118032629635,
+                    "distance": 2.183759238238216,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -902,7 +902,7 @@
                     "end_time": 842,
                     "end_lat": -27.47152,
                     "end_lon": 153.02652,
-                    "distance": 88.67469506876016,
+                    "distance": 4.869078862466619,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -941,7 +941,7 @@
                     "end_time": 879,
                     "end_lat": -27.42558,
                     "end_lon": 153.15025,
-                    "distance": 339.9756969515856,
+                    "distance": 18.05662261198131,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1081,7 +1081,7 @@
             "dh_end_time": 1052,
             "lon_start": 153.15005,
             "lat_start": -27.42605,
-            "distance": 5530.779089693967,
+            "distance": 297.4847253534381,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -1095,7 +1095,7 @@
                     "end_time": 501,
                     "end_lat": -27.46947,
                     "end_lon": 153.02462,
-                    "distance": 363.11090167091345,
+                    "distance": 19.436058980448816,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1134,7 +1134,7 @@
                     "end_time": 566,
                     "end_lat": -27.479,
                     "end_lon": 153.02312,
-                    "distance": 53.4692975783406,
+                    "distance": 2.918453355329654,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1173,7 +1173,7 @@
                     "end_time": 557,
                     "end_lat": -27.48253,
                     "end_lon": 153.03632,
-                    "distance": 37.65509524796993,
+                    "distance": 1.986112740444049,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1212,7 +1212,7 @@
                     "end_time": 596,
                     "end_lat": -27.42558,
                     "end_lon": 153.15027,
-                    "distance": 290.51850496816445,
+                    "distance": 15.367652166045687,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1251,7 +1251,7 @@
                     "end_time": 698,
                     "end_lat": -27.49947,
                     "end_lon": 153.04152,
-                    "distance": 425.0912755009093,
+                    "distance": 22.7681063719064,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1290,7 +1290,7 @@
                     "end_time": 786,
                     "end_lat": -27.47172,
                     "end_lon": 153.02625,
-                    "distance": 66.99399558888022,
+                    "distance": 3.6477309016081056,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1329,7 +1329,7 @@
                     "end_time": 788,
                     "end_lat": -27.44062,
                     "end_lon": 153.12763,
-                    "distance": 272.5569778150163,
+                    "distance": 14.492097337575574,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1368,7 +1368,7 @@
                     "end_time": 824,
                     "end_lat": -27.42605,
                     "end_lon": 153.14997,
-                    "distance": 90.13358757725614,
+                    "distance": 4.822491340471684,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1407,7 +1407,7 @@
                     "end_time": 401,
                     "end_lat": -27.46928,
                     "end_lon": 153.02475,
-                    "distance": 351.83192232415155,
+                    "distance": 18.838558284260678,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1446,7 +1446,7 @@
                     "end_time": 538,
                     "end_lat": -27.42558,
                     "end_lon": 153.15025,
-                    "distance": 367.12767705340195,
+                    "distance": 19.635187947807516,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1485,7 +1485,7 @@
                     "end_time": 576,
                     "end_lat": -27.4787,
                     "end_lon": 153.02218,
-                    "distance": 422.77530650743245,
+                    "distance": 22.623314639495515,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1524,7 +1524,7 @@
                     "end_time": 661,
                     "end_lat": -27.48732,
                     "end_lon": 153.02962,
-                    "distance": 30.974547887612758,
+                    "distance": 1.6842838662737991,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1563,7 +1563,7 @@
                     "end_time": 663,
                     "end_lat": -27.47157,
                     "end_lon": 153.02722,
-                    "distance": 58.43791794577091,
+                    "distance": 3.1937763481057218,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1602,7 +1602,7 @@
                     "end_time": 714,
                     "end_lat": -27.45618,
                     "end_lon": 153.03317,
-                    "distance": 48.728258093112665,
+                    "distance": 2.6410662304625343,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1641,7 +1641,7 @@
                     "end_time": 720,
                     "end_lat": -27.42557,
                     "end_lon": 153.1503,
-                    "distance": 327.31003970171247,
+                    "distance": 17.492551530253106,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1680,7 +1680,7 @@
                     "end_time": 820,
                     "end_lat": -27.4825,
                     "end_lon": 153.03635,
-                    "distance": 354.8714220197569,
+                    "distance": 18.872181930155016,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1719,7 +1719,7 @@
                     "end_time": 881,
                     "end_lat": -27.42555,
                     "end_lon": 153.15028,
-                    "distance": 354.1414354706185,
+                    "distance": 18.80759369219858,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1758,7 +1758,7 @@
                     "end_time": 975,
                     "end_lat": -27.2591,
                     "end_lon": 153.08115,
-                    "distance": 625.92915940478,
+                    "distance": 34.4133155431398,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1797,7 +1797,7 @@
                     "end_time": 1005,
                     "end_lat": -27.50062,
                     "end_lon": 153.03587,
-                    "distance": 650.0510890972313,
+                    "distance": 35.76447027581515,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -1836,7 +1836,7 @@
                     "end_time": 1052,
                     "end_lat": -27.42625,
                     "end_lon": 153.15163,
-                    "distance": 339.07067824093525,
+                    "distance": 18.079721871640714,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2036,11 +2036,11 @@
             "blockId": "B4",
             "dh_st_time": 1184,
             "startTime": 1184,
-            "endTime": 944,
-            "dh_end_time": 944,
+            "endTime": 901,
+            "dh_end_time": 901,
             "lon_start": 153.15002,
             "lat_start": -27.42607,
-            "distance": 3487.6281224347645,
+            "distance": 171.7005796193127,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -2054,7 +2054,7 @@
                     "end_time": 1199,
                     "end_lat": -27.44435,
                     "end_lon": 153.17167,
-                    "distance": 76.62814095064168,
+                    "distance": 4.176733683611133,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2093,7 +2093,7 @@
                     "end_time": 1163,
                     "end_lat": -27.42605,
                     "end_lon": 153.14997,
-                    "distance": 74.76936638954813,
+                    "distance": 4.0715350767789955,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2132,7 +2132,7 @@
                     "end_time": 366,
                     "end_lat": -27.4695,
                     "end_lon": 153.02495,
-                    "distance": 360.6625798837027,
+                    "distance": 19.23175829391665,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2171,7 +2171,7 @@
                     "end_time": 459,
                     "end_lat": -27.479,
                     "end_lon": 153.02322,
-                    "distance": 75.45327797920118,
+                    "distance": 4.082621649563889,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2210,7 +2210,7 @@
                     "end_time": 501,
                     "end_lat": -27.47715,
                     "end_lon": 153.12048,
-                    "distance": 226.54421141488814,
+                    "distance": 11.826348066422947,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2249,7 +2249,7 @@
                     "end_time": 469,
                     "end_lat": -27.42568,
                     "end_lon": 153.15028,
-                    "distance": 179.19919181999597,
+                    "distance": 9.672974665467576,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2288,7 +2288,7 @@
                     "end_time": 544,
                     "end_lat": -27.4826,
                     "end_lon": 153.03652,
-                    "distance": 314.9027237805337,
+                    "distance": 16.75440585546714,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2327,7 +2327,7 @@
                     "end_time": 592,
                     "end_lat": -27.45615,
                     "end_lon": 153.03328,
-                    "distance": 57.74093320351759,
+                    "distance": 3.260254576613427,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2366,7 +2366,7 @@
                     "end_time": 619,
                     "end_lat": -27.42558,
                     "end_lon": 153.15027,
-                    "distance": 341.4936069643154,
+                    "distance": 18.2112166106583,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2405,7 +2405,7 @@
                     "end_time": 698,
                     "end_lat": -27.47137,
                     "end_lon": 153.02613,
-                    "distance": 399.7477425412377,
+                    "distance": 21.365074929502384,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2444,7 +2444,7 @@
                     "end_time": 767,
                     "end_lat": -27.48693,
                     "end_lon": 153.03513,
-                    "distance": 61.16331295081703,
+                    "distance": 3.3216586402754618,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2483,7 +2483,7 @@
                     "end_time": 749,
                     "end_lat": -27.50052,
                     "end_lon": 153.0359,
-                    "distance": 30.68768252990344,
+                    "distance": 1.724549592608162,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2522,7 +2522,7 @@
                     "end_time": 786,
                     "end_lat": -27.42562,
                     "end_lon": 153.15023,
-                    "distance": 338.9900087758482,
+                    "distance": 18.102106273065868,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2561,7 +2561,7 @@
                     "end_time": 887,
                     "end_lat": -27.47137,
                     "end_lon": 153.02602,
-                    "distance": 353.15685182376603,
+                    "distance": 18.866814652984793,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2600,7 +2600,7 @@
                     "end_time": 901,
                     "end_lat": -27.39565,
                     "end_lon": 153.10733,
-                    "distance": 318.62814972190824,
+                    "distance": 17.03252705237597,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2624,45 +2624,6 @@
                     "route_id": "R_57",
                     "route_name": "RSn 57",
                     "shape_id": "Sh_57",
-                    "HVAC_energy": 0.0,
-                    "Aux_energy": 0.0,
-                    "stop_portion": 0.5,
-                    "payload": 0.5
-                },
-                {
-                    "id": 15,
-                    "trip_id": "T_58",
-                    "type": 3,
-                    "start_time": 950,
-                    "start_lat": -27.39565,
-                    "start_lon": 153.10733,
-                    "end_time": 944,
-                    "end_lat": -27.42562,
-                    "end_lon": 153.15028,
-                    "distance": 277.8603417049388,
-                    "eff": "",
-                    "direction": 1,
-                    "stops": [
-                        {
-                            "id": 0,
-                            "stop_id": "27.4153.11202304081507430",
-                            "arrival_time": 950,
-                            "departure_time": 950,
-                            "lat": -27.39565,
-                            "lon": 153.10733
-                        },
-                        {
-                            "id": 1,
-                            "stop_id": "27.43153.152023040815202492",
-                            "arrival_time": 944,
-                            "departure_time": 944,
-                            "lat": -27.42562,
-                            "lon": 153.15028
-                        }
-                    ],
-                    "route_id": "R_58",
-                    "route_name": "RSn 58",
-                    "shape_id": "Sh_58",
                     "HVAC_energy": 0.0,
                     "Aux_energy": 0.0,
                     "stop_portion": 0.5,
@@ -2791,7 +2752,65 @@
                 [
                     153.10733,
                     -27.39565
-                ],
+                ]
+            ]
+        },
+        {
+            "id": 4,
+            "blockId": "B5",
+            "dh_st_time": 950,
+            "startTime": 950,
+            "endTime": 944,
+            "dh_end_time": 944,
+            "lon_start": 153.10733,
+            "lat_start": -27.39565,
+            "distance": 15.135190081715734,
+            "vehicleEff": "",
+            "vehicleModel": "",
+            "trips": [
+                {
+                    "id": 0,
+                    "trip_id": "T_58",
+                    "type": 3,
+                    "start_time": 950,
+                    "start_lat": -27.39565,
+                    "start_lon": 153.10733,
+                    "end_time": 944,
+                    "end_lat": -27.42562,
+                    "end_lon": 153.15028,
+                    "distance": 15.135190081715734,
+                    "eff": "",
+                    "direction": 1,
+                    "stops": [
+                        {
+                            "id": 0,
+                            "stop_id": "27.4153.11202304081507430",
+                            "arrival_time": 950,
+                            "departure_time": 950,
+                            "lat": -27.39565,
+                            "lon": 153.10733
+                        },
+                        {
+                            "id": 1,
+                            "stop_id": "27.43153.152023040815202492",
+                            "arrival_time": 944,
+                            "departure_time": 944,
+                            "lat": -27.42562,
+                            "lon": 153.15028
+                        }
+                    ],
+                    "route_id": "R_58",
+                    "route_name": "RSn 58",
+                    "shape_id": "Sh_58",
+                    "HVAC_energy": 0.0,
+                    "Aux_energy": 0.0,
+                    "stop_portion": 0.5,
+                    "payload": 0.5
+                }
+            ],
+            "startDepot": 1,
+            "endDepot": 1,
+            "cords": [
                 [
                     153.10733,
                     -27.39565
@@ -2803,15 +2822,15 @@
             ]
         },
         {
-            "id": 4,
-            "blockId": "B5",
+            "id": 5,
+            "blockId": "B6",
             "dh_st_time": 411,
             "startTime": 411,
             "endTime": 859,
             "dh_end_time": 859,
             "lon_start": 153.14998,
             "lat_start": -27.42657,
-            "distance": 2880.6166191853704,
+            "distance": 156.52903481923,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -2825,7 +2844,7 @@
                     "end_time": 467,
                     "end_lat": -27.46937,
                     "end_lon": 153.02473,
-                    "distance": 353.4719425817834,
+                    "distance": 18.927231056200725,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2864,7 +2883,7 @@
                     "end_time": 538,
                     "end_lat": -27.44058,
                     "end_lon": 153.1276,
-                    "distance": 297.2150319505836,
+                    "distance": 15.914003765245592,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2903,7 +2922,7 @@
                     "end_time": 546,
                     "end_lat": -27.42655,
                     "end_lon": 153.14997,
-                    "distance": 89.26492986868425,
+                    "distance": 4.770999590120747,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2942,7 +2961,7 @@
                     "end_time": 628,
                     "end_lat": -27.4785,
                     "end_lon": 153.02217,
-                    "distance": 413.95730995507074,
+                    "distance": 22.140027176891273,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -2981,7 +3000,7 @@
                     "end_time": 625,
                     "end_lat": -27.48252,
                     "end_lon": 153.03633,
-                    "distance": 42.258203289469385,
+                    "distance": 2.2418344071743315,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3020,7 +3039,7 @@
                     "end_time": 702,
                     "end_lat": -27.50065,
                     "end_lon": 153.03592,
-                    "distance": 159.39538458113557,
+                    "distance": 9.008033671570953,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3059,7 +3078,7 @@
                     "end_time": 715,
                     "end_lat": -27.73228,
                     "end_lon": 153.22832,
-                    "distance": 618.4668156090679,
+                    "distance": 33.8329614072081,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3098,7 +3117,7 @@
                     "end_time": 802,
                     "end_lat": -27.73278,
                     "end_lon": 153.22137,
-                    "distance": 40.54360192266586,
+                    "distance": 2.2123118419090337,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3137,7 +3156,7 @@
                     "end_time": 859,
                     "end_lat": -27.42623,
                     "end_lon": 153.15167,
-                    "distance": 866.0433994269097,
+                    "distance": 47.48163190290923,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3245,15 +3264,15 @@
             ]
         },
         {
-            "id": 5,
-            "blockId": "B6",
+            "id": 6,
+            "blockId": "B7",
             "dh_st_time": 392,
             "startTime": 392,
             "endTime": 876,
             "dh_end_time": 876,
             "lon_start": 153.15008,
             "lat_start": -27.42603,
-            "distance": 5211.6994593861555,
+            "distance": 279.18259479620565,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -3267,7 +3286,7 @@
                     "end_time": 466,
                     "end_lat": -27.4694,
                     "end_lon": 153.02478,
-                    "distance": 368.16927376992845,
+                    "distance": 19.707935697606743,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3306,7 +3325,7 @@
                     "end_time": 508,
                     "end_lat": -27.47902,
                     "end_lon": 153.0231,
-                    "distance": 53.65406757041664,
+                    "distance": 2.9246652905044397,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3345,7 +3364,7 @@
                     "end_time": 574,
                     "end_lat": -27.42557,
                     "end_lon": 153.15025,
-                    "distance": 333.39564883874715,
+                    "distance": 17.638774127427403,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3384,7 +3403,7 @@
                     "end_time": 648,
                     "end_lat": -27.48258,
                     "end_lon": 153.03635,
-                    "distance": 354.83192295447725,
+                    "distance": 18.87007880007148,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3423,7 +3442,7 @@
                     "end_time": 655,
                     "end_lat": -27.50083,
                     "end_lon": 153.03592,
-                    "distance": 38.870471403456904,
+                    "distance": 2.2018220325517177,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3462,7 +3481,7 @@
                     "end_time": 703,
                     "end_lat": -27.48682,
                     "end_lon": 153.03522,
-                    "distance": 34.578818771794005,
+                    "distance": 1.929615946540216,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3501,7 +3520,7 @@
                     "end_time": 717,
                     "end_lat": -27.42563,
                     "end_lon": 153.15032,
-                    "distance": 416.0131517096434,
+                    "distance": 22.443355383194632,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3540,7 +3559,7 @@
                     "end_time": 758,
                     "end_lat": -27.44863,
                     "end_lon": 153.173,
-                    "distance": 80.28860309173761,
+                    "distance": 4.378179292543446,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3579,7 +3598,7 @@
                     "end_time": 789,
                     "end_lat": -27.4485,
                     "end_lon": 153.17297,
-                    "distance": 45.572740258889105,
+                    "distance": 2.4894238926657297,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3618,7 +3637,7 @@
                     "end_time": 905,
                     "end_lat": -27.42603,
                     "end_lon": 153.14998,
-                    "distance": 80.20152279376121,
+                    "distance": 4.367168132260305,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3657,7 +3676,7 @@
                     "end_time": 936,
                     "end_lat": -27.52093,
                     "end_lon": 153.25668,
-                    "distance": 396.0690159834878,
+                    "distance": 21.139295561422227,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3696,7 +3715,7 @@
                     "end_time": 997,
                     "end_lat": -27.50258,
                     "end_lon": 153.22017,
-                    "distance": 101.63161908389883,
+                    "distance": 5.372805958272979,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3735,7 +3754,7 @@
                     "end_time": 236,
                     "end_lat": -27.42608,
                     "end_lon": 153.14995,
-                    "distance": 327.8670897985801,
+                    "distance": 17.607244706037612,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3774,7 +3793,7 @@
                     "end_time": 424,
                     "end_lat": -27.50095,
                     "end_lon": 153.04508,
-                    "distance": 397.77295485392017,
+                    "distance": 21.290884749028997,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3813,7 +3832,7 @@
                     "end_time": 478,
                     "end_lat": -27.46935,
                     "end_lon": 153.02472,
-                    "distance": 92.16469121660828,
+                    "distance": 5.037550029059944,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3852,7 +3871,7 @@
                     "end_time": 573,
                     "end_lat": -27.42603,
                     "end_lon": 153.14998,
-                    "distance": 521.9184363136073,
+                    "distance": 28.012704151608972,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3891,7 +3910,7 @@
                     "end_time": 654,
                     "end_lat": -27.45608,
                     "end_lon": 153.03343,
-                    "distance": 333.72504867315774,
+                    "distance": 17.85926493416131,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3930,7 +3949,7 @@
                     "end_time": 650,
                     "end_lat": -27.47163,
                     "end_lon": 153.02618,
-                    "distance": 90.42596998002324,
+                    "distance": 4.886927551148554,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -3969,7 +3988,7 @@
                     "end_time": 703,
                     "end_lat": -27.47957,
                     "end_lon": 153.02278,
-                    "distance": 60.871874886630415,
+                    "distance": 3.325141777536719,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4008,7 +4027,7 @@
                     "end_time": 738,
                     "end_lat": -27.48258,
                     "end_lon": 153.03637,
-                    "distance": 37.08099716387892,
+                    "distance": 1.957026336392547,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4047,7 +4066,7 @@
                     "end_time": 737,
                     "end_lat": -27.44058,
                     "end_lon": 153.12763,
-                    "distance": 224.29277280923958,
+                    "distance": 11.86137836751588,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4086,7 +4105,7 @@
                     "end_time": 769,
                     "end_lat": -27.42558,
                     "end_lon": 153.15028,
-                    "distance": 78.45421164567601,
+                    "distance": 4.196848760607212,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4125,7 +4144,7 @@
                     "end_time": 798,
                     "end_lat": -27.50078,
                     "end_lon": 153.0359,
-                    "distance": 416.2332984791553,
+                    "distance": 22.23911338563512,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4164,7 +4183,7 @@
                     "end_time": 876,
                     "end_lat": -27.46882,
                     "end_lon": 153.07148,
-                    "distance": 99.18326311098346,
+                    "distance": 5.2847272966621475,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4203,7 +4222,7 @@
                     "end_time": 876,
                     "end_lat": -27.42555,
                     "end_lon": 153.15027,
-                    "distance": 228.43199422445593,
+                    "distance": 12.160662635749294,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4439,15 +4458,15 @@
             ]
         },
         {
-            "id": 6,
-            "blockId": "B7",
+            "id": 7,
+            "blockId": "B8",
             "dh_st_time": 424,
             "startTime": 424,
             "endTime": 821,
             "dh_end_time": 821,
             "lon_start": 153.15008,
             "lat_start": -27.42603,
-            "distance": 1751.9869447378137,
+            "distance": 93.90828790894972,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -4461,7 +4480,7 @@
                     "end_time": 475,
                     "end_lat": -27.46943,
                     "end_lon": 153.02458,
-                    "distance": 361.31482413737365,
+                    "distance": 19.33898278710541,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4500,7 +4519,7 @@
                     "end_time": 500,
                     "end_lat": -27.47902,
                     "end_lon": 153.02313,
-                    "distance": 52.82276279227657,
+                    "distance": 2.878128856150052,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4539,7 +4558,7 @@
                     "end_time": 544,
                     "end_lat": -27.42558,
                     "end_lon": 153.15025,
-                    "distance": 375.4085197628599,
+                    "distance": 19.873512253317188,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4578,7 +4597,7 @@
                     "end_time": 631,
                     "end_lat": -27.48257,
                     "end_lon": 153.03633,
-                    "distance": 354.78153618685144,
+                    "distance": 18.86585443890763,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4617,7 +4636,7 @@
                     "end_time": 682,
                     "end_lat": -27.45607,
                     "end_lon": 153.03343,
-                    "distance": 58.16342842069413,
+                    "distance": 3.2813465447403325,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4656,7 +4675,7 @@
                     "end_time": 689,
                     "end_lat": -27.48113,
                     "end_lon": 153.0363,
-                    "distance": 64.7005124889309,
+                    "distance": 3.6385293129397525,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4695,7 +4714,7 @@
                     "end_time": 750,
                     "end_lat": -27.50075,
                     "end_lon": 153.03578,
-                    "distance": 53.21665755340359,
+                    "distance": 2.9514184143582662,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4734,7 +4753,7 @@
                     "end_time": 804,
                     "end_lat": -27.47128,
                     "end_lon": 153.02655,
-                    "distance": 90.54682691138038,
+                    "distance": 4.973401946017071,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4773,7 +4792,7 @@
                     "end_time": 821,
                     "end_lat": -27.42553,
                     "end_lon": 153.1503,
-                    "distance": 341.0318764840434,
+                    "distance": 18.107113355414,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4881,15 +4900,15 @@
             ]
         },
         {
-            "id": 7,
-            "blockId": "B8",
+            "id": 8,
+            "blockId": "B9",
             "dh_st_time": 368,
             "startTime": 368,
             "endTime": 788,
             "dh_end_time": 788,
             "lon_start": 153.15007,
             "lat_start": -27.42597,
-            "distance": 4455.94641677363,
+            "distance": 238.84221582472802,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -4903,7 +4922,7 @@
                     "end_time": 384,
                     "end_lat": -27.4693,
                     "end_lon": 153.02477,
-                    "distance": 352.3404110721395,
+                    "distance": 18.86325126114771,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4942,7 +4961,7 @@
                     "end_time": 456,
                     "end_lat": -27.47902,
                     "end_lon": 153.02322,
-                    "distance": 53.23322649417469,
+                    "distance": 2.902593342134656,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -4981,7 +5000,7 @@
                     "end_time": 461,
                     "end_lat": -27.45605,
                     "end_lon": 153.0334,
-                    "distance": 86.74897882674351,
+                    "distance": 4.786501722265857,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5020,7 +5039,7 @@
                     "end_time": 493,
                     "end_lat": -27.42558,
                     "end_lon": 153.15025,
-                    "distance": 326.9227027694749,
+                    "distance": 17.46918282053151,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5059,7 +5078,7 @@
                     "end_time": 590,
                     "end_lat": -27.4826,
                     "end_lon": 153.03633,
-                    "distance": 355.11643181569843,
+                    "distance": 18.884654040893917,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5098,7 +5117,7 @@
                     "end_time": 572,
                     "end_lat": -27.50062,
                     "end_lon": 153.03595,
-                    "distance": 38.56008442605946,
+                    "distance": 2.182061017797857,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5137,7 +5156,7 @@
                     "end_time": 688,
                     "end_lat": -27.47145,
                     "end_lon": 153.02607,
-                    "distance": 125.63325386343588,
+                    "distance": 6.886497062493897,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5176,7 +5195,7 @@
                     "end_time": 718,
                     "end_lat": -27.44057,
                     "end_lon": 153.12765,
-                    "distance": 268.8053050999402,
+                    "distance": 14.285063791572776,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5215,7 +5234,7 @@
                     "end_time": 714,
                     "end_lat": -27.42555,
                     "end_lon": 153.1503,
-                    "distance": 77.9747877656853,
+                    "distance": 4.169375813648778,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5254,7 +5273,7 @@
                     "end_time": 957,
                     "end_lat": -27.50262,
                     "end_lon": 153.22008,
-                    "distance": 595.0827548414624,
+                    "distance": 31.8232381997657,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5293,7 +5312,7 @@
                     "end_time": 255,
                     "end_lat": -27.42603,
                     "end_lon": 153.14997,
-                    "distance": 314.9902962832885,
+                    "distance": 16.915499050002815,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5332,7 +5351,7 @@
                     "end_time": 451,
                     "end_lat": -27.46942,
                     "end_lon": 153.0247,
-                    "distance": 406.55039212122824,
+                    "distance": 21.74850687704108,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5371,7 +5390,7 @@
                     "end_time": 499,
                     "end_lat": -27.47905,
                     "end_lon": 153.02313,
-                    "distance": 53.07131595748958,
+                    "distance": 2.8954058580769244,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5410,7 +5429,7 @@
                     "end_time": 501,
                     "end_lat": -27.48127,
                     "end_lon": 153.033,
-                    "distance": 31.710415947628235,
+                    "distance": 1.6926532196481388,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5449,7 +5468,7 @@
                     "end_time": 524,
                     "end_lat": -27.4561,
                     "end_lon": 153.03342,
-                    "distance": 54.856878836079574,
+                    "distance": 3.082315063655836,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5488,7 +5507,7 @@
                     "end_time": 571,
                     "end_lat": -27.42608,
                     "end_lon": 153.14997,
-                    "distance": 344.4209454181512,
+                    "distance": 18.39800465495153,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5527,7 +5546,7 @@
                     "end_time": 648,
                     "end_lat": -27.47152,
                     "end_lon": 153.02607,
-                    "distance": 359.5799204265719,
+                    "distance": 19.245777134896795,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5566,7 +5585,7 @@
                     "end_time": 699,
                     "end_lat": -27.48108,
                     "end_lon": 153.03625,
-                    "distance": 46.16466035653961,
+                    "distance": 2.5190726919651056,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5605,7 +5624,7 @@
                     "end_time": 700,
                     "end_lat": -27.5006,
                     "end_lon": 153.03593,
-                    "distance": 47.99002637021281,
+                    "distance": 2.682287386932926,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5644,7 +5663,7 @@
                     "end_time": 770,
                     "end_lat": -27.43555,
                     "end_lon": 153.1734,
-                    "distance": 437.04025846331615,
+                    "distance": 23.17176534581631,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5683,7 +5702,7 @@
                     "end_time": 788,
                     "end_lat": -27.426,
                     "end_lon": 153.14995,
-                    "distance": 79.15336961830941,
+                    "distance": 4.23850946948787,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5887,15 +5906,15 @@
             ]
         },
         {
-            "id": 8,
-            "blockId": "B9",
+            "id": 9,
+            "blockId": "B10",
             "dh_st_time": 1289,
             "startTime": 1289,
             "endTime": 864,
             "dh_end_time": 864,
             "lon_start": 153.14998,
             "lat_start": -27.42608,
-            "distance": 1922.0873431914206,
+            "distance": 103.29638871907696,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -5909,7 +5928,7 @@
                     "end_time": 1242,
                     "end_lat": -27.44578,
                     "end_lon": 153.17173,
-                    "distance": 75.10376274636795,
+                    "distance": 4.092865759607978,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5948,7 +5967,7 @@
                     "end_time": 1297,
                     "end_lat": -27.42605,
                     "end_lon": 153.14995,
-                    "distance": 73.51078620920134,
+                    "distance": 4.002395559297102,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -5987,7 +6006,7 @@
                     "end_time": 454,
                     "end_lat": -27.46948,
                     "end_lon": 153.02472,
-                    "distance": 353.0152144507524,
+                    "distance": 18.895754191592232,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6026,7 +6045,7 @@
                     "end_time": 481,
                     "end_lat": -27.47905,
                     "end_lon": 153.02313,
-                    "distance": 53.71943029652776,
+                    "distance": 2.9301749643123007,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6065,7 +6084,7 @@
                     "end_time": 544,
                     "end_lat": -27.45605,
                     "end_lon": 153.03348,
-                    "distance": 86.87479368005137,
+                    "distance": 4.791463064886138,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6104,7 +6123,7 @@
                     "end_time": 608,
                     "end_lat": -27.4256,
                     "end_lon": 153.15025,
-                    "distance": 327.9327887862958,
+                    "distance": 17.523480650798447,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6143,7 +6162,7 @@
                     "end_time": 660,
                     "end_lat": -27.48255,
                     "end_lon": 153.03632,
-                    "distance": 354.7007127050408,
+                    "distance": 18.86047043047219,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6182,7 +6201,7 @@
                     "end_time": 650,
                     "end_lat": -27.47145,
                     "end_lon": 153.02598,
-                    "distance": 77.72172299259357,
+                    "distance": 4.31704078178357,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6221,7 +6240,7 @@
                     "end_time": 724,
                     "end_lat": -27.50053,
                     "end_lon": 153.03582,
-                    "distance": 110.29054809230615,
+                    "distance": 6.068179987079829,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6260,7 +6279,7 @@
                     "end_time": 817,
                     "end_lat": -27.4406,
                     "end_lon": 153.12762,
-                    "distance": 318.90201830422484,
+                    "distance": 16.98468890100255,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6299,7 +6318,7 @@
                     "end_time": 864,
                     "end_lat": -27.42605,
                     "end_lon": 153.14997,
-                    "distance": 90.3155649280587,
+                    "distance": 4.829874428244601,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6423,15 +6442,15 @@
             ]
         },
         {
-            "id": 9,
-            "blockId": "B10",
+            "id": 10,
+            "blockId": "B11",
             "dh_st_time": 300,
             "startTime": 300,
             "endTime": 669,
             "dh_end_time": 669,
             "lon_start": 153.1501,
             "lat_start": -27.42603,
-            "distance": 1655.050574323442,
+            "distance": 88.55631772756641,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -6445,7 +6464,7 @@
                     "end_time": 365,
                     "end_lat": -27.46937,
                     "end_lon": 153.02475,
-                    "distance": 351.73178445349185,
+                    "distance": 18.829703000672517,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6484,7 +6503,7 @@
                     "end_time": 376,
                     "end_lat": -27.47905,
                     "end_lon": 153.02312,
-                    "distance": 52.63673223190449,
+                    "distance": 2.8676698825028986,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6523,7 +6542,7 @@
                     "end_time": 457,
                     "end_lat": -27.42795,
                     "end_lon": 153.1468,
-                    "distance": 338.8376871510885,
+                    "distance": 17.917570439838414,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6562,7 +6581,7 @@
                     "end_time": 577,
                     "end_lat": -27.48255,
                     "end_lon": 153.03633,
-                    "distance": 390.9397095362107,
+                    "distance": 20.78305816555475,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6601,7 +6620,7 @@
                     "end_time": 594,
                     "end_lat": -27.45603,
                     "end_lon": 153.03343,
-                    "distance": 58.10165718081786,
+                    "distance": 3.2778187933295113,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6640,7 +6659,7 @@
                     "end_time": 608,
                     "end_lat": -27.47137,
                     "end_lon": 153.0262,
-                    "distance": 50.87803530513088,
+                    "distance": 2.7636904455862683,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6679,7 +6698,7 @@
                     "end_time": 665,
                     "end_lat": -27.50067,
                     "end_lon": 153.03593,
-                    "distance": 74.74162916591034,
+                    "distance": 4.13080975411468,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6718,7 +6737,7 @@
                     "end_time": 669,
                     "end_lat": -27.42563,
                     "end_lon": 153.15032,
-                    "distance": 337.1833392988873,
+                    "distance": 17.985997245967376,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6818,15 +6837,15 @@
             ]
         },
         {
-            "id": 10,
-            "blockId": "B11",
+            "id": 11,
+            "blockId": "B12",
             "dh_st_time": 1164,
             "startTime": 1164,
             "endTime": 1209,
             "dh_end_time": 1209,
             "lon_start": 153.15,
             "lat_start": -27.42605,
-            "distance": 148.23590888942812,
+            "distance": 8.074004414362866,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -6840,7 +6859,7 @@
                     "end_time": 1203,
                     "end_lat": -27.44568,
                     "end_lon": 153.17178,
-                    "distance": 74.9659710146351,
+                    "distance": 4.086097104322657,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6879,7 +6898,7 @@
                     "end_time": 1209,
                     "end_lat": -27.42603,
                     "end_lon": 153.14998,
-                    "distance": 73.26993787479302,
+                    "distance": 3.987907310040209,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6931,15 +6950,15 @@
             ]
         },
         {
-            "id": 11,
-            "blockId": "B12",
+            "id": 12,
+            "blockId": "B13",
             "dh_st_time": 385,
             "startTime": 385,
             "endTime": 892,
             "dh_end_time": 892,
             "lon_start": 153.15012,
             "lat_start": -27.42607,
-            "distance": 3929.03423380035,
+            "distance": 213.8768625837476,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -6953,7 +6972,7 @@
                     "end_time": 428,
                     "end_lat": -27.46948,
                     "end_lon": 153.02468,
-                    "distance": 352.6538913355858,
+                    "distance": 18.88036830073355,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -6992,7 +7011,7 @@
                     "end_time": 477,
                     "end_lat": -27.47907,
                     "end_lon": 153.02317,
-                    "distance": 53.75189652835829,
+                    "distance": 2.931729856954164,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7031,7 +7050,7 @@
                     "end_time": 563,
                     "end_lat": -27.42558,
                     "end_lon": 153.15023,
-                    "distance": 375.0694599424917,
+                    "distance": 19.85089265004531,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7070,7 +7089,7 @@
                     "end_time": 565,
                     "end_lat": -27.44058,
                     "end_lon": 153.12758,
-                    "distance": 82.33691870539029,
+                    "distance": 4.397501721169715,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7109,7 +7128,7 @@
                     "end_time": 620,
                     "end_lat": -27.47153,
                     "end_lon": 153.02613,
-                    "distance": 293.2942297045885,
+                    "distance": 15.694365528540212,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7148,7 +7167,7 @@
                     "end_time": 653,
                     "end_lat": -27.45607,
                     "end_lon": 153.0334,
-                    "distance": 49.614171886825964,
+                    "distance": 2.675807068180505,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7187,7 +7206,7 @@
                     "end_time": 654,
                     "end_lat": -27.48258,
                     "end_lon": 153.03633,
-                    "distance": 65.65168933459286,
+                    "distance": 3.698455688073453,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7226,7 +7245,7 @@
                     "end_time": 714,
                     "end_lat": -27.50058,
                     "end_lon": 153.03582,
-                    "distance": 38.62315608981215,
+                    "distance": 2.186463556836616,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7265,7 +7284,7 @@
                     "end_time": 789,
                     "end_lat": -27.9297,
                     "end_lon": 153.18293,
-                    "distance": 1240.07718313123,
+                    "distance": 67.87366713073155,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7304,7 +7323,7 @@
                     "end_time": 892,
                     "end_lat": -27.42562,
                     "end_lon": 153.15025,
-                    "distance": 1377.961637141475,
+                    "distance": 75.68761108248255,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7420,15 +7439,15 @@
             ]
         },
         {
-            "id": 12,
-            "blockId": "B13",
+            "id": 13,
+            "blockId": "B14",
             "dh_st_time": 1159,
             "startTime": 1159,
             "endTime": 800,
             "dh_end_time": 800,
             "lon_start": 153.14993,
             "lat_start": -27.42608,
-            "distance": 5990.982773345743,
+            "distance": 321.008999492339,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -7442,7 +7461,7 @@
                     "end_time": 1213,
                     "end_lat": -27.44447,
                     "end_lon": 153.17175,
-                    "distance": 75.96479049261183,
+                    "distance": 4.141545010263098,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7481,7 +7500,7 @@
                     "end_time": 1221,
                     "end_lat": -27.42605,
                     "end_lon": 153.14993,
-                    "distance": 72.79304887930911,
+                    "distance": 3.960784546948706,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7520,7 +7539,7 @@
                     "end_time": 449,
                     "end_lat": -27.4694,
                     "end_lon": 153.02463,
-                    "distance": 377.48343316875525,
+                    "distance": 20.173786154892113,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7559,7 +7578,7 @@
                     "end_time": 510,
                     "end_lat": -27.47908,
                     "end_lon": 153.02313,
-                    "distance": 53.52243527519459,
+                    "distance": 2.9168455459713516,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7598,7 +7617,7 @@
                     "end_time": 508,
                     "end_lat": -27.48682,
                     "end_lon": 153.03508,
-                    "distance": 45.806321996220944,
+                    "distance": 2.446391917700771,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7637,7 +7656,7 @@
                     "end_time": 623,
                     "end_lat": -27.42605,
                     "end_lon": 153.15017,
-                    "distance": 337.32289490494065,
+                    "distance": 17.892213832779607,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7676,7 +7695,7 @@
                     "end_time": 697,
                     "end_lat": -27.45605,
                     "end_lon": 153.0334,
-                    "distance": 334.01731268394815,
+                    "distance": 17.875388231020246,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7715,7 +7734,7 @@
                     "end_time": 708,
                     "end_lat": -27.47175,
                     "end_lon": 153.02598,
-                    "distance": 51.87147547395739,
+                    "distance": 2.8175400435078912,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7754,7 +7773,7 @@
                     "end_time": 740,
                     "end_lat": -27.48253,
                     "end_lon": 153.03637,
-                    "distance": 44.651746910503434,
+                    "distance": 2.4259147141032944,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7793,7 +7812,7 @@
                     "end_time": 786,
                     "end_lat": -27.50047,
                     "end_lon": 153.0358,
-                    "distance": 43.27529219943475,
+                    "distance": 2.3674369413139984,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7832,7 +7851,7 @@
                     "end_time": 784,
                     "end_lat": -27.48135,
                     "end_lon": 153.03938,
-                    "distance": 48.636637812139405,
+                    "distance": 2.709423988613883,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7871,7 +7890,7 @@
                     "end_time": 834,
                     "end_lat": -27.42603,
                     "end_lon": 153.1499,
-                    "distance": 299.4762787719312,
+                    "distance": 15.855764930759051,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7910,7 +7929,7 @@
                     "end_time": 914,
                     "end_lat": -27.42608,
                     "end_lon": 153.1499,
-                    "distance": 8.73091641510672,
+                    "distance": 0.47245527113409524,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7949,7 +7968,7 @@
                     "end_time": 486,
                     "end_lat": -27.46943,
                     "end_lon": 153.0246,
-                    "distance": 399.4903798158408,
+                    "distance": 21.386401982823834,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -7988,7 +8007,7 @@
                     "end_time": 560,
                     "end_lat": -27.426,
                     "end_lon": 153.15,
-                    "distance": 377.2193854233286,
+                    "distance": 20.1873716828308,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8027,7 +8046,7 @@
                     "end_time": 626,
                     "end_lat": -27.45602,
                     "end_lon": 153.03342,
-                    "distance": 333.9590697002015,
+                    "distance": 17.869868237394112,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8066,7 +8085,7 @@
                     "end_time": 672,
                     "end_lat": -27.48253,
                     "end_lon": 153.03635,
-                    "distance": 65.56094183771938,
+                    "distance": 3.6935540300584346,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8105,7 +8124,7 @@
                     "end_time": 689,
                     "end_lat": -27.4788,
                     "end_lon": 153.02225,
-                    "distance": 57.291254082417055,
+                    "distance": 3.0971031813900027,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8144,7 +8163,7 @@
                     "end_time": 710,
                     "end_lat": -27.47143,
                     "end_lon": 153.0262,
-                    "distance": 65.73068421022887,
+                    "distance": 3.5485222859898657,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8183,7 +8202,7 @@
                     "end_time": 733,
                     "end_lat": -27.42553,
                     "end_lon": 153.15023,
-                    "distance": 372.27404082968866,
+                    "distance": 19.92531912774557,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8222,7 +8241,7 @@
                     "end_time": 815,
                     "end_lat": -27.50065,
                     "end_lon": 153.0359,
-                    "distance": 416.3912097234123,
+                    "distance": 22.24686344437055,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8261,7 +8280,7 @@
                     "end_time": 813,
                     "end_lat": -27.48678,
                     "end_lon": 153.03518,
-                    "distance": 35.201775897078726,
+                    "distance": 1.9642493899206097,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8300,7 +8319,7 @@
                     "end_time": 896,
                     "end_lat": -27.4406,
                     "end_lon": 153.12762,
-                    "distance": 214.92807038563438,
+                    "distance": 11.355504799538116,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8339,7 +8358,7 @@
                     "end_time": 944,
                     "end_lat": -27.4262,
                     "end_lon": 153.1517,
-                    "distance": 81.6122578982125,
+                    "distance": 4.359536667681371,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8378,7 +8397,7 @@
                     "end_time": 436,
                     "end_lat": -27.46942,
                     "end_lon": 153.02465,
-                    "distance": 352.4350741894456,
+                    "distance": 18.86852800052111,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8417,7 +8436,7 @@
                     "end_time": 508,
                     "end_lat": -27.42558,
                     "end_lon": 153.15027,
-                    "distance": 368.22470277768156,
+                    "distance": 19.70167577515548,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8456,7 +8475,7 @@
                     "end_time": 577,
                     "end_lat": -27.47898,
                     "end_lon": 153.02317,
-                    "distance": 402.71333735827056,
+                    "distance": 21.55519326931077,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8495,7 +8514,7 @@
                     "end_time": 629,
                     "end_lat": -27.47145,
                     "end_lon": 153.02602,
-                    "distance": 73.63975664021254,
+                    "distance": 3.9966477267759704,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8534,7 +8553,7 @@
                     "end_time": 651,
                     "end_lat": -27.48258,
                     "end_lon": 153.03633,
-                    "distance": 116.17454289359009,
+                    "distance": 6.429366421599425,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8573,7 +8592,7 @@
                     "end_time": 688,
                     "end_lat": -27.50062,
                     "end_lon": 153.03593,
-                    "distance": 38.55207506793731,
+                    "distance": 2.1822115135716826,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8612,7 +8631,7 @@
                     "end_time": 777,
                     "end_lat": -27.47772,
                     "end_lon": 153.12407,
-                    "distance": 215.75569927712888,
+                    "distance": 11.295778262366273,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8651,7 +8670,7 @@
                     "end_time": 800,
                     "end_lat": -27.42558,
                     "end_lon": 153.1503,
-                    "distance": 210.27593035366152,
+                    "distance": 11.289812564286851,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -8943,15 +8962,15 @@
             ]
         },
         {
-            "id": 13,
-            "blockId": "B14",
+            "id": 14,
+            "blockId": "B15",
             "dh_st_time": 320,
             "startTime": 320,
             "endTime": 838,
             "dh_end_time": 838,
             "lon_start": 153.15007,
             "lat_start": -27.42603,
-            "distance": 8185.094745757672,
+            "distance": 440.08916121213827,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -8965,7 +8984,7 @@
                     "end_time": 353,
                     "end_lat": -27.4694,
                     "end_lon": 153.02488,
-                    "distance": 352.1977287737004,
+                    "distance": 18.853509819196365,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9004,7 +9023,7 @@
                     "end_time": 409,
                     "end_lat": -27.47898,
                     "end_lon": 153.02317,
-                    "distance": 52.29452514762324,
+                    "distance": 2.848878299645843,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9043,7 +9062,7 @@
                     "end_time": 486,
                     "end_lat": -27.426,
                     "end_lon": 153.14993,
-                    "distance": 345.28914209284596,
+                    "distance": 18.279430859490045,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9082,7 +9101,7 @@
                     "end_time": 503,
                     "end_lat": -27.48258,
                     "end_lon": 153.03632,
-                    "distance": 354.94009458899484,
+                    "distance": 18.874126991249167,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9121,7 +9140,7 @@
                     "end_time": 551,
                     "end_lat": -27.45608,
                     "end_lon": 153.03342,
-                    "distance": 58.102260900292976,
+                    "distance": 3.2772202164809263,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9160,7 +9179,7 @@
                     "end_time": 606,
                     "end_lat": -27.42603,
                     "end_lon": 153.14998,
-                    "distance": 337.9987152102019,
+                    "distance": 18.065901613799603,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9199,7 +9218,7 @@
                     "end_time": 629,
                     "end_lat": -27.39565,
                     "end_lon": 153.10733,
-                    "distance": 291.4211658527378,
+                    "distance": 15.897905694480153,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9238,7 +9257,7 @@
                     "end_time": 669,
                     "end_lat": -27.47192,
                     "end_lon": 153.02647,
-                    "distance": 259.9848822665259,
+                    "distance": 14.042870839683356,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9277,7 +9296,7 @@
                     "end_time": 732,
                     "end_lat": -27.50033,
                     "end_lon": 153.0359,
-                    "distance": 73.28289103909273,
+                    "distance": 4.047763264323829,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9316,7 +9335,7 @@
                     "end_time": 750,
                     "end_lat": -27.42552,
                     "end_lon": 153.15032,
-                    "distance": 336.63013400440934,
+                    "distance": 17.96797889658746,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9355,7 +9374,7 @@
                     "end_time": 793,
                     "end_lat": -27.3306,
                     "end_lon": 153.0577,
-                    "distance": 469.4120597872836,
+                    "distance": 25.877640531117247,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9394,7 +9413,7 @@
                     "end_time": 887,
                     "end_lat": -27.426,
                     "end_lon": 153.15002,
-                    "distance": 491.14099990894,
+                    "distance": 26.896640375704223,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9433,7 +9452,7 @@
                     "end_time": 639,
                     "end_lat": -27.41513,
                     "end_lon": 153.05905,
-                    "distance": 290.34204458425484,
+                    "distance": 15.681136020409715,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9472,7 +9491,7 @@
                     "end_time": 692,
                     "end_lat": -27.42608,
                     "end_lon": 153.14998,
-                    "distance": 321.89968327674706,
+                    "distance": 17.331600060652406,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9511,7 +9530,7 @@
                     "end_time": 434,
                     "end_lat": -27.46945,
                     "end_lon": 153.02463,
-                    "distance": 352.4736959075707,
+                    "distance": 18.87472709945589,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9550,7 +9569,7 @@
                     "end_time": 492,
                     "end_lat": -27.4406,
                     "end_lon": 153.12763,
-                    "distance": 277.78042009244376,
+                    "distance": 14.764081827733438,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9589,7 +9608,7 @@
                     "end_time": 505,
                     "end_lat": -27.4256,
                     "end_lon": 153.1503,
-                    "distance": 78.1130714452808,
+                    "distance": 4.177419794619035,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9628,7 +9647,7 @@
                     "end_time": 552,
                     "end_lat": -27.48257,
                     "end_lon": 153.03635,
-                    "distance": 354.89903915497166,
+                    "distance": 18.872863570261956,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9667,7 +9686,7 @@
                     "end_time": 584,
                     "end_lat": -27.47897,
                     "end_lon": 153.0231,
-                    "distance": 43.11075250961631,
+                    "distance": 2.310452285137972,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9706,7 +9725,7 @@
                     "end_time": 724,
                     "end_lat": -27.50057,
                     "end_lon": 153.03592,
-                    "distance": 886.5283602209869,
+                    "distance": 47.56585052799238,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9745,7 +9764,7 @@
                     "end_time": 761,
                     "end_lat": -27.47167,
                     "end_lon": 153.02598,
-                    "distance": 67.10191117030904,
+                    "distance": 3.6492222774844647,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9784,7 +9803,7 @@
                     "end_time": 821,
                     "end_lat": -27.45603,
                     "end_lon": 153.03342,
-                    "distance": 48.872198187076094,
+                    "distance": 2.638089012387093,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9823,7 +9842,7 @@
                     "end_time": 803,
                     "end_lat": -27.43337,
                     "end_lon": 153.06542,
-                    "distance": 91.4402773500764,
+                    "distance": 4.907750168043955,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9862,7 +9881,7 @@
                     "end_time": 858,
                     "end_lat": -27.42612,
                     "end_lon": 153.15357,
-                    "distance": 248.69263796925745,
+                    "distance": 13.344929969982129,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9901,7 +9920,7 @@
                     "end_time": 847,
                     "end_lat": -27.42563,
                     "end_lon": 153.15028,
-                    "distance": 32.574385181264105,
+                    "distance": 1.737352387718282,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9940,7 +9959,7 @@
                     "end_time": 466,
                     "end_lat": -27.46938,
                     "end_lon": 153.02472,
-                    "distance": 371.70099874896994,
+                    "distance": 19.89871899525681,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -9979,7 +9998,7 @@
                     "end_time": 528,
                     "end_lat": -27.47898,
                     "end_lon": 153.02308,
-                    "distance": 53.5917537863155,
+                    "distance": 2.918953297618577,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10018,7 +10037,7 @@
                     "end_time": 559,
                     "end_lat": -27.48675,
                     "end_lon": 153.03518,
-                    "distance": 45.44512584384306,
+                    "distance": 2.4285170549114645,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10057,7 +10076,7 @@
                     "end_time": 594,
                     "end_lat": -27.4256,
                     "end_lon": 153.15025,
-                    "distance": 312.3138861438494,
+                    "distance": 16.58939882927637,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10096,7 +10115,7 @@
                     "end_time": 660,
                     "end_lat": -27.48257,
                     "end_lon": 153.03635,
-                    "distance": 355.4379468736742,
+                    "distance": 18.9029742161614,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10135,7 +10154,7 @@
                     "end_time": 669,
                     "end_lat": -27.50083,
                     "end_lon": 153.03592,
-                    "distance": 38.73979354242348,
+                    "distance": 2.194072398137066,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10174,7 +10193,7 @@
                     "end_time": 725,
                     "end_lat": -27.4873,
                     "end_lon": 153.02963,
-                    "distance": 63.78331294152922,
+                    "distance": 3.4347606086673004,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10213,7 +10232,7 @@
                     "end_time": 736,
                     "end_lat": -27.47142,
                     "end_lon": 153.02628,
-                    "distance": 58.707582372075436,
+                    "distance": 3.205566333860049,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10252,7 +10271,7 @@
                     "end_time": 780,
                     "end_lat": -27.45607,
                     "end_lon": 153.03345,
-                    "distance": 49.54351522495367,
+                    "distance": 2.6734175483237608,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10291,7 +10310,7 @@
                     "end_time": 838,
                     "end_lat": -27.42588,
                     "end_lon": 153.1545,
-                    "distance": 319.30775365753595,
+                    "distance": 17.057439526288583,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10607,15 +10626,15 @@
             ]
         },
         {
-            "id": 14,
-            "blockId": "B15",
+            "id": 15,
+            "blockId": "B16",
             "dh_st_time": 1236,
             "startTime": 1236,
             "endTime": 785,
             "dh_end_time": 785,
             "lon_start": 153.15,
             "lat_start": -27.42605,
-            "distance": 6068.523490908119,
+            "distance": 325.0967171577032,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -10629,7 +10648,7 @@
                     "end_time": 1258,
                     "end_lat": -27.4443,
                     "end_lon": 153.17172,
-                    "distance": 74.04721194734536,
+                    "distance": 4.034258665032637,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10668,7 +10687,7 @@
                     "end_time": 1263,
                     "end_lat": -27.42605,
                     "end_lon": 153.14998,
-                    "distance": 72.49178027581287,
+                    "distance": 3.941707076491744,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10707,7 +10726,7 @@
                     "end_time": 442,
                     "end_lat": -27.46927,
                     "end_lon": 153.02453,
-                    "distance": 352.59646045009305,
+                    "distance": 18.878693460539655,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10746,7 +10765,7 @@
                     "end_time": 477,
                     "end_lat": -27.47903,
                     "end_lon": 153.02313,
-                    "distance": 53.70856241858276,
+                    "distance": 2.9278575226041466,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10785,7 +10804,7 @@
                     "end_time": 531,
                     "end_lat": -27.47148,
                     "end_lon": 153.02627,
-                    "distance": 67.57470146929637,
+                    "distance": 3.6493501446360317,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10824,7 +10843,7 @@
                     "end_time": 579,
                     "end_lat": -27.45602,
                     "end_lon": 153.0334,
-                    "distance": 50.59508845715537,
+                    "distance": 2.7269091366994167,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10863,7 +10882,7 @@
                     "end_time": 604,
                     "end_lat": -27.48255,
                     "end_lon": 153.03633,
-                    "distance": 65.19434782392089,
+                    "distance": 3.674511329335101,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10902,7 +10921,7 @@
                     "end_time": 664,
                     "end_lat": -27.42562,
                     "end_lon": 153.1503,
-                    "distance": 348.1576020683067,
+                    "distance": 18.428604817523485,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10941,7 +10960,7 @@
                     "end_time": 736,
                     "end_lat": -27.5006,
                     "end_lon": 153.03578,
-                    "distance": 417.6053665984899,
+                    "distance": 22.322583218231877,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -10980,7 +10999,7 @@
                     "end_time": 736,
                     "end_lat": -27.48678,
                     "end_lon": 153.0352,
-                    "distance": 33.31991199765681,
+                    "distance": 1.8603461746184886,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11019,7 +11038,7 @@
                     "end_time": 818,
                     "end_lat": -27.42598,
                     "end_lon": 153.14998,
-                    "distance": 342.0598515409337,
+                    "distance": 18.117377117224585,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11058,7 +11077,7 @@
                     "end_time": 1211,
                     "end_lat": -27.44573,
                     "end_lon": 153.17178,
-                    "distance": 75.08355743415018,
+                    "distance": 4.094149765415637,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11097,7 +11116,7 @@
                     "end_time": 1208,
                     "end_lat": -27.42603,
                     "end_lon": 153.14998,
-                    "distance": 72.95494717034632,
+                    "distance": 3.9686140848195417,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11136,7 +11155,7 @@
                     "end_time": 496,
                     "end_lat": -27.46935,
                     "end_lon": 153.02475,
-                    "distance": 341.9216676405681,
+                    "distance": 18.296053168028863,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11175,7 +11194,7 @@
                     "end_time": 539,
                     "end_lat": -27.42562,
                     "end_lon": 153.15028,
-                    "distance": 367.79753350573276,
+                    "distance": 19.675129067583747,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11214,7 +11233,7 @@
                     "end_time": 601,
                     "end_lat": -27.4826,
                     "end_lon": 153.03635,
-                    "distance": 354.9439936642103,
+                    "distance": 18.876833119297615,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11253,7 +11272,7 @@
                     "end_time": 646,
                     "end_lat": -27.50062,
                     "end_lon": 153.03597,
-                    "distance": 38.3232444019499,
+                    "distance": 2.170561615641452,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11292,7 +11311,7 @@
                     "end_time": 678,
                     "end_lat": -27.47845,
                     "end_lon": 153.02203,
-                    "distance": 74.10708137980781,
+                    "distance": 4.0421918567546635,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11331,7 +11350,7 @@
                     "end_time": 689,
                     "end_lat": -27.456,
                     "end_lon": 153.03342,
-                    "distance": 92.30094178027562,
+                    "distance": 5.093484631765543,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11370,7 +11389,7 @@
                     "end_time": 760,
                     "end_lat": -27.44057,
                     "end_lon": 153.12763,
-                    "distance": 254.75428239452424,
+                    "distance": 13.615415884241852,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11409,7 +11428,7 @@
                     "end_time": 792,
                     "end_lat": -27.42598,
                     "end_lon": 153.1501,
-                    "distance": 89.9768053108241,
+                    "distance": 4.8124186637021085,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11448,7 +11467,7 @@
                     "end_time": 780,
                     "end_lat": -27.4714,
                     "end_lon": 153.02613,
-                    "distance": 359.1861207892023,
+                    "distance": 19.228756671000298,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11487,7 +11506,7 @@
                     "end_time": 849,
                     "end_lat": -27.42603,
                     "end_lon": 153.1499,
-                    "distance": 351.46163263796336,
+                    "distance": 18.668982373396844,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11526,7 +11545,7 @@
                     "end_time": 485,
                     "end_lat": -27.46942,
                     "end_lon": 153.02457,
-                    "distance": 398.4412412527008,
+                    "distance": 21.23838339525568,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11565,7 +11584,7 @@
                     "end_time": 500,
                     "end_lat": -27.47905,
                     "end_lon": 153.02312,
-                    "distance": 52.012303128996486,
+                    "distance": 2.832364115854034,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11604,7 +11623,7 @@
                     "end_time": 533,
                     "end_lat": -27.48673,
                     "end_lon": 153.03518,
-                    "distance": 46.55774155096145,
+                    "distance": 2.487415013521411,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11643,7 +11662,7 @@
                     "end_time": 593,
                     "end_lat": -27.42602,
                     "end_lon": 153.14993,
-                    "distance": 324.34082398047804,
+                    "distance": 17.233146484789593,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11682,7 +11701,7 @@
                     "end_time": 649,
                     "end_lat": -27.48253,
                     "end_lon": 153.03633,
-                    "distance": 355.23885554794134,
+                    "distance": 18.89105367449966,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11721,7 +11740,7 @@
                     "end_time": 646,
                     "end_lat": -27.50057,
                     "end_lon": 153.03595,
-                    "distance": 38.00725340219017,
+                    "distance": 2.1526476229686984,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11760,7 +11779,7 @@
                     "end_time": 691,
                     "end_lat": -27.47142,
                     "end_lon": 153.02612,
-                    "distance": 110.62743164101057,
+                    "distance": 6.03366242060578,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11799,7 +11818,7 @@
                     "end_time": 700,
                     "end_lat": -27.45605,
                     "end_lon": 153.03343,
-                    "distance": 49.542024979979296,
+                    "distance": 2.68213467662773,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11838,7 +11857,7 @@
                     "end_time": 757,
                     "end_lat": -27.43427,
                     "end_lon": 153.0658,
-                    "distance": 89.73609885698728,
+                    "distance": 4.8110428299356025,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -11877,7 +11896,7 @@
                     "end_time": 785,
                     "end_lat": -27.42548,
                     "end_lon": 153.15025,
-                    "distance": 253.8570234097251,
+                    "distance": 13.630077359059738,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12177,15 +12196,15 @@
             ]
         },
         {
-            "id": 15,
-            "blockId": "B16",
+            "id": 16,
+            "blockId": "B17",
             "dh_st_time": 385,
             "startTime": 385,
             "endTime": 1074,
             "dh_end_time": 1074,
             "lon_start": 153.15012,
             "lat_start": -27.42605,
-            "distance": 5080.229356875934,
+            "distance": 275.26187330122445,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -12199,7 +12218,7 @@
                     "end_time": 396,
                     "end_lat": -27.50095,
                     "end_lon": 153.04515,
-                    "distance": 398.81057462001206,
+                    "distance": 21.350760785679835,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12238,7 +12257,7 @@
                     "end_time": 443,
                     "end_lat": -27.46933,
                     "end_lon": 153.02473,
-                    "distance": 124.7117047293308,
+                    "distance": 6.917669772644223,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12277,7 +12296,7 @@
                     "end_time": 539,
                     "end_lat": -27.426,
                     "end_lon": 153.15008,
-                    "distance": 429.51201244563794,
+                    "distance": 22.89734984791958,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12316,7 +12335,7 @@
                     "end_time": 617,
                     "end_lat": -27.48683,
                     "end_lon": 153.03518,
-                    "distance": 310.495907095167,
+                    "distance": 16.491923654712398,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12355,7 +12374,7 @@
                     "end_time": 691,
                     "end_lat": -27.50065,
                     "end_lon": 153.03598,
-                    "distance": 31.67860291612946,
+                    "distance": 1.7777271129093515,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12394,7 +12413,7 @@
                     "end_time": 702,
                     "end_lat": -27.4799,
                     "end_lon": 153.02258,
-                    "distance": 64.40903896940073,
+                    "distance": 3.5022941861926737,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12433,7 +12452,7 @@
                     "end_time": 730,
                     "end_lat": -27.47172,
                     "end_lon": 153.02672,
-                    "distance": 79.40614368011185,
+                    "distance": 4.323046474597294,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12472,7 +12491,7 @@
                     "end_time": 746,
                     "end_lat": -27.45618,
                     "end_lon": 153.03333,
-                    "distance": 49.349464102210604,
+                    "distance": 2.6624445155651704,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12511,7 +12530,7 @@
                     "end_time": 814,
                     "end_lat": -27.46955,
                     "end_lon": 153.07088,
-                    "distance": 128.2443273739547,
+                    "distance": 6.9044996731752075,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12550,7 +12569,7 @@
                     "end_time": 805,
                     "end_lat": -27.426,
                     "end_lon": 153.15013,
-                    "distance": 227.85750653093515,
+                    "distance": 12.095690424480635,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12589,7 +12608,7 @@
                     "end_time": 863,
                     "end_lat": -27.44058,
                     "end_lon": 153.1276,
-                    "distance": 82.06703247720671,
+                    "distance": 4.384855850214163,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12628,7 +12647,7 @@
                     "end_time": 960,
                     "end_lat": -27.06883,
                     "end_lon": 153.20317,
-                    "distance": 1484.1937962903387,
+                    "distance": 80.79163722993343,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12667,7 +12686,7 @@
                     "end_time": 1074,
                     "end_lat": -27.42608,
                     "end_lon": 153.14987,
-                    "distance": 1669.4932456454985,
+                    "distance": 91.16197377320046,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12807,15 +12826,15 @@
             ]
         },
         {
-            "id": 16,
-            "blockId": "B17",
+            "id": 17,
+            "blockId": "B18",
             "dh_st_time": 372,
             "startTime": 372,
             "endTime": 882,
             "dh_end_time": 882,
             "lon_start": 153.15007,
             "lat_start": -27.426,
-            "distance": 1881.4246031945427,
+            "distance": 101.49768929804159,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -12829,7 +12848,7 @@
                     "end_time": 436,
                     "end_lat": -27.46942,
                     "end_lon": 153.02452,
-                    "distance": 362.6857965842375,
+                    "distance": 19.414061920536938,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12868,7 +12887,7 @@
                     "end_time": 498,
                     "end_lat": -27.47902,
                     "end_lon": 153.02307,
-                    "distance": 53.69791169168275,
+                    "distance": 2.9249654617138408,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12907,7 +12926,7 @@
                     "end_time": 541,
                     "end_lat": -27.48683,
                     "end_lon": 153.03523,
-                    "distance": 45.49422648824514,
+                    "distance": 2.432547827553171,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12946,7 +12965,7 @@
                     "end_time": 590,
                     "end_lat": -27.42562,
                     "end_lon": 153.15028,
-                    "distance": 312.8203704204078,
+                    "distance": 16.61526055242171,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -12985,7 +13004,7 @@
                     "end_time": 696,
                     "end_lat": -27.53677,
                     "end_lon": 153.0858,
-                    "distance": 402.7010089398114,
+                    "distance": 21.94543412091657,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13024,7 +13043,7 @@
                     "end_time": 686,
                     "end_lat": -27.48252,
                     "end_lon": 153.03637,
-                    "distance": 161.88963253849562,
+                    "distance": 8.828043437772243,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13063,7 +13082,7 @@
                     "end_time": 711,
                     "end_lat": -27.50078,
                     "end_lon": 153.0359,
-                    "distance": 39.095692846015524,
+                    "distance": 2.214039469241346,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13102,7 +13121,7 @@
                     "end_time": 804,
                     "end_lat": -27.45602,
                     "end_lon": 153.0334,
-                    "distance": 97.08005977896296,
+                    "distance": 5.481565630126283,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13141,7 +13160,7 @@
                     "end_time": 830,
                     "end_lat": -27.4714,
                     "end_lon": 153.02622,
-                    "distance": 72.37937024730613,
+                    "distance": 3.9196801262950673,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13180,7 +13199,7 @@
                     "end_time": 882,
                     "end_lat": -27.42588,
                     "end_lon": 153.15448,
-                    "distance": 333.58053365937815,
+                    "distance": 17.722090751464435,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13296,15 +13315,15 @@
             ]
         },
         {
-            "id": 17,
-            "blockId": "B18",
+            "id": 18,
+            "blockId": "B19",
             "dh_st_time": 419,
             "startTime": 419,
             "endTime": 806,
             "dh_end_time": 806,
             "lon_start": 153.15007,
             "lat_start": -27.42598,
-            "distance": 5633.811419416936,
+            "distance": 304.60613323692246,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -13318,7 +13337,7 @@
                     "end_time": 461,
                     "end_lat": -27.46943,
                     "end_lon": 153.02467,
-                    "distance": 371.3841392077712,
+                    "distance": 19.886716224099942,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13357,7 +13376,7 @@
                     "end_time": 491,
                     "end_lat": -27.47893,
                     "end_lon": 153.02305,
-                    "distance": 52.58004670860444,
+                    "distance": 2.867110939793043,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13396,7 +13415,7 @@
                     "end_time": 536,
                     "end_lat": -27.45603,
                     "end_lon": 153.03342,
-                    "distance": 80.91780687887328,
+                    "distance": 4.371637245678542,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13435,7 +13454,7 @@
                     "end_time": 566,
                     "end_lat": -27.48257,
                     "end_lon": 153.03632,
-                    "distance": 65.96401110931072,
+                    "distance": 3.716267510979411,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13474,7 +13493,7 @@
                     "end_time": 584,
                     "end_lat": -27.50047,
                     "end_lon": 153.03582,
-                    "distance": 38.33660737566588,
+                    "distance": 2.169271820852507,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13513,7 +13532,7 @@
                     "end_time": 589,
                     "end_lat": -27.48257,
                     "end_lon": 153.03633,
-                    "distance": 40.3006508019926,
+                    "distance": 2.2672652306635572,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13552,7 +13571,7 @@
                     "end_time": 589,
                     "end_lat": -27.50052,
                     "end_lon": 153.0358,
-                    "distance": 38.32641886448461,
+                    "distance": 2.169536135927227,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13591,7 +13610,7 @@
                     "end_time": 643,
                     "end_lat": -27.48717,
                     "end_lon": 153.02982,
-                    "distance": 45.49070753415093,
+                    "distance": 2.4776899729452984,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13630,7 +13649,7 @@
                     "end_time": 693,
                     "end_lat": -27.42562,
                     "end_lon": 153.1503,
-                    "distance": 321.73762456714263,
+                    "distance": 17.048809171556368,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13669,7 +13688,7 @@
                     "end_time": 755,
                     "end_lat": -27.47155,
                     "end_lon": 153.02603,
-                    "distance": 358.9319381554769,
+                    "distance": 19.21277483706683,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13708,7 +13727,7 @@
                     "end_time": 772,
                     "end_lat": -27.46883,
                     "end_lon": 153.07147,
-                    "distance": 127.53935744716726,
+                    "distance": 6.7936174046317115,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13747,7 +13766,7 @@
                     "end_time": 764,
                     "end_lat": -27.44058,
                     "end_lon": 153.12758,
-                    "distance": 148.7341155563821,
+                    "distance": 7.882414492042036,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13786,7 +13805,7 @@
                     "end_time": 816,
                     "end_lat": -27.42562,
                     "end_lon": 153.15023,
-                    "distance": 78.08648873037653,
+                    "distance": 4.174976596901198,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13825,7 +13844,7 @@
                     "end_time": 855,
                     "end_lat": -27.19743,
                     "end_lon": 153.01308,
-                    "distance": 827.3671674020079,
+                    "distance": 45.40092801853811,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13864,7 +13883,7 @@
                     "end_time": 908,
                     "end_lat": -27.20257,
                     "end_lon": 153.01098,
-                    "distance": 30.296248569100857,
+                    "distance": 1.6452247236286988,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13903,7 +13922,7 @@
                     "end_time": 923,
                     "end_lat": -27.42603,
                     "end_lon": 153.14998,
-                    "distance": 796.9591230634383,
+                    "distance": 43.76441384705372,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13942,7 +13961,7 @@
                     "end_time": 273,
                     "end_lat": -27.42603,
                     "end_lon": 153.14995,
-                    "distance": 480.37281482495507,
+                    "distance": 25.81817351793347,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -13981,7 +14000,7 @@
                     "end_time": 490,
                     "end_lat": -27.46938,
                     "end_lon": 153.02468,
-                    "distance": 381.1045636852556,
+                    "distance": 20.39566253338086,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14020,7 +14039,7 @@
                     "end_time": 518,
                     "end_lat": -27.47877,
                     "end_lon": 153.02302,
-                    "distance": 51.668404054555026,
+                    "distance": 2.81080167543588,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14059,7 +14078,7 @@
                     "end_time": 546,
                     "end_lat": -27.48678,
                     "end_lon": 153.03518,
-                    "distance": 45.80330211051056,
+                    "distance": 2.446522015523857,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14098,7 +14117,7 @@
                     "end_time": 597,
                     "end_lat": -27.47152,
                     "end_lon": 153.02623,
-                    "distance": 68.5625614418223,
+                    "distance": 3.7314243049044458,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14137,7 +14156,7 @@
                     "end_time": 621,
                     "end_lat": -27.48492,
                     "end_lon": 153.0399,
-                    "distance": 49.764369988351625,
+                    "distance": 2.6776627202310643,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14176,7 +14195,7 @@
                     "end_time": 646,
                     "end_lat": -27.42563,
                     "end_lon": 153.15028,
-                    "distance": 291.3048048155788,
+                    "distance": 15.445086962056992,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14215,7 +14234,7 @@
                     "end_time": 676,
                     "end_lat": -27.48258,
                     "end_lon": 153.03635,
-                    "distance": 355.3611865434573,
+                    "distance": 18.89642136970375,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14254,7 +14273,7 @@
                     "end_time": 725,
                     "end_lat": -27.50068,
                     "end_lon": 153.0358,
-                    "distance": 38.627672598476316,
+                    "distance": 2.185653858903514,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14293,7 +14312,7 @@
                     "end_time": 747,
                     "end_lat": -27.45607,
                     "end_lon": 153.0334,
-                    "distance": 97.16142949711401,
+                    "distance": 5.48842386205551,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14332,7 +14351,7 @@
                     "end_time": 767,
                     "end_lat": -27.43115,
                     "end_lon": 153.06603,
-                    "distance": 95.6316165248586,
+                    "distance": 5.148787372502918,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14371,7 +14390,7 @@
                     "end_time": 806,
                     "end_lat": -27.4256,
                     "end_lon": 153.1503,
-                    "distance": 255.49624136005355,
+                    "distance": 13.712858871931983,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14631,15 +14650,15 @@
             ]
         },
         {
-            "id": 18,
-            "blockId": "B19",
+            "id": 19,
+            "blockId": "B20",
             "dh_st_time": 1123,
             "startTime": 1123,
             "endTime": 860,
             "dh_end_time": 860,
             "lon_start": 153.15,
             "lat_start": -27.42608,
-            "distance": 6903.798873920303,
+            "distance": 369.36479179556625,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -14653,7 +14672,7 @@
                     "end_time": 1140,
                     "end_lat": -27.4406,
                     "end_lon": 153.12758,
-                    "distance": 94.42582557056853,
+                    "distance": 5.049259267498897,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14692,7 +14711,7 @@
                     "end_time": 1160,
                     "end_lat": -27.42605,
                     "end_lon": 153.14997,
-                    "distance": 76.76725155907005,
+                    "distance": 4.101649218971488,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14731,7 +14750,7 @@
                     "end_time": 1211,
                     "end_lat": -27.44438,
                     "end_lon": 153.17168,
-                    "distance": 74.10361275248795,
+                    "distance": 4.0360049643363185,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14770,7 +14789,7 @@
                     "end_time": 1233,
                     "end_lat": -27.42603,
                     "end_lon": 153.14997,
-                    "distance": 72.73490866997979,
+                    "distance": 3.9570298962481427,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14809,7 +14828,7 @@
                     "end_time": 505,
                     "end_lat": -27.46935,
                     "end_lon": 153.02465,
-                    "distance": 362.1211875732346,
+                    "distance": 19.387389314191765,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14848,7 +14867,7 @@
                     "end_time": 598,
                     "end_lat": -27.42608,
                     "end_lon": 153.14997,
-                    "distance": 378.2845489344505,
+                    "distance": 20.236029174010795,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14887,7 +14906,7 @@
                     "end_time": 613,
                     "end_lat": -27.47865,
                     "end_lon": 153.02212,
-                    "distance": 402.44866712437056,
+                    "distance": 21.54623800677465,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14926,7 +14945,7 @@
                     "end_time": 637,
                     "end_lat": -27.47115,
                     "end_lon": 153.02677,
-                    "distance": 63.63007101822791,
+                    "distance": 3.4348422649133727,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -14965,7 +14984,7 @@
                     "end_time": 663,
                     "end_lat": -27.45605,
                     "end_lon": 153.03345,
-                    "distance": 50.263916334092684,
+                    "distance": 2.7152753574119055,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15004,7 +15023,7 @@
                     "end_time": 682,
                     "end_lat": -27.48257,
                     "end_lon": 153.03635,
-                    "distance": 65.18773284930401,
+                    "distance": 3.673892726549746,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15043,7 +15062,7 @@
                     "end_time": 737,
                     "end_lat": -27.50067,
                     "end_lon": 153.03578,
-                    "distance": 38.83952613921599,
+                    "distance": 2.1977946168776725,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15082,7 +15101,7 @@
                     "end_time": 801,
                     "end_lat": -27.48133,
                     "end_lon": 153.03943,
-                    "distance": 49.19455813637536,
+                    "distance": 2.742673839463303,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15121,7 +15140,7 @@
                     "end_time": 866,
                     "end_lat": -27.4256,
                     "end_lon": 153.1503,
-                    "distance": 288.3098915164501,
+                    "distance": 15.25592589389216,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15160,7 +15179,7 @@
                     "end_time": 462,
                     "end_lat": -27.4694,
                     "end_lon": 153.02458,
-                    "distance": 353.0035787669468,
+                    "distance": 18.89573050488991,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15199,7 +15218,7 @@
                     "end_time": 491,
                     "end_lat": -27.48682,
                     "end_lon": 153.03522,
-                    "distance": 62.80700353269393,
+                    "distance": 3.4317857698300314,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15238,7 +15257,7 @@
                     "end_time": 577,
                     "end_lat": -27.42562,
                     "end_lon": 153.1503,
-                    "distance": 312.4397339285065,
+                    "distance": 16.59610942128658,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15277,7 +15296,7 @@
                     "end_time": 641,
                     "end_lat": -27.47865,
                     "end_lon": 153.02215,
-                    "distance": 391.27465946429396,
+                    "distance": 20.94205449311732,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15316,7 +15335,7 @@
                     "end_time": 664,
                     "end_lat": -27.47162,
                     "end_lon": 153.02628,
-                    "distance": 65.88126237267669,
+                    "distance": 3.5554537121677314,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15355,7 +15374,7 @@
                     "end_time": 701,
                     "end_lat": -27.45603,
                     "end_lon": 153.03342,
-                    "distance": 50.296412632515214,
+                    "distance": 2.712826595211303,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15394,7 +15413,7 @@
                     "end_time": 742,
                     "end_lat": -27.48253,
                     "end_lon": 153.03633,
-                    "distance": 65.17179514284045,
+                    "distance": 3.6728582525767597,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15433,7 +15452,7 @@
                     "end_time": 729,
                     "end_lat": -27.50082,
                     "end_lon": 153.03587,
-                    "distance": 38.70502966118824,
+                    "distance": 2.1915019854203583,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15472,7 +15491,7 @@
                     "end_time": 787,
                     "end_lat": -27.48122,
                     "end_lon": 153.03927,
-                    "distance": 51.363211763460114,
+                    "distance": 2.859934570176294,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15511,7 +15530,7 @@
                     "end_time": 861,
                     "end_lat": -27.42603,
                     "end_lon": 153.14993,
-                    "distance": 342.34175424662465,
+                    "distance": 18.134421119666463,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15550,7 +15569,7 @@
                     "end_time": 331,
                     "end_lat": -27.46932,
                     "end_lon": 153.02472,
-                    "distance": 397.03845197921964,
+                    "distance": 21.177638228756052,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15589,7 +15608,7 @@
                     "end_time": 424,
                     "end_lat": -27.42563,
                     "end_lon": 153.15027,
-                    "distance": 391.7029737093723,
+                    "distance": 20.817530267630772,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15628,7 +15647,7 @@
                     "end_time": 464,
                     "end_lat": -27.4827,
                     "end_lon": 153.03632,
-                    "distance": 355.3330992536171,
+                    "distance": 18.89362764046004,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15667,7 +15686,7 @@
                     "end_time": 545,
                     "end_lat": -27.42562,
                     "end_lon": 153.15027,
-                    "distance": 354.2452381478869,
+                    "distance": 18.815665642939784,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15706,7 +15725,7 @@
                     "end_time": 639,
                     "end_lat": -27.4795,
                     "end_lon": 153.02272,
-                    "distance": 400.00899052679,
+                    "distance": 21.296216395081224,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15745,7 +15764,7 @@
                     "end_time": 668,
                     "end_lat": -27.50053,
                     "end_lon": 153.03578,
-                    "distance": 66.18264750008049,
+                    "distance": 3.6064361890174936,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15784,7 +15803,7 @@
                     "end_time": 677,
                     "end_lat": -27.4256,
                     "end_lon": 153.15028,
-                    "distance": 377.43522184762145,
+                    "distance": 20.118422105660805,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15823,7 +15842,7 @@
                     "end_time": 762,
                     "end_lat": -27.45618,
                     "end_lon": 153.0333,
-                    "distance": 378.16317251488954,
+                    "distance": 20.1677318180407,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15862,7 +15881,7 @@
                     "end_time": 798,
                     "end_lat": -27.47162,
                     "end_lon": 153.0259,
-                    "distance": 52.0031616964656,
+                    "distance": 2.8505442211174077,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -15901,7 +15920,7 @@
                     "end_time": 860,
                     "end_lat": -27.4256,
                     "end_lon": 153.15027,
-                    "distance": 382.089777054784,
+                    "distance": 20.294298321379088,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16201,15 +16220,15 @@
             ]
         },
         {
-            "id": 19,
-            "blockId": "B20",
+            "id": 20,
+            "blockId": "B21",
             "dh_st_time": 429,
             "startTime": 429,
             "endTime": 607,
             "dh_end_time": 607,
             "lon_start": 153.1501,
             "lat_start": -27.42602,
-            "distance": 765.0264500686155,
+            "distance": 40.871109279052774,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -16223,7 +16242,7 @@
                     "end_time": 455,
                     "end_lat": -27.46932,
                     "end_lon": 153.02473,
-                    "distance": 352.10588061228447,
+                    "distance": 18.850859355783907,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16262,7 +16281,7 @@
                     "end_time": 547,
                     "end_lat": -27.4789,
                     "end_lon": 153.02303,
-                    "distance": 53.74219048542474,
+                    "distance": 2.925849763290772,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16301,7 +16320,7 @@
                     "end_time": 574,
                     "end_lat": -27.48678,
                     "end_lon": 153.03518,
-                    "distance": 46.39375165521515,
+                    "distance": 2.4785000526277816,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16340,7 +16359,7 @@
                     "end_time": 607,
                     "end_lat": -27.42563,
                     "end_lon": 153.1503,
-                    "distance": 312.7846273156912,
+                    "distance": 16.61590010735031,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16408,15 +16427,15 @@
             ]
         },
         {
-            "id": 20,
-            "blockId": "B21",
+            "id": 21,
+            "blockId": "B22",
             "dh_st_time": 656,
             "startTime": 656,
             "endTime": 820,
             "dh_end_time": 820,
             "lon_start": 153.15015,
             "lat_start": -27.42605,
-            "distance": 949.1482835629615,
+            "distance": 50.921664414709,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -16430,7 +16449,7 @@
                     "end_time": 667,
                     "end_lat": -27.50083,
                     "end_lon": 153.0359,
-                    "distance": 416.759400116272,
+                    "distance": 22.26720314724757,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16469,7 +16488,7 @@
                     "end_time": 711,
                     "end_lat": -27.45593,
                     "end_lon": 153.03357,
-                    "distance": 97.32998642417907,
+                    "distance": 5.495441582104427,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16508,7 +16527,7 @@
                     "end_time": 739,
                     "end_lat": -27.47133,
                     "end_lon": 153.0262,
-                    "distance": 50.905104885911335,
+                    "distance": 2.7658062502165306,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16547,7 +16566,7 @@
                     "end_time": 783,
                     "end_lat": -27.48132,
                     "end_lon": 153.03927,
-                    "distance": 54.232442364848325,
+                    "distance": 2.928819999730633,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16586,7 +16605,7 @@
                     "end_time": 820,
                     "end_lat": -27.4256,
                     "end_lon": 153.15023,
-                    "distance": 329.9213497717508,
+                    "distance": 17.46439343540984,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16662,15 +16681,15 @@
             ]
         },
         {
-            "id": 21,
-            "blockId": "B22",
+            "id": 22,
+            "blockId": "B23",
             "dh_st_time": 378,
             "startTime": 378,
             "endTime": 839,
             "dh_end_time": 839,
             "lon_start": 153.15007,
             "lat_start": -27.42602,
-            "distance": 3642.289544608894,
+            "distance": 196.65176206429982,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -16684,7 +16703,7 @@
                     "end_time": 458,
                     "end_lat": -27.46932,
                     "end_lon": 153.02472,
-                    "distance": 353.32259177882145,
+                    "distance": 18.910506253306206,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16723,7 +16742,7 @@
                     "end_time": 506,
                     "end_lat": -27.47163,
                     "end_lon": 153.02648,
-                    "distance": 43.225316317437255,
+                    "distance": 2.310037603741241,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16762,7 +16781,7 @@
                     "end_time": 527,
                     "end_lat": -27.4383,
                     "end_lon": 153.06703,
-                    "distance": 185.57853688230335,
+                    "distance": 9.93539334368487,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16801,7 +16820,7 @@
                     "end_time": 599,
                     "end_lat": -27.50063,
                     "end_lon": 153.03593,
-                    "distance": 176.58856688789936,
+                    "distance": 9.74304549218986,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16840,7 +16859,7 @@
                     "end_time": 617,
                     "end_lat": -27.48728,
                     "end_lon": 153.02963,
-                    "distance": 47.90294817157016,
+                    "distance": 2.609391547090455,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16879,7 +16898,7 @@
                     "end_time": 703,
                     "end_lat": -27.57848,
                     "end_lon": 153.09477,
-                    "distance": 435.81726483935233,
+                    "distance": 23.805886127894418,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16918,7 +16937,7 @@
                     "end_time": 750,
                     "end_lat": -27.57793,
                     "end_lon": 153.11337,
-                    "distance": 102.20377868831793,
+                    "distance": 5.45780489553683,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16957,7 +16976,7 @@
                     "end_time": 754,
                     "end_lat": -27.55833,
                     "end_lon": 153.11832,
-                    "distance": 41.76454954440291,
+                    "distance": 2.369292639513592,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -16996,7 +17015,7 @@
                     "end_time": 777,
                     "end_lat": -27.42563,
                     "end_lon": 153.15023,
-                    "distance": 343.08866747959735,
+                    "distance": 19.006843818585473,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17035,7 +17054,7 @@
                     "end_time": 849,
                     "end_lat": -27.42605,
                     "end_lon": 153.14995,
-                    "distance": 432.09952200563475,
+                    "distance": 23.42849803998336,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17074,7 +17093,7 @@
                     "end_time": 464,
                     "end_lat": -27.43458,
                     "end_lon": 153.0791,
-                    "distance": 212.8130632902213,
+                    "distance": 11.450043479708548,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17113,7 +17132,7 @@
                     "end_time": 458,
                     "end_lat": -27.46932,
                     "end_lon": 153.02472,
-                    "distance": 140.20890536551366,
+                    "distance": 7.4473139902349255,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17152,7 +17171,7 @@
                     "end_time": 505,
                     "end_lat": -27.47143,
                     "end_lon": 153.02613,
-                    "distance": 32.3544298526619,
+                    "distance": 1.7305585566278332,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17191,7 +17210,7 @@
                     "end_time": 583,
                     "end_lat": -27.47878,
                     "end_lon": 153.02303,
-                    "distance": 57.68997818055023,
+                    "distance": 3.1435520938230868,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17230,7 +17249,7 @@
                     "end_time": 569,
                     "end_lat": -27.50065,
                     "end_lon": 153.03592,
-                    "distance": 67.47656274453625,
+                    "distance": 3.674148628182787,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17269,7 +17288,7 @@
                     "end_time": 600,
                     "end_lat": -27.48255,
                     "end_lon": 153.03638,
-                    "distance": 41.82774962251785,
+                    "distance": 2.3536628159169326,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17308,7 +17327,7 @@
                     "end_time": 630,
                     "end_lat": -27.42562,
                     "end_lon": 153.15025,
-                    "distance": 289.1567400014399,
+                    "distance": 15.298695972750934,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17347,7 +17366,7 @@
                     "end_time": 720,
                     "end_lat": -27.44058,
                     "end_lon": 153.12758,
-                    "distance": 82.35186644287143,
+                    "distance": 4.401787896540572,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17386,7 +17405,7 @@
                     "end_time": 751,
                     "end_lat": -27.46883,
                     "end_lon": 153.07147,
-                    "distance": 143.2170702213525,
+                    "distance": 7.581184069850848,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17425,7 +17444,7 @@
                     "end_time": 735,
                     "end_lat": -27.48685,
                     "end_lon": 153.03505,
-                    "distance": 113.61865260930382,
+                    "distance": 6.109891727363758,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17464,7 +17483,7 @@
                     "end_time": 839,
                     "end_lat": -27.42602,
                     "end_lon": 153.14995,
-                    "distance": 299.9827836825889,
+                    "distance": 15.884223071773294,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17668,15 +17687,15 @@
             ]
         },
         {
-            "id": 22,
-            "blockId": "B23",
+            "id": 23,
+            "blockId": "B24",
             "dh_st_time": 431,
             "startTime": 431,
             "endTime": 874,
             "dh_end_time": 874,
             "lon_start": 153.1501,
             "lat_start": -27.42602,
-            "distance": 1639.693551175745,
+            "distance": 87.68437476006726,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -17690,7 +17709,7 @@
                     "end_time": 505,
                     "end_lat": -27.46935,
                     "end_lon": 153.02473,
-                    "distance": 372.3462372634708,
+                    "distance": 19.92267413525756,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17729,7 +17748,7 @@
                     "end_time": 548,
                     "end_lat": -27.47877,
                     "end_lon": 153.02307,
-                    "distance": 52.53343561194168,
+                    "distance": 2.8630756717462176,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17768,7 +17787,7 @@
                     "end_time": 598,
                     "end_lat": -27.5006,
                     "end_lon": 153.03595,
-                    "distance": 66.77172430693369,
+                    "distance": 3.636175933745014,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17807,7 +17826,7 @@
                     "end_time": 567,
                     "end_lat": -27.4869,
                     "end_lon": 153.03505,
-                    "distance": 33.33831960804949,
+                    "distance": 1.8612092083249836,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17846,7 +17865,7 @@
                     "end_time": 651,
                     "end_lat": -27.42602,
                     "end_lon": 153.14997,
-                    "distance": 326.193770031219,
+                    "distance": 17.327706241763195,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17885,7 +17904,7 @@
                     "end_time": 711,
                     "end_lat": -27.45602,
                     "end_lon": 153.0335,
-                    "distance": 335.21206936319504,
+                    "distance": 17.933862009854778,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17924,7 +17943,7 @@
                     "end_time": 790,
                     "end_lat": -27.47133,
                     "end_lon": 153.02627,
-                    "distance": 72.24928894818568,
+                    "distance": 3.89881522080065,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -17963,7 +17982,7 @@
                     "end_time": 778,
                     "end_lat": -27.4812,
                     "end_lon": 153.0377,
-                    "distance": 50.53721155469063,
+                    "distance": 2.741607780032887,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18002,7 +18021,7 @@
                     "end_time": 874,
                     "end_lat": -27.42552,
                     "end_lon": 153.15028,
-                    "distance": 330.5114944880589,
+                    "distance": 17.499248558541964,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18110,15 +18129,15 @@
             ]
         },
         {
-            "id": 23,
-            "blockId": "B24",
+            "id": 24,
+            "blockId": "B25",
             "dh_st_time": 476,
             "startTime": 476,
             "endTime": 870,
             "dh_end_time": 870,
             "lon_start": 153.15358,
             "lat_start": -27.42607,
-            "distance": 1657.4360649694313,
+            "distance": 88.736765714128,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -18132,7 +18151,7 @@
                     "end_time": 487,
                     "end_lat": -27.4693,
                     "end_lon": 153.02478,
-                    "distance": 341.17601893606724,
+                    "distance": 18.253853434663373,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18171,7 +18190,7 @@
                     "end_time": 545,
                     "end_lat": -27.48678,
                     "end_lon": 153.03518,
-                    "distance": 94.53183192026525,
+                    "distance": 5.111268343852793,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18210,7 +18229,7 @@
                     "end_time": 568,
                     "end_lat": -27.42562,
                     "end_lon": 153.1503,
-                    "distance": 312.9715254866743,
+                    "distance": 16.626701128848318,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18249,7 +18268,7 @@
                     "end_time": 665,
                     "end_lat": -27.45602,
                     "end_lon": 153.03352,
-                    "distance": 334.5730404455588,
+                    "distance": 17.902833857333317,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18288,7 +18307,7 @@
                     "end_time": 706,
                     "end_lat": -27.47183,
                     "end_lon": 153.0261,
-                    "distance": 51.702513746871226,
+                    "distance": 2.811507357491402,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18327,7 +18346,7 @@
                     "end_time": 722,
                     "end_lat": -27.48055,
                     "end_lon": 153.0228,
-                    "distance": 73.19410442620708,
+                    "distance": 3.9938098334640273,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18366,7 +18385,7 @@
                     "end_time": 759,
                     "end_lat": -27.50093,
                     "end_lon": 153.03572,
-                    "distance": 69.85309094694877,
+                    "distance": 3.813584075068627,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18405,7 +18424,7 @@
                     "end_time": 842,
                     "end_lat": -27.48152,
                     "end_lon": 153.0398,
-                    "distance": 50.45009715820397,
+                    "distance": 2.8075537925640273,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18444,7 +18463,7 @@
                     "end_time": 870,
                     "end_lat": -27.42565,
                     "end_lon": 153.15027,
-                    "distance": 328.9838419026347,
+                    "distance": 17.41565389084211,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18552,15 +18571,15 @@
             ]
         },
         {
-            "id": 24,
-            "blockId": "B25",
+            "id": 25,
+            "blockId": "B26",
             "dh_st_time": 436,
             "startTime": 436,
             "endTime": 809,
             "dh_end_time": 809,
             "lon_start": 153.15012,
             "lat_start": -27.42603,
-            "distance": 2388.925919856182,
+            "distance": 127.51430650631931,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -18574,7 +18593,7 @@
                     "end_time": 458,
                     "end_lat": -27.46937,
                     "end_lon": 153.02477,
-                    "distance": 349.1692525412674,
+                    "distance": 18.620972202794036,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18613,7 +18632,7 @@
                     "end_time": 467,
                     "end_lat": -27.46948,
                     "end_lon": 153.02463,
-                    "distance": 0.37152154439757623,
+                    "distance": 0.020630527147681366,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18652,7 +18671,7 @@
                     "end_time": 502,
                     "end_lat": -27.42565,
                     "end_lon": 153.15028,
-                    "distance": 349.43721537897346,
+                    "distance": 18.56426711568108,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18691,7 +18710,7 @@
                     "end_time": 563,
                     "end_lat": -27.48055,
                     "end_lon": 153.02283,
-                    "distance": 388.4234682603857,
+                    "distance": 20.631613634379192,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18730,7 +18749,7 @@
                     "end_time": 597,
                     "end_lat": -27.45615,
                     "end_lon": 153.0333,
-                    "distance": 80.95454633020606,
+                    "distance": 4.468830253852284,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18769,7 +18788,7 @@
                     "end_time": 722,
                     "end_lat": -27.42597,
                     "end_lon": 153.1501,
-                    "distance": 353.4790629591423,
+                    "distance": 18.851896411960844,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18808,7 +18827,7 @@
                     "end_time": 729,
                     "end_lat": -27.5005,
                     "end_lon": 153.03588,
-                    "distance": 420.9308012734229,
+                    "distance": 22.478672938537404,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18847,7 +18866,7 @@
                     "end_time": 783,
                     "end_lat": -27.47152,
                     "end_lon": 153.02615,
-                    "distance": 95.92580756591772,
+                    "distance": 5.246038830423332,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18886,7 +18905,7 @@
                     "end_time": 809,
                     "end_lat": -27.42563,
                     "end_lon": 153.15025,
-                    "distance": 350.23424400246915,
+                    "distance": 18.63138459154346,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -18994,15 +19013,15 @@
             ]
         },
         {
-            "id": 25,
-            "blockId": "B26",
+            "id": 26,
+            "blockId": "B27",
             "dh_st_time": 405,
             "startTime": 405,
             "endTime": 785,
             "dh_end_time": 785,
             "lon_start": 153.1501,
             "lat_start": -27.42603,
-            "distance": 1677.9149447311734,
+            "distance": 89.64867471410894,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -19016,7 +19035,7 @@
                     "end_time": 428,
                     "end_lat": -27.46937,
                     "end_lon": 153.02462,
-                    "distance": 352.1975876086394,
+                    "distance": 18.85668895109093,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19055,7 +19074,7 @@
                     "end_time": 518,
                     "end_lat": -27.47885,
                     "end_lon": 153.02302,
-                    "distance": 53.09779560296431,
+                    "distance": 2.8902611189161056,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19094,7 +19113,7 @@
                     "end_time": 537,
                     "end_lat": -27.48123,
                     "end_lon": 153.03787,
-                    "distance": 42.619450008853846,
+                    "distance": 2.2510847378523415,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19133,7 +19152,7 @@
                     "end_time": 593,
                     "end_lat": -27.42565,
                     "end_lon": 153.1503,
-                    "distance": 290.68418790935345,
+                    "distance": 15.379119034859785,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19172,7 +19191,7 @@
                     "end_time": 650,
                     "end_lat": -27.456,
                     "end_lon": 153.03345,
-                    "distance": 336.83668495744155,
+                    "distance": 18.029526613236985,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19211,7 +19230,7 @@
                     "end_time": 686,
                     "end_lat": -27.47177,
                     "end_lon": 153.02605,
-                    "distance": 92.41020443745157,
+                    "distance": 4.998651072582254,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19250,7 +19269,7 @@
                     "end_time": 677,
                     "end_lat": -27.50085,
                     "end_lon": 153.0359,
-                    "distance": 73.44615539972429,
+                    "distance": 4.062380219210801,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19289,7 +19308,7 @@
                     "end_time": 740,
                     "end_lat": -27.4814,
                     "end_lon": 153.03927,
-                    "distance": 50.75357437922743,
+                    "distance": 2.8267873398205388,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19328,7 +19347,7 @@
                     "end_time": 785,
                     "end_lat": -27.42553,
                     "end_lon": 153.1503,
-                    "distance": 385.8693044275174,
+                    "distance": 20.35417562653919,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19436,15 +19455,15 @@
             ]
         },
         {
-            "id": 26,
-            "blockId": "B27",
+            "id": 27,
+            "blockId": "B28",
             "dh_st_time": 436,
             "startTime": 436,
             "endTime": 671,
             "dh_end_time": 671,
             "lon_start": 153.1534,
             "lat_start": -27.42603,
-            "distance": 2025.2548830323028,
+            "distance": 110.05341464142302,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -19458,7 +19477,7 @@
                     "end_time": 478,
                     "end_lat": -27.48678,
                     "end_lon": 153.03522,
-                    "distance": 359.4325187956188,
+                    "distance": 19.156277842566933,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19497,7 +19516,7 @@
                     "end_time": 525,
                     "end_lat": -27.47882,
                     "end_lon": 153.02303,
-                    "distance": 43.92384633978509,
+                    "distance": 2.3436456192313004,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19536,7 +19555,7 @@
                     "end_time": 536,
                     "end_lat": -27.45605,
                     "end_lon": 153.03343,
-                    "distance": 80.48153633627267,
+                    "distance": 4.353604850771901,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19575,7 +19594,7 @@
                     "end_time": 543,
                     "end_lat": -27.47153,
                     "end_lon": 153.0265,
-                    "distance": 50.4829606947143,
+                    "distance": 2.7442745160882698,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19614,7 +19633,7 @@
                     "end_time": 572,
                     "end_lat": -27.50087,
                     "end_lon": 153.03595,
-                    "distance": 73.98777916276345,
+                    "distance": 4.091503006838959,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19653,7 +19672,7 @@
                     "end_time": 679,
                     "end_lat": -27.4873,
                     "end_lon": 153.02963,
-                    "distance": 54.74804031244834,
+                    "distance": 3.0009107011510783,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19692,7 +19711,7 @@
                     "end_time": 655,
                     "end_lat": -27.48123,
                     "end_lon": 153.03928,
-                    "distance": 38.6498462231534,
+                    "distance": 2.0791348274616475,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19731,7 +19750,7 @@
                     "end_time": 745,
                     "end_lat": -27.42602,
                     "end_lon": 153.14997,
-                    "distance": 423.24160902222627,
+                    "distance": 22.293898834001403,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19770,7 +19789,7 @@
                     "end_time": 621,
                     "end_lat": -27.60597,
                     "end_lon": 153.10972,
-                    "distance": 450.34138394680656,
+                    "distance": 25.01412795695851,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19809,7 +19828,7 @@
                     "end_time": 671,
                     "end_lat": -27.426,
                     "end_lon": 153.14997,
-                    "distance": 449.96536219851373,
+                    "distance": 24.976036486353003,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19925,15 +19944,15 @@
             ]
         },
         {
-            "id": 27,
-            "blockId": "B28",
+            "id": 28,
+            "blockId": "B29",
             "dh_st_time": 419,
             "startTime": 419,
             "endTime": 848,
             "dh_end_time": 848,
             "lon_start": 153.1501,
             "lat_start": -27.42605,
-            "distance": 3990.4604667607623,
+            "distance": 213.54222640450445,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -19947,7 +19966,7 @@
                     "end_time": 472,
                     "end_lat": -27.4695,
                     "end_lon": 153.02457,
-                    "distance": 362.7004877238344,
+                    "distance": 19.415575537588083,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -19986,7 +20005,7 @@
                     "end_time": 534,
                     "end_lat": -27.479,
                     "end_lon": 153.0231,
-                    "distance": 51.62106501404605,
+                    "distance": 2.8108151451830894,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20025,7 +20044,7 @@
                     "end_time": 548,
                     "end_lat": -27.45608,
                     "end_lon": 153.03342,
-                    "distance": 80.45830397106802,
+                    "distance": 4.346510393291922,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20064,7 +20083,7 @@
                     "end_time": 628,
                     "end_lat": -27.4256,
                     "end_lon": 153.15025,
-                    "distance": 326.9014724700244,
+                    "distance": 17.47061384493288,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20103,7 +20122,7 @@
                     "end_time": 686,
                     "end_lat": -27.5008,
                     "end_lon": 153.03587,
-                    "distance": 416.5862856909022,
+                    "distance": 22.25676170688185,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20142,7 +20161,7 @@
                     "end_time": 707,
                     "end_lat": -27.48687,
                     "end_lon": 153.03515,
-                    "distance": 35.56209564953799,
+                    "distance": 1.9824680786026128,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20181,7 +20200,7 @@
                     "end_time": 756,
                     "end_lat": -27.47143,
                     "end_lon": 153.0262,
-                    "distance": 66.14812823672644,
+                    "distance": 3.599481290709653,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20220,7 +20239,7 @@
                     "end_time": 743,
                     "end_lat": -27.48065,
                     "end_lon": 153.0355,
-                    "distance": 46.306758823449776,
+                    "distance": 2.536214426019657,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20259,7 +20278,7 @@
                     "end_time": 862,
                     "end_lat": -27.43557,
                     "end_lon": 153.17335,
-                    "distance": 343.9449493729717,
+                    "distance": 18.062513760615843,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20298,7 +20317,7 @@
                     "end_time": 891,
                     "end_lat": -27.42602,
                     "end_lon": 153.14998,
-                    "distance": 79.6132455521716,
+                    "distance": 4.262284670908245,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20337,7 +20356,7 @@
                     "end_time": 409,
                     "end_lat": -27.42602,
                     "end_lon": 153.14997,
-                    "distance": 443.12709960831546,
+                    "distance": 23.804517525302945,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20376,7 +20395,7 @@
                     "end_time": 509,
                     "end_lat": -27.46938,
                     "end_lon": 153.02468,
-                    "distance": 382.9236204214992,
+                    "distance": 20.487127466837872,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20415,7 +20434,7 @@
                     "end_time": 525,
                     "end_lat": -27.48682,
                     "end_lon": 153.03517,
-                    "distance": 64.22886348928614,
+                    "distance": 3.5085229184303572,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20454,7 +20473,7 @@
                     "end_time": 621,
                     "end_lat": -27.42563,
                     "end_lon": 153.15028,
-                    "distance": 312.1570915638397,
+                    "distance": 16.580232846530667,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20493,7 +20512,7 @@
                     "end_time": 694,
                     "end_lat": -27.50062,
                     "end_lon": 153.03593,
-                    "distance": 379.92505163077294,
+                    "distance": 20.32189160896424,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20532,7 +20551,7 @@
                     "end_time": 706,
                     "end_lat": -27.47953,
                     "end_lon": 153.02277,
-                    "distance": 65.98100586964597,
+                    "distance": 3.5925965906542507,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20571,7 +20590,7 @@
                     "end_time": 749,
                     "end_lat": -27.45607,
                     "end_lon": 153.03343,
-                    "distance": 87.00869061990001,
+                    "distance": 4.8033954357170465,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20610,7 +20629,7 @@
                     "end_time": 769,
                     "end_lat": -27.47125,
                     "end_lon": 153.0266,
-                    "distance": 72.82433804443042,
+                    "distance": 3.9349372657583706,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20649,7 +20668,7 @@
                     "end_time": 848,
                     "end_lat": -27.42585,
                     "end_lon": 153.15335,
-                    "distance": 372.44191300834024,
+                    "distance": 19.76576589157488,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20837,15 +20856,15 @@
             ]
         },
         {
-            "id": 28,
-            "blockId": "B29",
+            "id": 29,
+            "blockId": "B30",
             "dh_st_time": 623,
             "startTime": 623,
             "endTime": 873,
             "dh_end_time": 873,
             "lon_start": 153.14988,
             "lat_start": -27.4261,
-            "distance": 1923.5089308125305,
+            "distance": 105.32373017652888,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -20859,7 +20878,7 @@
                     "end_time": 672,
                     "end_lat": -27.38027,
                     "end_lon": 153.03215,
-                    "distance": 389.75352630190946,
+                    "distance": 21.033905351271848,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20898,7 +20917,7 @@
                     "end_time": 710,
                     "end_lat": -27.48565,
                     "end_lon": 152.99247,
-                    "distance": 283.83506575198953,
+                    "distance": 15.719282452271676,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20937,7 +20956,7 @@
                     "end_time": 739,
                     "end_lat": -27.56178,
                     "end_lon": 153.08155,
-                    "distance": 323.4958417849145,
+                    "distance": 17.70164715757304,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -20976,7 +20995,7 @@
                     "end_time": 814,
                     "end_lat": -27.65898,
                     "end_lon": 153.17043,
-                    "distance": 299.64759911817987,
+                    "distance": 16.313203278179984,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21015,7 +21034,7 @@
                     "end_time": 873,
                     "end_lat": -27.42622,
                     "end_lon": 153.14967,
-                    "distance": 626.7768978555371,
+                    "distance": 34.55569193723234,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21091,15 +21110,15 @@
             ]
         },
         {
-            "id": 29,
-            "blockId": "B30",
+            "id": 30,
+            "blockId": "B31",
             "dh_st_time": 393,
             "startTime": 393,
             "endTime": 624,
             "dh_end_time": 624,
             "lon_start": 153.15358,
             "lat_start": -27.42608,
-            "distance": 771.9320171245574,
+            "distance": 41.29257062694206,
             "vehicleEff": "",
             "vehicleModel": "",
             "trips": [
@@ -21113,7 +21132,7 @@
                     "end_time": 406,
                     "end_lat": -27.46933,
                     "end_lon": 153.02473,
-                    "distance": 341.0275283670586,
+                    "distance": 18.246444019244564,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21152,7 +21171,7 @@
                     "end_time": 493,
                     "end_lat": -27.4787,
                     "end_lon": 153.02297,
-                    "distance": 52.52737071967646,
+                    "distance": 2.8576941635363022,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21191,7 +21210,7 @@
                     "end_time": 529,
                     "end_lat": -27.5004,
                     "end_lon": 153.03582,
-                    "distance": 66.21698353995345,
+                    "distance": 3.60920816081956,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21230,7 +21249,7 @@
                     "end_time": 624,
                     "end_lat": -27.4256,
                     "end_lon": 153.15028,
-                    "distance": 312.16013449786897,
+                    "distance": 16.579224283341635,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21298,8 +21317,8 @@
             ]
         },
         {
-            "id": 30,
-            "blockId": "B31",
+            "id": 31,
+            "blockId": "B32",
             "dh_st_time": 634,
             "startTime": 634,
             "endTime": 0,
@@ -21320,7 +21339,7 @@
                     "end_time": 686,
                     "end_lat": -27.45603,
                     "end_lon": 153.03347,
-                    "distance": 334.53820038280276,
+                    "distance": 17.901929600003605,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21359,7 +21378,7 @@
                     "end_time": 686,
                     "end_lat": -27.4715,
                     "end_lon": 153.02613,
-                    "distance": 60.291906249546614,
+                    "distance": 3.2836468008239263,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21398,7 +21417,7 @@
                     "end_time": 702,
                     "end_lat": -27.48117,
                     "end_lon": 153.03743,
-                    "distance": 50.11490574226069,
+                    "distance": 2.717457902137253,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21437,7 +21456,7 @@
                     "end_time": 724,
                     "end_lat": -27.4743,
                     "end_lon": 153.12588,
-                    "distance": 187.68240960756395,
+                    "distance": 9.716008683103935,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21476,7 +21495,7 @@
                     "end_time": 785,
                     "end_lat": -27.42603,
                     "end_lon": 153.15,
-                    "distance": 222.92400149898447,
+                    "distance": 11.971394835089878,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21515,7 +21534,7 @@
                     "end_time": 438,
                     "end_lat": -27.46945,
                     "end_lon": 153.0244,
-                    "distance": 341.61060558397037,
+                    "distance": 18.277149176492735,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21554,7 +21573,7 @@
                     "end_time": 494,
                     "end_lat": -27.45605,
                     "end_lon": 153.03342,
-                    "distance": 44.76567604521413,
+                    "distance": 2.409922280805327,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21593,7 +21612,7 @@
                     "end_time": 541,
                     "end_lat": -27.47158,
                     "end_lon": 153.02612,
-                    "distance": 51.634151079456416,
+                    "distance": 2.8009112271520555,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21632,7 +21651,7 @@
                     "end_time": 562,
                     "end_lat": -27.50058,
                     "end_lon": 153.03595,
-                    "distance": 73.84349278623458,
+                    "distance": 4.083424290556282,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21671,7 +21690,7 @@
                     "end_time": 633,
                     "end_lat": -27.48123,
                     "end_lon": 153.03928,
-                    "distance": 39.07096890791423,
+                    "distance": 2.1004692713947484,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21710,7 +21729,7 @@
                     "end_time": 703,
                     "end_lat": -27.47763,
                     "end_lon": 153.12405,
-                    "distance": 191.02484467873595,
+                    "distance": 9.922308895203628,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21749,7 +21768,7 @@
                     "end_time": 740,
                     "end_lat": -27.43555,
                     "end_lon": 153.17342,
-                    "distance": 168.869616886691,
+                    "distance": 9.022744475274738,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21788,7 +21807,7 @@
                     "end_time": 759,
                     "end_lat": -27.426,
                     "end_lon": 153.14998,
-                    "distance": 80.7819632027562,
+                    "distance": 4.322382487362553,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21827,7 +21846,7 @@
                     "end_time": 505,
                     "end_lat": -27.4694,
                     "end_lon": 153.02477,
-                    "distance": 352.5448244329091,
+                    "distance": 18.87164009999029,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21866,7 +21885,7 @@
                     "end_time": 567,
                     "end_lat": -27.47905,
                     "end_lon": 153.02312,
-                    "distance": 51.74731633317379,
+                    "distance": 2.8165130810544223,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21905,7 +21924,7 @@
                     "end_time": 571,
                     "end_lat": -27.50085,
                     "end_lon": 153.0359,
-                    "distance": 66.82392856653328,
+                    "distance": 3.6453452320941535,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21944,7 +21963,7 @@
                     "end_time": 676,
                     "end_lat": -27.426,
                     "end_lon": 153.14997,
-                    "distance": 323.68273300189173,
+                    "distance": 17.197998636776884,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -21983,7 +22002,7 @@
                     "end_time": 688,
                     "end_lat": -27.45605,
                     "end_lon": 153.03342,
-                    "distance": 334.07541902986014,
+                    "distance": 17.874235676548395,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -22022,7 +22041,7 @@
                     "end_time": 734,
                     "end_lat": -27.47145,
                     "end_lon": 153.02628,
-                    "distance": 50.73019962815318,
+                    "distance": 2.757635499153295,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -22061,7 +22080,7 @@
                     "end_time": 762,
                     "end_lat": -27.47868,
                     "end_lon": 153.02215,
-                    "distance": 55.968068669366495,
+                    "distance": 3.0542142543061175,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -22100,7 +22119,7 @@
                     "end_time": 783,
                     "end_lat": -27.48123,
                     "end_lon": 153.03297,
-                    "distance": 37.81154183222179,
+                    "distance": 2.033463566156677,
                     "eff": "",
                     "direction": 1,
                     "stops": [
@@ -22139,7 +22158,7 @@
                     "end_time": 873,
                     "end_lat": -27.42608,
                     "end_lon": 153.14993,
-                    "distance": 411.3991688309178,
+                    "distance": 21.695933283499706,
                     "eff": "",
                     "direction": 1,
                     "stops": [
