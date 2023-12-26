@@ -22,8 +22,7 @@ class gps_data_utils:
     '''
     @staticmethod
     def read_data(file,cols,date_col,d_format):
-        df = pd.read_csv(file,usecols=cols,parse_dates=date_col,date_format=d_format)
-        return df
+        return pd.read_csv(file,usecols=cols,parse_dates=date_col,date_format=d_format)
     
     '''
     Validate columns exists in the GPS file.
@@ -97,8 +96,7 @@ class gps_data_utils:
     def set_depot_boundary(points_seq,buffer = 0):
         polygon = Polygon([[p.y,p.x] for p in points_seq])
         polygon_buffer = polygon.buffer(buffer,single_sided=True)
-        polygon_df = gpd.GeoDataFrame(geometry=[polygon_buffer],crs='EPSG:4326') # type: ignore
-        return polygon_df
+        return gpd.GeoDataFrame(geometry=[polygon_buffer],crs='EPSG:4326')
     
     '''
     set previous lat long in the df
@@ -114,8 +112,7 @@ class gps_data_utils:
     '''
     @staticmethod
     def df_to_gdf(df,lat='lat',lon='lon',crs = 'EPSG:4326'):
-        gdf = gpd.GeoDataFrame(df,geometry=gpd.points_from_xy(df[lon],df[lat],crs=crs),crs=crs) # type: ignore
-        return gdf
+        return gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df[lon], df[lat], crs=crs), crs=crs)
     
     '''
     Check within the depot or not
