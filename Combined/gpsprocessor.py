@@ -7,12 +7,14 @@ Author: Abhas Dudeja and Durga Lekshmi
 Date: 19th December 2023
 
 '''
-
 import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Polygon
 from math import radians, cos, sin, asin, sqrt
 from joblib import Parallel, delayed
+from osmnx import distance, utils_graph, settings, graph
+settings.use_cache = True
+settings.cache_only_mode = True
 
 class gps_data_utils:
 
@@ -153,5 +155,14 @@ class gps_data_utils:
     @staticmethod
     def blank_filter(df):
         return df
+    
+    @staticmethod
+    def get_network(df):
+        min_lat = min(df['lat'])
+        max_lat = max(df['lat'])
+        min_lon = min(df['lon'])
+        max_lon = max(df['lon'])
+        bounding_box = (min_lat, min_lon, max_lat, max_lon)
+        return graph.graph_from_bbox(bounding_box[0], bounding_box[2], bounding_box[1], bounding_box[3], network_type='drive', simplify=True)
     
 
