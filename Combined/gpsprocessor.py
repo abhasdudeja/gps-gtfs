@@ -162,10 +162,10 @@ class gps_data_utils:
     
     @staticmethod
     def get_network(df):
-        min_lat = min(df['lat'])
-        max_lat = max(df['lat'])
-        min_lon = min(df['lon'])
-        max_lon = max(df['lon'])
+        min_lat = df['lat'].mix()
+        max_lat = df['lat'].max()
+        min_lon = df['lon'].mix()
+        max_lon = df['lon'].max()
         bounding_box = (min_lat, min_lon, max_lat, max_lon)
         return graph.graph_from_bbox(bounding_box[0], bounding_box[2], bounding_box[1], bounding_box[3], network_type='drive', simplify=True)
     
