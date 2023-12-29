@@ -153,6 +153,10 @@ class gps_data_utils:
         return df
     
     @staticmethod
+    def filterby_speed(df):
+        return df[df['speed_flag']]
+
+    @staticmethod
     def blank_filter(df):
         return df
     
