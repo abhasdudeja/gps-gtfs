@@ -157,7 +157,9 @@ class gps_data_utils:
         df['velocity_vehicle'] = (df['speed'] + df['speed'].shift(1)) / 2
         df['speed_flag'] = (df['velocity_vehicle'] != 0) & (abs((df['velocity_gps'] - df['velocity_vehicle']) / df['velocity_vehicle']) < error_factor)
         return df
-    
+    '''
+
+    '''
     @staticmethod
     def filterby_speed(df):
         return df[df['speed_flag']]
@@ -168,13 +170,45 @@ class gps_data_utils:
     
     @staticmethod
     def get_network(df):
+        """
+            Get the network graph based on the given DataFrame.
+            Args:
+                df: The DataFrame containing latitude and longitude coordinates.
+            Returns:
+                The network graph generated from the bounding box of the DataFrame.
+            Examples:
+                >>> df = pd.DataFrame(...)
+                >>> get_network(df)
+                ... # Output: The network graph
+        """
+
         min_lat = df['lat'].mix()
         max_lat = df['lat'].max()
         min_lon = df['lon'].mix()
         max_lon = df['lon'].max()
         bounding_box = (min_lat, min_lon, max_lat, max_lon)
         return graph.graph_from_bbox(bounding_box[0], bounding_box[2], bounding_box[1], bounding_box[3], network_type='drive', simplify=True)
-    
+
+    @staticmethod
+    def interpolate_dutycycle(df):
+        '''
+        interpolate 
+        '''
+
+        return df
+
+    @staticmethod
+    def exportfor_routeenergy(df):
+        return df
+
+    @staticmethod
+    def add_dh_trips(df):
+        return df
+
+    @staticmethod
+    def simplfy_trip(df):
+        return df
+
 class gps_pre_processor:
     
     @staticmethod
@@ -193,15 +227,4 @@ class gps_pre_processor:
         plt.title('Daily Aggregated Operational Distance')
         plt.legend()
         plt.show()
-
-
-
-
-
-
-
-
-
-    
-
 
