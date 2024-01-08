@@ -15,6 +15,7 @@ from geopy.distance import geodesic
 from osmnx import distance, utils_graph, settings, graph
 settings.use_cache = True
 settings.cache_only_mode = True
+import matplotlib.pyplot as plt
 
 class gps_data_utils:
 
@@ -174,4 +175,33 @@ class gps_data_utils:
         bounding_box = (min_lat, min_lon, max_lat, max_lon)
         return graph.graph_from_bbox(bounding_box[0], bounding_box[2], bounding_box[1], bounding_box[3], network_type='drive', simplify=True)
     
+class gps_pre_processor:
+    
+    @staticmethod
+    def daily_agg_operational_dist_km(df):
+        plt.figure(figsize=(12, 6)) 
+        graph_df = df.groupby('start_date').agg({'new_distance': 'sum'}).reset_index()
+        graph_df['new_distance'] = graph_df['new_distance'].round(4)
+        graph_df = graph_df.sort_values(by='start_date')
+        plt.plot(graph_df['start_date'], graph_df['new_distance'], color='blue', label='Distance')
+        median_distance = round(graph_df['new_distance'].median(), 1)
+        plt.axhline(y=median_distance, color='yellow', linestyle='-', linewidth=2, label=f'Median: {median_distance:.1f} km')
+        max_distance = round(graph_df['new_distance'].max(), 1)
+        plt.axhline(y=max_distance, color='red', linestyle='-', linewidth=2, label=f'Maximum: {max_distance:.1f} km')
+        plt.xlabel('Date')
+        plt.ylabel('Distance (km)')
+        plt.title('Daily Aggregated Operational Distance')
+        plt.legend()
+        plt.show()
+
+
+
+
+
+
+
+
+
+    
+
 
