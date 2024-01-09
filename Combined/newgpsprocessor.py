@@ -17,7 +17,7 @@ settings.use_cache = True
 settings.cache_only_mode = True
 import matplotlib.pyplot as plt
 
-class gps_data_utils:
+class gps_data_utils: # GPS Data Processor class name: gps_preprocessor
 
     '''
     Read and return the CSV data.
@@ -146,11 +146,12 @@ class gps_data_utils:
         df['dist_prev_point'] = df.apply(lambda row: round(geodesic((row['lat'], row['lon']), (row['prev_lat'], row['prev_lon'])).kilometers, 4), axis=1)
         return df
     
-    '''
-    Speed flag filter
-    '''
+    
     @staticmethod
     def calculate_speed_flag(df, error_factor):
+        '''
+        Speed flag filter
+        '''
         df['dist_prev_point'] = df.apply(lambda row: round(geodesic((row['lat'], row['lon']), (row['prev_lat'], row['prev_lon'])).kilometers, 4), axis=1)
         df['timediff'] = df.groupby(by=['vehicleid', 'date'])['timestamp'].transform(lambda x: x.diff().dt.total_seconds() / 3600)
         df['velocity_gps'] = df['dist_prev_point'] / df['timediff'].fillna(0)
@@ -213,7 +214,7 @@ class gps_data_utils:
         return df
 
     @staticmethod
-    def add_dh_trips(df):
+    def add_dh_trips(df,depot_location):
         '''
         Function to add dead-head row of depot location if ( start or end ) are not 
         '''
@@ -226,7 +227,7 @@ class gps_data_utils:
         '''
         return df
 
-class gps_pre_processor:
+class gps_pre_processor: # GPS Data Outputs class name: gps_preprocessor_analysis 
     
     @staticmethod
     def daily_agg_operational_dist_km(df):
