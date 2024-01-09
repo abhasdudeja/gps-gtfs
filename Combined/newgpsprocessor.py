@@ -197,22 +197,43 @@ class gps_data_utils:
 
         return df
 
+
+    @staticmethod
+    def depot_locator(df):
+        '''
+        Returns a df of size n x 3 (count, latitude, longitude)
+        '''
+        return df
+
     @staticmethod
     def exportfor_routeenergy(df):
+        '''
+        function helps export files for route energy modelling, i.e., Block Schedule and Duty Cycles.
+        '''
         return df
 
     @staticmethod
     def add_dh_trips(df):
+        '''
+        Function to add dead-head row of depot location if ( start or end ) are not 
+        '''
         return df
 
     @staticmethod
-    def simplfy_trip(df):
+    def simplfy_trip(df,tolerance):
+        '''
+        convert subset df (trip) into LineString and simplify it based on tolerance.
+        '''
         return df
 
 class gps_pre_processor:
     
     @staticmethod
     def daily_agg_operational_dist_km(df):
+        '''
+        Function to plot Daily Aggregate Operational Distance (km)
+        Input: df of pre-calculated/defined Blocks with start_date, new_distance columns
+        '''
         plt.figure(figsize=(12, 6)) 
         graph_df = df.groupby('start_date').agg({'new_distance': 'sum'}).reset_index()
         graph_df['new_distance'] = graph_df['new_distance'].round(4)
