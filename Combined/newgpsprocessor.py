@@ -167,6 +167,9 @@ class gps_data_utils: # GPS Data Processor class name: gps_preprocessor
 
     @staticmethod
     def blank_filter(df):
+        '''
+        Row-by-row check of gps data
+        '''
         return df
     
     @staticmethod
