@@ -9,7 +9,7 @@ Date: 19th December 2023
 '''
 import pandas as pd
 import geopandas as gpd
-from shapely.geometry import Polygon, LineString
+from shapely.geometry import Polygon, Point, LineString
 from geopy.distance import geodesic
 from osmnx import distance, utils_graph, settings, graph
 settings.use_cache = True
@@ -98,10 +98,11 @@ class gps_preprocessor: # GPS Data Processor
     def set_depot_boundary(points_seq,buffer = 0):
         polygon = Polygon([[p.y,p.x] for p in points_seq])
         polygon_buffer = polygon.buffer(buffer,single_sided=True)
-        return gpd.GeoDataFrame(geometry=[polygon_buffer],crs='EPSG:4326')
+        centroid_point = Point(polygon.centroid.x, polygon.centroid.y)
+        return gpd.GeoDataFrame(geometry=[polygon_buffer],crs='EPSG:4326'), centroid_point 
     
     '''
-    set previous lat long in the df
+    Set previous lat long in the df
     '''
     @staticmethod
     def add_prev_latlong(df):
@@ -150,7 +151,7 @@ class gps_preprocessor: # GPS Data Processor
     @staticmethod
     def filterby_speed(df):
         return df[df['speed_flag']]
-
+    
     @staticmethod
     def blank_filter(df):
         '''
@@ -171,28 +172,72 @@ class gps_preprocessor: # GPS Data Processor
                 >>> get_network(df)
                 ... # Output: The network graph
         """
-
         min_lat = df['lat'].mix()
         max_lat = df['lat'].max()
         min_lon = df['lon'].mix()
         max_lon = df['lon'].max()
         bounding_box = (min_lat, min_lon, max_lat, max_lon)
         return graph.graph_from_bbox(bounding_box[0], bounding_box[2], bounding_box[1], bounding_box[3], network_type='drive', simplify=True)
-
+    
     @staticmethod
     def interpolate_dutycycle(df):
         '''
         interpolate 
         '''
-
         return df
     
+    '''
+    Returns the distance between any two points
+    '''
+    @staticmethod
+    def ret_geo_dist_km(p1y,p1x,p2y,p2x):
+        return geodesic((p1y,p1x),(p2y,p2x)).kilometers
+
+    '''
+    Returns a df of size n x 3 (count, latitude, longitude)
+    '''
     @staticmethod
     def depot_locator(df):
-        '''
-        Returns a df of size n x 3 (count, latitude, longitude)
-        '''
-        return df
+        df_gpd = gps_preprocessor.df_to_gdf(df)
+        grouped = df_gpd.groupby('geometry').size().sort_values(ascending=False).reset_index(name='Count')
+        if len(grouped) < 1500000: 
+            factor = 0.01
+            end= int(len(grouped)*factor)
+        else:
+            factor = 0.005
+            end= int(len(grouped)*factor)
+        counts = []
+        other_counts = 0
+        for i in range(0, len(grouped)):
+            if len(counts) < end:
+                if i > 0:
+                    distance = gps_preprocessor.ret_geo_dist_km(grouped['geometry'][i].y,grouped['geometry'][i].x,grouped['geometry'][i-1].y,grouped['geometry'][i-1].x)
+                    if distance > 0.5:
+                        counts.append([[grouped['geometry'][i].y,grouped['geometry'][i].x],grouped['Count'][i]])
+                    else:
+                        other_counts += grouped['Count'][i]
+                else:
+                    counts.append([[grouped['geometry'][i].y,grouped['geometry'][i].x],grouped['Count'][i]])
+            else:
+                other_counts += grouped['Count'][i]
+        counts = pd.DataFrame(counts,columns=['coords','count']).sort_values(by='count',ascending=False).reset_index()
+        counts[['lat', 'lon']] = pd.DataFrame(counts['coords'].tolist(), columns=['lat', 'lon'])
+        counts['lat'] = counts['lat'].astype(float)
+        counts['lon'] = counts['lon'].astype(float)
+        counts_gpd = gpd.GeoDataFrame(counts,geometry=gpd.points_from_xy(counts['lon'],counts['lat']),crs='EPSG:4326')
+        for i in range(len(counts_gpd)):
+            if i in counts_gpd.index:
+                point1 = counts_gpd.iloc[i]
+                for j in range(len(counts_gpd)):
+                    if j in counts_gpd.index:
+                        point2 = counts_gpd.iloc[j]
+                        distance = gps_preprocessor.ret_geo_dist_km(point1['geometry'].y,point1['geometry'].x,point2['geometry'].y,point2['geometry'].x)
+                        if 0.0 < distance < 0.5:
+                            counts_gpd.at[i, 'count'] += counts_gpd.at[j, 'count']
+                            counts_gpd = counts_gpd.drop(j)
+                            counts_gpd = counts_gpd.reset_index(drop=True)
+        counts_gpd = counts_gpd.sort_values(by='count', ascending=False).reset_index(drop=True)
+        return pd.DataFrame(counts_gpd.drop(columns='geometry'))
     
     @staticmethod
     def exportfor_routeenergy(df):
@@ -200,16 +245,39 @@ class gps_preprocessor: # GPS Data Processor
         function helps export files for route energy modelling, i.e., Block Schedule and Duty Cycles.
         '''
         return df
-
-    @staticmethod
-    def add_dh_trips(df,depot_location):
-        '''
-        Function to add dead-head row of depot location if ( start or end ) are not 
-        '''
-        return df
     
     '''
-    convert subset df (trip) into LineString and simplify it based on tolerance.
+    Function to add dead-head row of depot location if ( start or end ) are not in depot location 
+    '''
+    @staticmethod
+    def add_dh_trips(df, centroid_point):
+        depot_lat = centroid_point.y
+        depot_lon = centroid_point.x
+        grouped_df = df.groupby(by=['vehicleid'])
+        all_trips = []
+        for main_key, group in grouped_df:
+            flag = False
+            curr_start = None
+            end = None
+            for index, row in group.iterrows():
+                if row['indepot'] is not True and curr_start is None:
+                    flag = True
+                    curr_start = index
+                elif flag and row['indepot'] is True and curr_start is not None and end is None:
+                    end = index
+                    trip = df.loc[curr_start:end]
+                    new_row = trip.iloc[0].copy()
+                    new_row['lat'], new_row['lon'] = depot_lat, depot_lon
+                    trip = pd.concat([pd.DataFrame([new_row]), trip])
+                    trip = pd.concat([trip, pd.DataFrame([new_row])])
+                    all_trips.append(trip)
+                    curr_start = None
+                    end = None
+        trip_df = pd.concat(all_trips, ignore_index=True)
+        return trip_df
+    
+    '''
+    Convert subset df (trip) into LineString and simplify it based on tolerance.
     '''
     @staticmethod
     def simplfy_trip(df, tolerance):
@@ -223,9 +291,19 @@ class gps_preprocessor: # GPS Data Processor
         linestring_gdf = gpd.GeoDataFrame(pd.concat(line_gdf, ignore_index=True), geometry='geometry', crs='EPSG:4326')
         return linestring_gdf
     
+    @staticmethod
+    def export_speed_flag_df(file, cols, date_col, d_format, depot, error_factor):
+        df = gps_preprocessor.read_data(file,cols,date_col,d_format)
+        df = gps_preprocessor.validate_mandatory_cols(df,'RowReferenceTime','lat','lon','Speed','UnityLicensePlate')
+        df = gps_preprocessor.add_date_time_month_df(df)
+        df = df.groupby(by=['vehicleid','date']).apply(gps_preprocessor.add_prev_latlong).reset_index(drop=True)
+        df = gps_preprocessor.check_veh_within_depot(df,depot)
+        df = gps_preprocessor.calculate_speed_flag(df, error_factor)
+        df.to_csv('speed_flag_df.csv', index=False)
+
     
 class gps_preprocessor_analysis:  # GPS Data Outputs
-    
+
     '''
     Daily Aggregate Operational Distance - km
     '''
@@ -245,7 +323,7 @@ class gps_preprocessor_analysis:  # GPS Data Outputs
         plt.title('Daily Aggregated Operational Distance')
         plt.legend()
         plt.show()
-
+        
     '''
     Daily Aggregate Operational Distance Distribution
     '''
@@ -275,24 +353,6 @@ class gps_preprocessor_analysis:  # GPS Data Outputs
         for bar, percentage in zip(bars, graph_df['percentage']):
             yval = bar.get_height()
             plt.text(bar.get_x() + bar.get_width()/2, yval + 0.05, f'{percentage}%', ha='center', va='bottom')
-        low_outlier_value = graph_df['distance'].iloc[0]
-        high_outlier_value = graph_df['distance'].iloc[-1]
-        most_likely_min = graph_df['distance'].iloc[2]
-        most_likely_max = graph_df['distance'].iloc[-3]
-        plt.axvspan(low_outlier_value, color='red', alpha=0.2, linestyle='dotted', linewidth=2, label='Low Outlier')
-        plt.axvspan(high_outlier_value, color='red', alpha=0.2, linestyle='dotted', linewidth=2, label='High Outlier')
-        plt.axvspan(most_likely_min, most_likely_max, color='red', alpha=0.2, linestyle='dotted', linewidth=2, label='Most Likely')
         plt.xlabel('Daily Agg Ops Distance')
         plt.title('Daily Aggregate Operational Distance Distribution')
         plt.show()
-        
-
-        
-        
-        
-        
-        
-        
-
-
-
