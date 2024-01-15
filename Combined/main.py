@@ -200,15 +200,11 @@ class gps_preprocessor: # GPS Data Processor
     def depot_locator(df):
         df_gpd = gps_preprocessor.df_to_gdf(df)
         grouped = df_gpd.groupby('geometry').size().sort_values(ascending=False).reset_index(name='Count')
-        if len(grouped) < 1500000: 
-            factor = 0.01
-            end= int(len(grouped)*factor)
-        else:
-            factor = 0.005
-            end= int(len(grouped)*factor)
+        factor = 0.01 if len(grouped) < 1500000 else 0.005
+        end= int(len(grouped)*factor)
         counts = []
         other_counts = 0
-        for i in range(0, len(grouped)):
+        for i in range(len(grouped)):
             if len(counts) < end:
                 if i > 0:
                     distance = gps_preprocessor.ret_geo_dist_km(grouped['geometry'][i].y,grouped['geometry'][i].x,grouped['geometry'][i-1].y,grouped['geometry'][i-1].x)
@@ -233,12 +229,12 @@ class gps_preprocessor: # GPS Data Processor
                         point2 = counts_gpd.iloc[j]
                         distance = gps_preprocessor.ret_geo_dist_km(point1['geometry'].y,point1['geometry'].x,point2['geometry'].y,point2['geometry'].x)
                         if 0.0 < distance < 0.5:
-                            counts_gpd.at[i, 'count'] += counts_gpd.at[j, 'count']
+                            counts_gpd.at[counts_gpd[counts_gpd['index'] == point1['index']].index[0], 'count'] += counts_gpd.at[j, 'count']
                             counts_gpd = counts_gpd.drop(j)
                             counts_gpd = counts_gpd.reset_index(drop=True)
         counts_gpd = counts_gpd.sort_values(by='count', ascending=False).reset_index(drop=True)
         return pd.DataFrame(counts_gpd.drop(columns='geometry'))
-    
+
     @staticmethod
     def exportfor_routeenergy(df):
         '''
@@ -273,14 +269,13 @@ class gps_preprocessor: # GPS Data Processor
                     all_trips.append(trip)
                     curr_start = None
                     end = None
-        trip_df = pd.concat(all_trips, ignore_index=True)
-        return trip_df
+        return pd.concat(all_trips, ignore_index=True)
     
     '''
     Convert subset df (trip) into LineString and simplify it based on tolerance.
     '''
     @staticmethod
-    def simplfy_trip(df, tolerance):
+    def simplfy_trip_byvehicle(df, tolerance):
         gdf = gps_preprocessor.df_to_gdf(df)
         gdf_grouped = gdf.groupby(by=['vehicleid'])
         line_gdf = []
@@ -288,8 +283,7 @@ class gps_preprocessor: # GPS Data Processor
             line = LineString(zip(group['lon'], group['lat']))
             simplified_line = line.simplify(tolerance)
             line_gdf.append(gpd.GeoDataFrame({'vehicleid': [group.iloc[0]['vehicleid']], 'geometry': [simplified_line]}, crs='EPSG:4326'))
-        linestring_gdf = gpd.GeoDataFrame(pd.concat(line_gdf, ignore_index=True), geometry='geometry', crs='EPSG:4326')
-        return linestring_gdf
+        return gpd.GeoDataFrame(pd.concat(line_gdf, ignore_index=True),geometry='geometry', crs='EPSG:4326')
     
     @staticmethod
     def export_speed_flag_df(file, cols, date_col, d_format, depot, error_factor):
@@ -308,16 +302,16 @@ class gps_preprocessor_analysis:  # GPS Data Outputs
     Daily Aggregate Operational Distance - km
     '''
     @staticmethod
-    def daily_agg_operational_dist_km(df):
+    def daily_agg_operational_dist_km(df,median_color,max_color,distance_color):
         plt.figure(figsize=(12, 6)) 
         graph_df = df.groupby('start_date').agg({'new_distance': 'sum'}).reset_index()
         graph_df['new_distance'] = graph_df['new_distance'].round(4)
         graph_df = graph_df.sort_values(by='start_date')
-        plt.plot(graph_df['start_date'], graph_df['new_distance'], color='blue', label='Distance')
+        plt.plot(graph_df['start_date'], graph_df['new_distance'], color=distance_color, label='Distance')
         median_distance = round(graph_df['new_distance'].median(), 1)
-        plt.axhline(y=median_distance, color='yellow', linestyle='-', linewidth=2, label=f'Median: {median_distance:.1f} km')
+        plt.axhline(y=median_distance, color=median_color, linestyle='-', linewidth=2, label=f'Median: {median_distance:.1f} km')
         max_distance = round(graph_df['new_distance'].max(), 1)
-        plt.axhline(y=max_distance, color='red', linestyle='-', linewidth=2, label=f'Maximum: {max_distance:.1f} km')
+        plt.axhline(y=max_distance, color=max_color, linestyle='-', linewidth=2, label=f'Maximum: {max_distance:.1f} km')
         plt.xlabel('Date')
         plt.ylabel('Distance (km)')
         plt.title('Daily Aggregated Operational Distance')

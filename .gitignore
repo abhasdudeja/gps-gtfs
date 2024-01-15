@@ -2,5 +2,5 @@
 .devcontainer/
 .vscode/
 output/dtc-rt/dtc-rt-gtfs-output.csv
-Combined/__pycache__/gpsprocessor.cpython-312.pyc
+Combined/__pycache__/
 Abhas/
